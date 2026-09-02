@@ -2,14 +2,14 @@
 set -e
 
 # Color codes
-YELLOW='\033[1;33m' 
-GREEN='\033[0;32m'  
-NC='\033[0m'  
+YELLOW='\033[1;33m'
+GREEN='\033[0;32m'
+NC='\033[0m'
 
 # NDK 26.1.10909125 is required to compile the rust arm library code.
 export ANDROID_NDK_HOME=$HOME/Android/Sdk/ndk/26.1.10909125
 export ANDROID_NDK_ROOT=$ANDROID_NDK_HOME
- 
+
 
 clear
 mkdir -p dist
@@ -30,13 +30,12 @@ echo -e "${YELLOW}Compiling rustyfish (Rust library)...${NC}"
 
 # build native lib
 cd ./native-rusty-fish
-echo "NDK=${ANDROID_NDK_HOME}"
-cargo ndk build --release
+./build.sh
 cd ..
 
 cp ./native-rusty-fish/target/armv7-linux-androideabi/release/librusty_fish.so "./Fish with Attitude_1.0.39/lib/armeabi/librusty_fish.so"
 mkdir -p ./dist/lib/arm
-cp ./native-rusty-fish/target/armv7-linux-androideabi/release/librusty_fish.so ./dist/lib/arm/librusty_fish.so
+cp ./native-rusty-fish/target/armv7-linux-androideabi/release/librusty_fish.so ./dist/lib/arm/libgame.so
 
 echo -e "${YELLOW}Building an apk..${NC}"
 apktool b "./Fish with Attitude_1.0.39" -o "FishWithAttitude_1.0.39_unsigned.apk"

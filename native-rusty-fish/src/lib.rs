@@ -19,6 +19,9 @@ pub extern "system" fn Java_com_helloworld_HelloWorld_hello(
         .into_raw()
 }
 
+const BASE_POPUP_SYMBOL_CONSTRUCTOR_1: &[u8] = b"_ZN9BasePopupC1EP8JSONNode\0";
+const BASE_POPUP_SYMBOL_CONSTRUCTOR_2: &[u8] = b"_ZN9BasePopupC2EP8JSONNode\0";
+
 unsafe fn call_original_and_hook(symbol: &[u8], this: This, json_node: JsonNode) {
     println!("[Proxy] Przechwycono BasePopup! this: {:p}", this);
 
@@ -36,10 +39,10 @@ unsafe fn call_original_and_hook(symbol: &[u8], this: This, json_node: JsonNode)
 
 #[no_mangle]
 pub unsafe extern "C" fn _ZN9BasePopupC1EP8JSONNode(this: *mut c_void, json_node: *mut c_void) {
-    call_original_and_hook(b"_ZN9BasePopupC1EP8JSONNode\0", this, json_node);
+    call_original_and_hook(BASE_POPUP_SYMBOL_CONSTRUCTOR_1, this, json_node);
 }
 
 #[no_mangle]
 pub unsafe extern "C" fn _ZN9BasePopupC2EP8JSONNode(this: *mut c_void, json_node: *mut c_void) {
-    call_original_and_hook(b"_ZN9BasePopupC2EP8JSONNode\0", this, json_node);
+    call_original_and_hook(BASE_POPUP_SYMBOL_CONSTRUCTOR_2, this, json_node);
 }
