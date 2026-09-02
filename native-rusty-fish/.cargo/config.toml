@@ -1,7 +1,4 @@
 [build]
 rustflags = [
-    "-C", "link-arg=-L../lib",             # Wskazuje katalog z libgame_real.so podczas kompilacji
-    "-C", "link-arg=-Wl,-rpath,$ORIGIN",   # Wskazuje ten sam katalog podczas działania na Androidzie
-    "-C", "link-arg=-Wl,--no-as-needed",
-    "-C", "link-arg=-lgame_real"
+    "-C", "link-arg=-Wl,-rpath,'$ORIGIN'",
 ]
