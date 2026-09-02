@@ -38,11 +38,11 @@ unsafe fn call_original_and_hook(symbol: &[u8], this: This, json_node: JsonNode)
 }
 
 #[no_mangle]
-pub unsafe extern "C" fn _ZN9BasePopupC1EP8JSONNode(this: *mut c_void, json_node: *mut c_void) {
+pub unsafe extern "C" fn _ZN9BasePopupC1EP8JSONNode(this: This, json_node: JsonNode) {
     call_original_and_hook(BASE_POPUP_SYMBOL_CONSTRUCTOR_1, this, json_node);
 }
 
 #[no_mangle]
-pub unsafe extern "C" fn _ZN9BasePopupC2EP8JSONNode(this: *mut c_void, json_node: *mut c_void) {
+pub unsafe extern "C" fn _ZN9BasePopupC2EP8JSONNode(this: This, json_node: JsonNode) {
     call_original_and_hook(BASE_POPUP_SYMBOL_CONSTRUCTOR_2, this, json_node);
 }

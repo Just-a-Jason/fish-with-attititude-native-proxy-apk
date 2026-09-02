@@ -33,9 +33,10 @@ cd ./native-rusty-fish
 ./build.sh
 cd ..
 
-cp ./native-rusty-fish/target/armv7-linux-androideabi/release/librusty_fish.so "./Fish with Attitude_1.0.39/lib/armeabi/librusty_fish.so"
+cp ./native-rusty-fish/target/armv7-linux-androideabi/release/librusty_fish.so "./Fish with Attitude_1.0.39/lib/armeabi/libgame.so"
 mkdir -p ./dist/lib/arm
 cp ./native-rusty-fish/target/armv7-linux-androideabi/release/librusty_fish.so ./dist/lib/arm/libgame.so
+cp ./lib/libgame_real.so "./Fish with Attitude_1.0.39/lib/armeabi/"
 
 echo -e "${YELLOW}Building an apk..${NC}"
 apktool b "./Fish with Attitude_1.0.39" -o "FishWithAttitude_1.0.39_unsigned.apk"
