@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Fish with Attitude</string>
+    <string name="google_play_iap_unit">$</string>
+    <string name="game_name">Fish with Attitude</string>
+    <string name="game_name_alt">FishWithAttitude</string>
+    <string name="facebookAppId">237216689701390</string>
+    <string name="facebookAppSecret">e7fa8febfa46b9182621a33476db701c</string>
+    <string name="facebookWallPostLink">http://www.facebook.com/appcenter/littleaquarium</string>
+    <string name="facebookWallPostDescription">"Whether they're Happy or Mean, Flirty or Nerdy, Pop Star or Paparazzi, pair up different fish to get even more unique personalities for your tank!"</string>
+    <string name="facebook_achievement_url">http://cdnhamobile.crowdstar.com/facebook/achievement/pages/%1$s.html</string>
+    <string name="tapjoy_app_id">ab1b088f-52b7-40d5-b9ac-a51606409cc6</string>
+    <string name="tapjoy_secret_key">pdVm2Hpti1YVEaQgM4rm</string>
+    <string name="chartboost_app_id_debug">50940fd717ba47d35f000011</string>
+    <string name="chartboost_app_signature_debug">0487ec66a32f484de914f4dd43d02058bb6b8c40</string>
+    <string name="chartboost_app_id_release">50940f9516ba478b0b00000d</string>
+    <string name="chartboost_app_signature_release">fdb3a2e197a8fe79c76deb1725ffc72da46136b1</string>
+    <string name="hasoffers_advertiser_id">1693</string>
+    <string name="hasoffers_app_key">92b9bd52cd7b17c6a94c7934ad295e11</string>
+    <string name="flurry_api_key">NGBBY7C3Y6Y8FZDQH7GH</string>
+    <string name="new_version_dialog_title">Update Notification</string>
+    <string name="new_version_dialog_message">A New Version Has Been Released.</string>
+    <string name="new_version_dialog_message_force_update">A New Version Has Been Released.Please Update To The Latest Version To Continue Playing.</string>
+    <string name="new_version_dialog_ok">Update Now</string>
+    <string name="new_version_dialog_cancel">Ok</string>
+    <string name="new_version_dialog_cancel_force_update">Exit</string>
+    <string name="sms_body">"I've started playing %1$s on the Android and I think you will like it too! Click here to start playing! http://play.google.com/store/apps/details?id=%2$s"</string>
+    <string name="email_subject">Take the Plunge with %1$s!</string>
+    <string name="email_body">"Check out %1$s! It's in the Google Play! Click here to start playing! http://play.google.com/store/apps/details?id=%2$s"</string>
+    <string name="email_chooser_title">Send your email using:</string>
+    <string name="help_email_recipient">FishHelp@crowdstar.com</string>
+    <string name="help_email_subject">%1$s Feedback (Android)</string>
+    <string name="help_email_body">"Dear CrowdStar, I know you are working hard to make the game better. Here is some feedback for %1$s: 
+Version %3$s:%4$s %5$s %6$s %7$s
+"</string>
+    <string name="twitter_chooser_title">Send your Tweet using:</string>
+    <string name="twitter_easy_tweet">"I'm playing #%1$s on my Android - Everyone should check it out! AppStore: http://play.google.com/store/apps/details?id=%2$s"</string>
+    <string name="wallpaper_description">Fish With Attitude -wallpaper</string>
+    <string name="wallpaper_label">Fish With Attitude -wallpaper</string>
+    <string name="wallpaper_settings_background_title">Background</string>
+    <string name="wallpaper_settings_background_key">BACKGROUND</string>
+    <string name="amazon_store_url">http://www.amazon.com/gp/mas/dl/android?p=%1$s&amp;showAll=1</string>
+    <string name="google_store_url">market://details?id=%1$s</string>
+</resources>

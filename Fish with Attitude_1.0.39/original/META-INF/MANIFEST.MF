@@ -1,0 +1,4509 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android)
+
+Name: assets/iphone_breed_begin_button.png
+SHA1-Digest: 6+jg4W1LFR4K+iCEYvPSALhh6Ys=
+
+Name: assets/iphone_event_leaderboard_filter_1.png
+SHA1-Digest: tXWxJEctq+JrD/q1La8hj2VxPaQ=
+
+Name: assets/iphone_tank_navigation_star_2.png
+SHA1-Digest: eUKFThOzZX56/g4F0NhvQ0AXcWU=
+
+Name: assets/iphone_hud_dig_btn_active-hd.png
+SHA1-Digest: wanWegqNDoU62G/61ndBTkpX6fg=
+
+Name: assets/Sign.png
+SHA1-Digest: JsPQySPDJ4EFfSjTIyOfUItrtXc=
+
+Name: res/drawable/facebook_icon.png
+SHA1-Digest: 9jTbeG4b8nJZlZss16UPfagqlUs=
+
+Name: assets/iphone_tank_btn_indicator_full.png
+SHA1-Digest: egMB61FsIko7xZeGjbMKnRS9HNk=
+
+Name: assets/iphone_popup_bg_levelup_1_pearl.png
+SHA1-Digest: 7TYIlFRs2uqMq3eoXt3qI1Lsi5o=
+
+Name: assets/iphone_hud_context_fish_star_off-hd.png
+SHA1-Digest: VcK789S3NCUx3rA/TvGaAp5sN1Y=
+
+Name: assets/emoticon_mood_2-hd.png
+SHA1-Digest: RrFfmTI+DFV9LGqJpoDRYo66Wlw=
+
+Name: assets/iphone_trait_icon_limitededition-hd.png
+SHA1-Digest: /q4+TH4P4L8aet9aBsmYJmI9a6o=
+
+Name: assets/Loading_egg_sparkle.plist
+SHA1-Digest: x5wy8/50Me1D5OCBFd4351oZf7Y=
+
+Name: assets/ha_mobile_enemy_info_sd.json
+SHA1-Digest: kBiSUMiEnqgKumLEi8r3/NTQ7+M=
+
+Name: assets/iphone_fish_profile_happy_item_dislike_on-hd.png
+SHA1-Digest: 7VxEMCRg40YVdrX9iStdwupCdfg=
+
+Name: assets/iphone_indicator_levelup_button.png
+SHA1-Digest: cFw2WV4T/UrwSE/PtKird5eBOeU=
+
+Name: assets/iphone_tank_navigation_star_2-hd.png
+SHA1-Digest: PTV6y6YZCvRzcwrElAdRZRiLe5M=
+
+Name: assets/iphone_tab_prize-hd.png
+SHA1-Digest: 2/bHyFTSh8IYY5HIQ56bESaX5FY=
+
+Name: assets/iphone_hud_alert_event_button.png
+SHA1-Digest: KdhBl60Az675dY+ud0thzPngZrg=
+
+Name: assets/ha_mobile_ui_settings_sd.json
+SHA1-Digest: dn4MrU+Zw0yU4Ia6eTvM2AxL4zw=
+
+Name: assets/iphone_popup_bg_chest_upgrade-hd.png
+SHA1-Digest: WDkGe3B07DBQ5LoRkwoh68TM5Fo=
+
+Name: assets/iphone_breed_choose_icn_breed.png
+SHA1-Digest: 06wXaQ6ZUDKsW3j2HaVQOMpg6Mw=
+
+Name: assets/iphone_article_bg.png
+SHA1-Digest: s3o819ciY5UaEVdCZOiYDFdRljI=
+
+Name: assets/gold_sparkle.plist
+SHA1-Digest: x1aPF2BOVFNVnvRnAAzF3GEfqaI=
+
+Name: assets/iphone_event_rank_icon_1-hd.png
+SHA1-Digest: cc5WCl0Bpro7KZ2Ir1Zlc+RFVyA=
+
+Name: assets/iphone_popup_bg_sell.png
+SHA1-Digest: G3sssM+2oA9ihCAoUdHdaQTnzMI=
+
+Name: assets/iphone_levelup_button_active.png
+SHA1-Digest: 68/H74I7TZkwE8yurjv1egoBhmI=
+
+Name: assets/iphone_quest_item_bg-hd.png
+SHA1-Digest: nVs6HkIKyjG3io+OCPy9NIj9cLY=
+
+Name: assets/iphone_meter_1_bar.png
+SHA1-Digest: pmSvkv18On5fZ/sTIbXRmv3Mgq8=
+
+Name: assets/iphone_breed_choose_item_btn_active-hd.png
+SHA1-Digest: oSbbXKaj7dr2M/+15KRnxExPVRs=
+
+Name: assets/iphone_filter_treasure_bg_bitmap.png
+SHA1-Digest: eWyPEgAzwIrH0WixxBp3aZCi5vQ=
+
+Name: assets/iphone_store_main_sand_button-hd.png
+SHA1-Digest: cB5nJ1cesWcNb5InnvgUcHsUJUc=
+
+Name: assets/iphone_tank_profile_star_2.png
+SHA1-Digest: AAX8m74VrOHDXUdMsmE16qOlqZc=
+
+Name: assets/Arial Rounded MT Bold White 15-hd.png
+SHA1-Digest: Etc/wV+vs+9+o5sNovsXUBb8fKM=
+
+Name: assets/iphone_logo_cs.png
+SHA1-Digest: k0YAD/lRKLYLFxejj6pKap2+J8c=
+
+Name: assets/iphone_btn_back-hd.png
+SHA1-Digest: IIJqRtM2Kl+lhb/BnzarD8jwUbE=
+
+Name: assets/iphone_fish_profile_icn_happy_2_smaller.png
+SHA1-Digest: Om+CFnmM3agF7oakcvP0vLVSuVM=
+
+Name: assets/iphone_store_all_button.png
+SHA1-Digest: /iECHa75Lyp5Vy/xIn7vaFO4rwk=
+
+Name: assets/iphone_meter_4_bar.png
+SHA1-Digest: YBW0agoeilBZt8bzOgw/zSEeH7g=
+
+Name: assets/iphone_buildtank_bg_bitmap-hd.png
+SHA1-Digest: BZ9CFtL+LFxN5I0q5IzmrrziK54=
+
+Name: assets/iphone_hud_pop_indicator_breed_bitmap.png
+SHA1-Digest: OWqYUy+s2P+mf7PGraXY/MB8xD0=
+
+Name: assets/iphone_btn_6_small_active.png
+SHA1-Digest: gXx7p6sBWXds72L7q2fjyW1iD5Y=
+
+Name: assets/iphone_btn_bg_3_active.png
+SHA1-Digest: +VyrKu0dY8CZB1F6ziI5B4sGjIk=
+
+Name: assets/iphone_tank_placement_06.png
+SHA1-Digest: r4V5CoIoYJb5CHnyqAYXcYEUt8M=
+
+Name: assets/trail_fairy.plist
+SHA1-Digest: wYCasMLYLkToCM9oG+vRv4Dg/FE=
+
+Name: assets/iphone_tank_buy_btn_active.png
+SHA1-Digest: tN6HxDlC3lkMYriDra9pbcuYkAw=
+
+Name: assets/iphone_tank_navigation_button-hd.png
+SHA1-Digest: jQafaUt7BQqqhk3jfXnxRcXl8rI=
+
+Name: assets/haha_sheet.plist
+SHA1-Digest: 2xQBnq3vZboYuExFtx8vYh29gVE=
+
+Name: assets/iphone_friend_div.png
+SHA1-Digest: qSmCKlI9CnUr/vWfHF4xutToDt8=
+
+Name: assets/gossip_4.plist
+SHA1-Digest: xLXz41Pn4STKWdDBMmsaHcB/gOc=
+
+Name: assets/iphone_quest_icn_state.png
+SHA1-Digest: 3+PaCgCv7pk6CkM9o1UHVJw+bYk=
+
+Name: assets/iphone_tank_navigation_indicator_breed.png
+SHA1-Digest: GP8HDY6dlROS2Wj7tnkGdeHwtf0=
+
+Name: assets/iphone_chestupgrade_barfill_bitmap-hd.png
+SHA1-Digest: KfBF1+Rp/IW7Zsg8MPkbaiLLUbg=
+
+Name: assets/iphone_breed_choose_item_btn_breeding-hd.png
+SHA1-Digest: zJESrRllZNn+VNPenLRe8WuVPCo=
+
+Name: assets/iphone_hud_store_btn.png
+SHA1-Digest: YRDOwPvkC2zmi4MU5J1MJ2bwVnE=
+
+Name: assets/iphone_dig_choose_item_btn_disabled-hd.png
+SHA1-Digest: Qr19tsvy3CxNHSRqZGsZzbfyK6g=
+
+Name: assets/iphone_trait_icon_limitededition.png
+SHA1-Digest: FWZ+ucJ01lANShAMiYwq9OCXzqs=
+
+Name: assets/iphone_meter_2_btn_active.png
+SHA1-Digest: IYJrRMazDJdPxKVXDQfHE/764EA=
+
+Name: assets/transmogrify_burst.plist
+SHA1-Digest: 5w7oR8HKCdaXwRztHGvVxHjZnsE=
+
+Name: assets/iphone_tank_navigation_01.png
+SHA1-Digest: mtOsCF5DccD1DAv31PR7Q2rfM+c=
+
+Name: assets/iphone_transparent_box.png
+SHA1-Digest: 8P9zVIbD2hL6gqGOh0mxFOksXjc=
+
+Name: assets/iphone_tank_navigation_marker.png
+SHA1-Digest: 8nzPNTRI06BZHqk3eBKIBs2n0aE=
+
+Name: assets/iphone_logo_fwa.png
+SHA1-Digest: 9uqA4r+/VUlVobsPjH0oAKgLS6Y=
+
+Name: assets/iphone_fish_profile_meter-hd.png
+SHA1-Digest: /2r24S1oTUzfqcRF9ib2QNXLoSk=
+
+Name: assets/ha_mobile_social_alert_popup_sd.json
+SHA1-Digest: HBdhp0tCkVPFCDGFH8dll4BVyQk=
+
+Name: assets/smoke_default.plist
+SHA1-Digest: X83eWEbmdSWct4zSLsWy91Bi3w4=
+
+Name: assets/iphone_popup_fg_announce-hd.png
+SHA1-Digest: cDX3Tr8zW4VxTue9h8fv2X8BW6I=
+
+Name: assets/iphone_ok_button.png
+SHA1-Digest: x8+a12XrwSCK2y3JdnR9uldR4VE=
+
+Name: assets/ha_mobile_buy_tank_sd.json
+SHA1-Digest: kAiO/n9pnFJtrirMcHgZRjQeqX4=
+
+Name: assets/iphone_hud_prop_zoom_2_active_btn-hd.png
+SHA1-Digest: HHs343e9JhTVCSdOfnz3eW0IyPI=
+
+Name: assets/iphone_hud_egg_warning_down_button.png
+SHA1-Digest: wizmbFciJSBIAF4ykeKgjPUVKgY=
+
+Name: assets/iphone_event_inset_1.png
+SHA1-Digest: Chag3io9UyMviLebWxniaomyzdk=
+
+Name: assets/iphone_hud_feed_inicator_bg-hd.png
+SHA1-Digest: zvNH3hmTfi/smwg7uYVyDI0fmSc=
+
+Name: assets/FightCloud.plist
+SHA1-Digest: kxO+vYMrKFpxhbXHGazsH2j5Iac=
+
+Name: assets/iphone_popup_bg_fish_profile_decor_2-hd.png
+SHA1-Digest: LgiMH3Az4XocT5b4lqZdhvE5CH4=
+
+Name: assets/iphone_event_rank_icon_1_big-hd.png
+SHA1-Digest: eIIgEu0MyESHGosbeCxW3sFu184=
+
+Name: assets/iphone_tank_placement_breed_btn_active-hd.png
+SHA1-Digest: DK5v6L1vJyVTxF0mgbgUdcuu8aU=
+
+Name: assets/iphone_event_rank_icon_2_small.png
+SHA1-Digest: o5h4URFMX1h+CxC664W5BrXGO9s=
+
+Name: assets/iphone_popup_fg_social-hd.png
+SHA1-Digest: EVk+ZrBNdyPVxF4mguUnPn14IJg=
+
+Name: assets/iphone_popup_bg_breed_new_fish_button.png
+SHA1-Digest: caZ9OVG6trmW7oqAncE9n9rqB8c=
+
+Name: assets/Arial Rounded MT Bold Brown 12.png
+SHA1-Digest: aNvBI/wCto7G1QBwfC1j9RVbZOU=
+
+Name: assets/iphone_store_main_idol_button_active-hd.png
+SHA1-Digest: tsWHyUZSGrhTbL5DMq5GxisZNOM=
+
+Name: assets/Icon.png
+SHA1-Digest: 1pnH8d6Ji62giHyduO4jzWFZmGM=
+
+Name: assets/disco_ball_sheet.plist
+SHA1-Digest: IjdK4GCYd3Jz6KvQPwznxnpN8s0=
+
+Name: assets/iphone_tank_profile_decobar_fill_bitmap.png
+SHA1-Digest: KDC50fSkUJlph1RUUK2DWGW5T9U=
+
+Name: assets/iphone_settings_off_button-hd.png
+SHA1-Digest: PWeUp8MSJqO1ehz1NZ72fprtkpw=
+
+Name: assets/iphone_tank_buy_btn_active-hd.png
+SHA1-Digest: 3XDNnOmZoiPoy3rsG8BUzB2k3HU=
+
+Name: assets/iphone_tank_profile_icn_happy_2-hd.png
+SHA1-Digest: ZwD3rVoBE1OyA68oNh/JXH5AbmM=
+
+Name: assets/iphone_event_rank_icon_2.png
+SHA1-Digest: 5PQ4lGHWdIA5D+H/KTZqC3gm+es=
+
+Name: assets/iphone_levelup_button_active-hd.png
+SHA1-Digest: 56kWqew7BL1TyMrC8hxjuOmXNss=
+
+Name: assets/gossip_1.plist
+SHA1-Digest: RgTQ2G02gze0uZmcdpRMHZ6LoDY=
+
+Name: assets/iphone_tank_profile_icn_happy_4-hd.png
+SHA1-Digest: vYFqPy6E9wpiWD2Y8e2SiwySZ9c=
+
+Name: assets/iphone_back_button.png
+SHA1-Digest: SPAZ5EHhsTwxxOLqeS6rFkWRuyU=
+
+Name: assets/emoticon_mood_4.png
+SHA1-Digest: BZhnli+GrWhPvX5/lKc5445dYjg=
+
+Name: assets/iphone_event_prize_bg.png
+SHA1-Digest: QIImq2my7TMpoWApFgIUzB5/Wd4=
+
+Name: assets/iphone_nuf_2.png
+SHA1-Digest: F0o2hz8rmGxeM6O5F6S4IaBxfp0=
+
+Name: assets/iphone_hud_chest_collect_btn-hd.png
+SHA1-Digest: y2bZ0cnCwjSakSfcVNS5wKQcpyg=
+
+Name: assets/Barlow Yellow 25-hd.fnt
+SHA1-Digest: XsFInNudJhu2msmOf6ZZuzhWLxk=
+
+Name: assets/iphone_btn_6_small_active-hd.png
+SHA1-Digest: xImjA1MhAzqDdEqwu/Bd0EcLlBE=
+
+Name: assets/iphone_dig_choose_item_btn_disabled.png
+SHA1-Digest: 68ze3+DTEu/ILPMzrQDdm3dCL8I=
+
+Name: assets/iphone_btn_back_active.png
+SHA1-Digest: ggbTYAjuTvJxjhyeUdSHO4Rh+CA=
+
+Name: assets/iphone_quest_reward_xp_bitmap.png
+SHA1-Digest: OQD99jXqzu/6ovWfMnPNQJw0P6U=
+
+Name: assets/Particle_Dot.png
+SHA1-Digest: Ngua3K0eum5TmWfebLEYgjR6bYc=
+
+Name: assets/iphone_popup_bg_fish_profile_dislike.png
+SHA1-Digest: 4R57e5ZmRa1mfbXwwIGhwLdnCFc=
+
+Name: assets/iphone_breed_choose_start.png
+SHA1-Digest: o7NQ/PuY1uFd+Q7flxi6bj+L5ys=
+
+Name: assets/Arial Rounded MT Bold Brown 16.fnt
+SHA1-Digest: Dp0OQHYYlU9H6+QqaG/t/hEskzc=
+
+Name: assets/Clam_Open_Gray-hd.png
+SHA1-Digest: /h6MnH2RMPk9Ir8tkxU7S1vmSdk=
+
+Name: assets/PumpkinJF White 11-hd.png
+SHA1-Digest: vMSZRkwwkfzkkIlBwKZMFUx6msE=
+
+Name: assets/iphone_tank_placement_bg.png
+SHA1-Digest: suAVNpvQ7HmDCy5oF5Fklf+PLn4=
+
+Name: assets/iphone_popup_bg_fish_locked-hd.png
+SHA1-Digest: f0qXtFzTIrz1jfoGcVnl3vtoUpY=
+
+Name: assets/Arial Rounded MT Bold White 11.png
+SHA1-Digest: 3mK4374oeQJ5Cl/soQJ3HCZWFL4=
+
+Name: assets/fairy_burst.plist
+SHA1-Digest: myQkrQ+XHnl7egWrjNhdUO+kwPE=
+
+Name: assets/iphone_event_rank_icon_4.png
+SHA1-Digest: ZYmAG5z/PMW4RHSjfA8E9VE2cpA=
+
+Name: assets/iphone_store_wallpaper_active_button.png
+SHA1-Digest: 7bEnnbgylRSWaqJ9RvGJUuo9OK8=
+
+Name: assets/iphone_store_main_babyfish_button-hd.png
+SHA1-Digest: qOFMr5selCVYaXX/bF1obFSI6eU=
+
+Name: assets/iphone_indicator_levelup_button-hd.png
+SHA1-Digest: 4oEQtn7eaQCWBXhAGFUKUoE2gCw=
+
+Name: assets/iphone_filter_decorations_bg_bitmap-hd.png
+SHA1-Digest: 2IwOw/8nedofH3IIR+SHoIRIh00=
+
+Name: assets/iphone_article_img_bg_1.png
+SHA1-Digest: RiwMvJjbq6gZIfAz7CcD+FFDoj8=
+
+Name: assets/iphone_event_rank_icon_4_big-hd.png
+SHA1-Digest: 0CrnGa4u5gkPUshA0ZRNT2AYmGk=
+
+Name: assets/iphone_tank_breed_buy_btn_active-hd.png
+SHA1-Digest: vP8cQPSiLpdVVp+ssZPmLb+2yVo=
+
+Name: assets/iphone_popup_bg_fish_sell.png
+SHA1-Digest: 0E5Djgk1hQRiGm0wxoiWJ5OBdZ4=
+
+Name: assets/CONFIG.json
+SHA1-Digest: VMVQtnyx0zoIVXtdel5SGD97zUs=
+
+Name: assets/ha_mobile_achievement_alert.json
+SHA1-Digest: C+ra+xS7vn+zWecH+KEtQx108F0=
+
+Name: assets/iphone_breed_choose_item_btn_hungry-hd.png
+SHA1-Digest: Bu0ESt+HTO3O0NHKfI3a3G9Jlw4=
+
+Name: assets/iphone_alert_pearl-hd.png
+SHA1-Digest: iNOn0AgOD82jdf5mWMSecQ0cyOI=
+
+Name: assets/iphone_tip_bg_2-hd.png
+SHA1-Digest: x7mkJGPPseeRnLe+xTGl1SvrelA=
+
+Name: assets/iphone_fullscreen_container.png
+SHA1-Digest: z78x21umrZaCn+gEk5W9oXJ+ojM=
+
+Name: assets/iphone_breed_meter_bg.png
+SHA1-Digest: 31X4M4Ic0WnrXI/7bxUb68yNey0=
+
+Name: assets/soot_particle.png
+SHA1-Digest: OFByajjjKnyjpQKO3YPDvxTboYA=
+
+Name: assets/iphone_store_main_treasure_button_active.png
+SHA1-Digest: BHP8msIGirAM42EWJHehQ0Y5ttQ=
+
+Name: assets/iphone_breed_meter_bar-hd.png
+SHA1-Digest: iTsW7+zBoMVhGMICO9llE+XgAO4=
+
+Name: assets/iphone_meter_1_bar_alt-hd.png
+SHA1-Digest: yZeEu2FFyyGi0WeqmCkaO/ZQliQ=
+
+Name: assets/Arial Rounded MT Bold Brown 12-hd.png
+SHA1-Digest: 7qusKNx2Wo4eVyKoSnjTw50lpNQ=
+
+Name: assets/iphone_hud_store_active_btn.png
+SHA1-Digest: OzDWdRxwvopiCsnI/AH2efEp28o=
+
+Name: assets/iphone_fish_profile_meter_happy_3-hd.png
+SHA1-Digest: YqSmMljBfZfvzpmQm/fqsx17xv0=
+
+Name: assets/iphone_popup_bg_fish_profile_like_1.png
+SHA1-Digest: 4R57e5ZmRa1mfbXwwIGhwLdnCFc=
+
+Name: assets/iphone_tank_placement_08-hd.png
+SHA1-Digest: CwAJxH841pH0bIKnVS5zsYOy1QE=
+
+Name: assets/iphone_popup_bg_rating-hd.png
+SHA1-Digest: RmEN0Ol6maeVvUt7mWQ7VWDD4wE=
+
+Name: assets/iphone_tip_bg_3.png
+SHA1-Digest: LIAA6lwtjzM+ZYVn8+Y3J8Mk8n4=
+
+Name: assets/ha_mobile_tank_level_up_popup_sd.json
+SHA1-Digest: gUF/3zomCayqCdWrVU5Z+PiGIrU=
+
+Name: assets/iphone_store_main_idol_button.png
+SHA1-Digest: EyAaXmvENoGZ2dyg4GyhL3/fjYU=
+
+Name: assets/iphone_achievement_alert_1-hd.png
+SHA1-Digest: Jr+d8dG3mtAaTb4XRgyRphRMo4w=
+
+Name: assets/iphone_meter_1_bg_a.png
+SHA1-Digest: RIL0dA9eo1klvoV8gtgghbzPBVo=
+
+Name: assets/iphone_meter_4_bg-hd.png
+SHA1-Digest: pp+6AV/zgxU27mIfqXD76FmWJE8=
+
+Name: assets/iphone_hud_food_btn.png
+SHA1-Digest: nxPnq6j/7ADHHYcplCVsiCuBqrM=
+
+Name: assets/iphone_event_filter_btn_2_active.png
+SHA1-Digest: L0t8k1pw17U4rIFrWILvRCA2hvY=
+
+Name: assets/iphone_social_btn_facebook.png
+SHA1-Digest: 6RLgX1Yw0aA3WiHZEn+CmeTu0Is=
+
+Name: assets/iphone_event_filter_btn_1_active-hd.png
+SHA1-Digest: i5eekpWpUu39SSXTbyd4BOT9Zz8=
+
+Name: assets/disco_ball_sheet.png
+SHA1-Digest: nIPN+2gzFJhLIdO1h5Rez36FOZA=
+
+Name: assets/breedingTank_default.png
+SHA1-Digest: 6xuAJEtIvlcCtef9caFCACN1v6c=
+
+Name: assets/iphone_population_indicator_breed.png
+SHA1-Digest: 94Br+KObDzMSXKd1SBK7uoNl/a4=
+
+Name: assets/iphone_tip_bigcollect_button.png
+SHA1-Digest: AH0G2BrnP9lyfVPFYl9Bmw2wLAo=
+
+Name: assets/iphone_store_item_tank-hd.png
+SHA1-Digest: LS5bhMx5iPfIWBb0Nig3FhVsZvk=
+
+Name: assets/Sand_Particle.png
+SHA1-Digest: DBiIRism162Fj/YqCtb1aVU8CF0=
+
+Name: assets/bats_sheet.plist
+SHA1-Digest: NBaSCsHyWWPVvjrIHKyfaH5UMBw=
+
+Name: assets/confetti.plist
+SHA1-Digest: xwYvyef5/lovfvcJJTIob6EidpQ=
+
+Name: assets/ha_mobile_new_baby_popup_sd.json
+SHA1-Digest: Ypf5UQGKbt+yKs+n/TeZfiuszNE=
+
+Name: assets/iphone_tank_navigation_03.png
+SHA1-Digest: /iD2WK39HRGFT6+Nz7qSabxOFRQ=
+
+Name: assets/pearls_to_coins.png
+SHA1-Digest: sGWHAEocML+AyBlRcQepdzzRs7s=
+
+Name: assets/iphone_popup_bg_tank_levelup.png
+SHA1-Digest: LTYT0JRafSOv8YCKW0v7t7kBkFI=
+
+Name: assets/iphone_hud_store_active_btn-hd.png
+SHA1-Digest: UDYOd7TcqLULRuQ7bHxyDQJlXNc=
+
+Name: assets/iphone_settings_audio_off_button.png
+SHA1-Digest: 1Gq2KYTszghrTg+3YBUWb4w3dns=
+
+Name: assets/iphone_breed_close_active_button-hd.png
+SHA1-Digest: TI7MGskDNjFlebe0K21/TftApz8=
+
+Name: assets/iphone_store_info button.png
+SHA1-Digest: 4HyKPvGDkb7+yk/P2JmpEt7/4nc=
+
+Name: assets/HA_Effects_LightRays_Still.png
+SHA1-Digest: 2MnRLDiNBlyUFLMY+klMOCGsC6E=
+
+Name: assets/iphone_store_wallpaper_active_button-hd.png
+SHA1-Digest: ZBWU0IXnUUQFviGXBR8c1LWXWTA=
+
+Name: assets/iphone_fish_profile_train_icn_1.png
+SHA1-Digest: 9PhX1pxHv0KrrsNjycarfANlzZI=
+
+Name: assets/iphone_tank_navigation_06.png
+SHA1-Digest: CRez/P690S+cX/rbFCOt6AYGTrA=
+
+Name: assets/iphone_popup_bg_fish_sell-hd.png
+SHA1-Digest: HfKjwowccnYo+lCD8fqh7Bog52I=
+
+Name: res/drawable-xhdpi/close.png
+SHA1-Digest: 0IaTuYpHdwNgyn8PrCfM4P1LSUM=
+
+Name: assets/store_coins_5.png
+SHA1-Digest: 1WGfRzxDEKnrGffAoHD3YLGoBtg=
+
+Name: assets/store_pearls_5.png
+SHA1-Digest: 5+xRlLNGd5n599w6BQMErd16hvQ=
+
+Name: assets/iphone_inset_trait_b-hd.png
+SHA1-Digest: 4wc1CBBR3Jroh2gcI476nmnHm2A=
+
+Name: assets/iphone_fish_profile_meter_happy_2.png
+SHA1-Digest: sjaG93V/ZnVev6qZuHs16yPoFlo=
+
+Name: assets/iphone_tank_navigation_star_3_inset.png
+SHA1-Digest: hpHdojA/cuVuDmT/3Pc05EAFzLw=
+
+Name: assets/Arial Rounded MT Bold 16px.png
+SHA1-Digest: eaYUJMDagj+Y3yc7b2Lmxss19U4=
+
+Name: assets/iphone_meter_1_btn-hd.png
+SHA1-Digest: jSjTh25fAm9IGKIQ1ptpJKoacns=
+
+Name: assets/iphone_achievement_icn_2-hd.png
+SHA1-Digest: v//8Ea5bvJ8I3aHG24YYZrGu0rk=
+
+Name: assets/Arial Rounded MT Bold White 15-hd.fnt
+SHA1-Digest: vftiMlE/0sxpJgj5XRyVyZOsMeA=
+
+Name: assets/iphone_indicator_grownup_button.png
+SHA1-Digest: C6k3S4fJEZCQqcg5lzsxDkK1uD4=
+
+Name: assets/iphone_fling_distance_button-hd.png
+SHA1-Digest: BFlr7IaHRHHlGzafjFwKmg9Psaw=
+
+Name: assets/iphone_Fight_Star.png
+SHA1-Digest: ZCE+mKs0ZBL5nU+fW4Fj1ZbfqmQ=
+
+Name: assets/iphone_social_btn_facebook-hd.png
+SHA1-Digest: nrjIq8teba/2654eKCgcYCYY+ZI=
+
+Name: assets/iphone_fullscreen_bg.png
+SHA1-Digest: fXJ/LBj0rbG1Lcy/TIcGVBPmXLo=
+
+Name: assets/Particles_Fairy_BlurDot.png
+SHA1-Digest: UUsT81BylbLlfpTssAmZi91qfdU=
+
+Name: assets/iphone_btn_bg_2-hd.png
+SHA1-Digest: +QrXmbz57Q/Ks3gTJ5nM3Bx1f+4=
+
+Name: assets/iphone_event_details_img_bg.png
+SHA1-Digest: UX4C9J6UBAQrfwEeHfFxWqXlxA4=
+
+Name: assets/iphone_icn_store_sticker.png
+SHA1-Digest: zTYFXDrhmc5Mz5O1+cqegCuStUA=
+
+Name: assets/coinSpin_default.plist
+SHA1-Digest: mSDVTCyZ6Yta43i8H6dKbq1qir4=
+
+Name: assets/iphone_popup_bg_breed_build-hd.png
+SHA1-Digest: +JF/Hs2tGtY3hFmhrw0BIZGnddk=
+
+Name: assets/icn_lock-hd.png
+SHA1-Digest: 2DV6ymPKoCoEUihsfs6iDZEtuOk=
+
+Name: assets/iphone_popup_bg_sell-hd.png
+SHA1-Digest: jhXgv/IsLNMoID7O6ROT1kYTLCI=
+
+Name: assets/iphone_popup_bg_photo_ipad-ipadhd.png
+SHA1-Digest: X6exGGUWsgZNk+qWMJtNa81yAzQ=
+
+Name: assets/iphone_breed_close_button.png
+SHA1-Digest: xQUyA1upXV9qxybMN8L7U4TpfGM=
+
+Name: assets/iphone_btn_back.png
+SHA1-Digest: LmVnCoQ2UUhdcwy9YZX40Z8x1L8=
+
+Name: assets/iphone_tab_fish_new-hd.png
+SHA1-Digest: 2r4RZHAcHNCqkfJ7+BwXPynmpeI=
+
+Name: assets/iphone_indicator_upgrade_button.png
+SHA1-Digest: pvoEMPdwqG7yAR57CQ0pTjOUis8=
+
+Name: assets/Sounds/splash.wav
+SHA1-Digest: Z/exYhrv74NWS+QNnCQrh/l9yNA=
+
+Name: assets/iphone_store_main_tank_button_active.png
+SHA1-Digest: xPuukrI/DsdqkVl7WAEkJOmJC+Q=
+
+Name: assets/iphone_Swipe_Arrow-hd.png
+SHA1-Digest: Q1NtnEZmj3q/J/9YNvdiDbr1CPE=
+
+Name: assets/iphone_tank_navigation_star_2_inset.png
+SHA1-Digest: DMNLJ0o22KGS/QVeMoleEheF6P0=
+
+Name: assets/iphone_popup_bg_breed_new_fish_1.png
+SHA1-Digest: IcOkHYgXFZMo8CHjGMvzOtsN+Y4=
+
+Name: assets/iphone_hud_social_active_btn.png
+SHA1-Digest: L42KsJzatFpvE2bznvoFTrGO3pg=
+
+Name: assets/iphone_popup_bg_levelup_1_pearl-hd.png
+SHA1-Digest: 2FEBHLFVaLIbty5rHMOvNq7TXWo=
+
+Name: assets/trail_devil_particles.plist
+SHA1-Digest: JkhSVEgXnWPLGcPTwach7wsu22s=
+
+Name: assets/iphone_tank_navigation_breed_02.png
+SHA1-Digest: bqUXoS3s+KUP1l3VLmWGtClSZSM=
+
+Name: assets/ha_mobile_speedup_popup_sd.json
+SHA1-Digest: 6l7SZKZG7VD5tov7YJVtdR1nYA8=
+
+Name: assets/BG_Wallpaper_LockedBreeding.png
+SHA1-Digest: jcYzOHKdUygBaKlKXZBQ6MwW8KU=
+
+Name: assets/iphone_tank_placement_breed_01-hd.png
+SHA1-Digest: ylWmlZkdjwnKtx126ow2xX2PB1Y=
+
+Name: assets/gossip_3.plist
+SHA1-Digest: ub6wBQV50cN9vNRUnMSACU6OLrY=
+
+Name: assets/iphone_store_main_tapjoy_button-hd.png
+SHA1-Digest: qMzybVwnTmbArG6WoPcdZnW8SIc=
+
+Name: assets/iphone_popup_fg_dig.png
+SHA1-Digest: IEBOLYjn27vo/jslfqGZjEvKqbk=
+
+Name: assets/iphone_hud_settings_active_btn.png
+SHA1-Digest: kSFfn8Izspp8dLzh7fDMwfJmlkU=
+
+Name: assets/iphone_tank_placement_btn_active-hd.png
+SHA1-Digest: Z1T7eMWHEqZM5w9nuE+Qoretabk=
+
+Name: assets/confetti_training.plist
+SHA1-Digest: pP5pJ2GODaR7KQZG5hMvUaNGWZY=
+
+Name: assets/iphone_hud_dig_btn_active.png
+SHA1-Digest: V2XswxoHNR2DxJ+T2VDARcH+qbE=
+
+Name: assets/confetti_red.plist
+SHA1-Digest: xFir8lJkwezRbsRZFPxBJgi85C8=
+
+Name: assets/iphone_event_progress_icon_1-hd.png
+SHA1-Digest: W9+Rg7EZI44CtJe0c/vVuhpXHaU=
+
+Name: assets/HA_Plants.png
+SHA1-Digest: hWH4TpWL1eVCpC4ORf18vqiIlg4=
+
+Name: assets/store_pearls_6-hd.png
+SHA1-Digest: pDFq5+AIhRDPXXZUdE98Jn/LEz4=
+
+Name: assets/iphone_levelup_button.png
+SHA1-Digest: LDzNvQ3//jUX12ledK5xu3BnLoc=
+
+Name: assets/iphone_icn_store_sticker-hd.png
+SHA1-Digest: mYS/xaDXaMz7FrbcdqDNaq5IiE4=
+
+Name: assets/Arial Rounded MT Bold 16px.fnt
+SHA1-Digest: SskDtUQXCSCvd4oQgCgoa+Pjvhk=
+
+Name: assets/iphone_social_btn_email-hd.png
+SHA1-Digest: 5CPHlkJrxIVD5XDY215EXuiDRUA=
+
+Name: assets/iphone_social_dig_icn_breed-hd.png
+SHA1-Digest: go0710GltPXd3j51oO35TzE4ZRA=
+
+Name: assets/iphone_tank_placement_breed_indicator_empty-hd.png
+SHA1-Digest: psPyZkRSvgX+aMLflJ7W5w7MaHc=
+
+Name: assets/iphone_popup_bg_store_info-hd.png
+SHA1-Digest: AIhUF3csjJodjfpHe8nlk3yNykM=
+
+Name: assets/iphone_popup_bg_levelup-hd.png
+SHA1-Digest: 62jcxQpF7gWo4iMn75cGuOTHvBE=
+
+Name: assets/iphone_store_sands_active_button.png
+SHA1-Digest: 2gVYYi3BARdGvKwMB6M93MeiyZg=
+
+Name: assets/iphone_store_main_decoration_button_active-hd.png
+SHA1-Digest: hhvkNqxKMZaclMR3qxFiiyw413I=
+
+Name: assets/exclamation_point_sheet.png
+SHA1-Digest: W/GrpJzUFUvTqQJPkVJHopsz9z8=
+
+Name: assets/iphone_tank_navigation_star_2_inset-hd.png
+SHA1-Digest: uYhvC6GhQyQ14nhd+T/fWeeKngA=
+
+Name: assets/iphone_breed_choose_start_inactive-hd.png
+SHA1-Digest: +lxg/raLWUp59hqbPP0YqnG7b2c=
+
+Name: assets/Icon-Small-50.png
+SHA1-Digest: oNAWwC5fLIpIo8gAqAN2E2K044I=
+
+Name: assets/Barlow Blue 25-hd.png
+SHA1-Digest: ZqkDdLOg0bGr26ac3SRDR18RQ0A=
+
+Name: assets/iphone_meter_1_bg_b-hd.png
+SHA1-Digest: fyrq7qrFEYd65VBcQSfNOd9zEv4=
+
+Name: assets/iphone_quest_icn_generic.png
+SHA1-Digest: asm14s7M7imxZ9yMItIuxGZv+zk=
+
+Name: assets/iphone_tank_navigation_star_1_inset-hd.png
+SHA1-Digest: FyYQrruu2fbx9O4VRhoY/9UWt5M=
+
+Name: assets/emoticon_mood_3-hd.png
+SHA1-Digest: iRoAk8+qh2a7VM7TwDb+qxtJpTA=
+
+Name: assets/ha_mobile_breed_choose_sd.json
+SHA1-Digest: gNDXCeRiy2uWPwQEPCUu2Bp7ajo=
+
+Name: assets/iphone_hud_nudge_btn.png
+SHA1-Digest: C6zvMlFlNmNXDWH/2ab4+EuMhfc=
+
+Name: assets/iphone_quest_icn_happy.png
+SHA1-Digest: n/GcySoRnBH7wLkgoCFU5uuZBNw=
+
+Name: assets/iphone_hud_alert_gift_active_button-hd.png
+SHA1-Digest: dX6W+B7xruoX88ZeUfeXt5J/ypA=
+
+Name: assets/iphone_settings_audio_on_button.png
+SHA1-Digest: s9Uc/vyWrBiCP64nQ+ukOYv4XHM=
+
+Name: assets/iphone_tank_placement_03.png
+SHA1-Digest: N+Xm03uhCfRAYMhHGp8Cxea92kM=
+
+Name: assets/iphone_popup_bg_photo_ipad-hd.png
+SHA1-Digest: 27mPOIzHBLKpjgm7/coEdnkjmmE=
+
+Name: assets/iphone_btn_1_tiny-hd.png
+SHA1-Digest: Wyn6A9a/S29hKzPKU2DKZCP0U0I=
+
+Name: assets/iphone_popup_bg_social_alert_1-hd.png
+SHA1-Digest: pfRscRi87kZZy/efjFUFFScGNCY=
+
+Name: assets/rofl.png
+SHA1-Digest: jUWTO9qDjUjDJoqYiVeK7CG6PyE=
+
+Name: assets/iphone_tank_navigation_bg-hd.png
+SHA1-Digest: SfwOaRLdKv5W/q9V6qVlzhKx+BA=
+
+Name: assets/iphone_quest_popup_bitmap-hd.png
+SHA1-Digest: R9Hzndpd15739aZPiu8Dv6KypEQ=
+
+Name: assets/event_prize_description_sd.json
+SHA1-Digest: cED8k/vjbK1O0faVgHMXOCYB63A=
+
+Name: assets/PumpkinJF 11 Outline-hd.png
+SHA1-Digest: InJBUGarsAb6qPPtjTgKugUMzGg=
+
+Name: assets/iphone_tank_placement_btn_active.png
+SHA1-Digest: Fwr/hTRm93RstpfxUCHKGTDrrB4=
+
+Name: assets/iphone_tank_btn_indicator_breed-hd.png
+SHA1-Digest: fdtE93vDRPjkY7DyXhZZvCKkb/M=
+
+Name: assets/iphone_hud_chest_flip_btn.png
+SHA1-Digest: 3OTGJLn452VcFTVX+BVC6iaVYWM=
+
+Name: assets/iphone_hud_home_btn-hd.png
+SHA1-Digest: RtIRSenVZNriEZ+KNy4cDkZUn5Y=
+
+Name: assets/hobodust01.png
+SHA1-Digest: dkJMDxLndQuohG4b5m3mAqRVWlo=
+
+Name: assets/iphone_hud_context_fish_star_on.png
+SHA1-Digest: 10q0du80N6izDaBrec2j7ECbk20=
+
+Name: assets/iphone_tank_profile_star_3.png
+SHA1-Digest: qdKsUAbmp3MBlrSNVCuwMcdlkXI=
+
+Name: assets/store_pearls_1.png
+SHA1-Digest: zMUlpd4KK3X/y9dNBJjkNWxBddo=
+
+Name: assets/store_coins_2.png
+SHA1-Digest: 9Mrq38b/5bg6g2/2nUWS7uYydvE=
+
+Name: assets/iphone_popup_bg_fish_profile_decor_1-hd.png
+SHA1-Digest: iArTWZnXZhJbx1j9Yc5OMn+V7KY=
+
+Name: assets/iphone_popup_bg_levelup_3_pearl-hd.png
+SHA1-Digest: U605qMXDjcbcihBnCrR2DpTijmI=
+
+Name: assets/iphone_popup_bg_levelup.png
+SHA1-Digest: AwJgFjdDv6qh9xCZzFpck/nhUQ8=
+
+Name: assets/iphone_large_coins_indicator.png
+SHA1-Digest: w7GKhWkqmMGmw9AwZa8K2WtvvZc=
+
+Name: assets/LoaderAnimation_sheet.plist
+SHA1-Digest: OMtv075BLporHdFDx33TCANbGt0=
+
+Name: assets/rewards.png
+SHA1-Digest: ord7c8vDo/Emk13CqaKTTqdsAns=
+
+Name: assets/ha_mobile_social_dig_fish_selector_sd.json
+SHA1-Digest: kf9vQEprlSmCm4VhPMzC6wq+FOg=
+
+Name: assets/iphone_tank_navigation_09.png
+SHA1-Digest: pGAM6hYOFpYStc729Bpo/3sXd3U=
+
+Name: assets/iphone_breed_choose_start-hd.png
+SHA1-Digest: Eqn0T8UUxU1uYWaBH3eZvvFyw5E=
+
+Name: assets/Firework.png
+SHA1-Digest: Xr0AwS9jK4ZbtjmXaqNyx+TGG/M=
+
+Name: assets/iphone_social_dig_icn_happy_3.png
+SHA1-Digest: ZiQjxO6XhYfgzoT1Ugx9HhN+Agc=
+
+Name: assets/iphone_hud_indicator_social.png
+SHA1-Digest: P4PaJPR/7rKnN66OoCGy/w0ud4E=
+
+Name: assets/iphone_event_rank_icon_3_big.png
+SHA1-Digest: FHpokLXbrmVVYhpwMFxv96dONAU=
+
+Name: assets/iphone_article_img_bg_2-hd.png
+SHA1-Digest: H1lBRyiT9rm+F1TrfKWEQmiut0c=
+
+Name: assets/iphone_buildtank_button.png
+SHA1-Digest: zslI/UoeW/2BDGQtK8KwYb23t8A=
+
+Name: assets/iphone_hud_indicator_xp_background.png
+SHA1-Digest: h/7CTWDti0QCGJd2JVaOJ8x5BWk=
+
+Name: assets/iphone_trait_icon_shy.png
+SHA1-Digest: z/NAE1VTeBIw6ERTbiSH+rws/bg=
+
+Name: assets/HelloWorld.png
+SHA1-Digest: to5Y49ccFgZicvDeBqHx/Yyzsvo=
+
+Name: assets/iphone_fish_profile_train_icn_1-hd.png
+SHA1-Digest: poIVXiZsdVmyS3XJ6qaqL6ryEcg=
+
+Name: com/flurry/org/apache/avro/data/Json.avsc
+SHA1-Digest: Yi1T+eW0SasicAVgAf3St6n7cJc=
+
+Name: assets/iphone_popup_bg_breed.png
+SHA1-Digest: XkZ4BuIMgQHiDOoKvkmFtFFyxnw=
+
+Name: assets/iphone_quest_icn_tank.png
+SHA1-Digest: AxWiFwG1tJT7gsC+0/qqQQRlbkA=
+
+Name: assets/iphone_breed_unlock_button_active.png
+SHA1-Digest: M7J79jbdZpxpuRYGZmCvl9LYHt4=
+
+Name: assets/iphone_store_pearls_active_button.png
+SHA1-Digest: AfNzMJKq/zZGk2sHxGm7ZeeyIP0=
+
+Name: assets/Arial Rounded MT Bold Brown 18-hd.fnt
+SHA1-Digest: ZB5P0D90UYruMnppnubWy4ujDiQ=
+
+Name: assets/iphone_store_pearls_button.png
+SHA1-Digest: l+XpQ1IWkGlIw0BY4fejfYvx3n4=
+
+Name: assets/ha_mobile_ui_tank_decor_popup2.json
+SHA1-Digest: havMGWeriA+8qqPIEjpWkJIlbi8=
+
+Name: assets/iphone_home_button.png
+SHA1-Digest: wQP0on7L4SaKpRf+a8em+/8WHrc=
+
+Name: assets/ha_mobile_breeding_tank_locked_sd.json
+SHA1-Digest: mtD2L5Ry07DPa0Vycf9XDyeRjnY=
+
+Name: assets/iphone_tank_placement_07.png
+SHA1-Digest: qlErBoROIWeEtOnSrmX4D7RCr40=
+
+Name: assets/iphone_store_sands_button-hd.png
+SHA1-Digest: wLgZjRP7iJ1gEbYNu3TmPTbrOAs=
+
+Name: assets/iphone_btn_close_2.png
+SHA1-Digest: sbpSaWIDD0s4EPhb2r3gis1lG90=
+
+Name: assets/iphone_trait_icon_magical-hd.png
+SHA1-Digest: 4qtg4bge6GcIDOuwvg1WTNmG87I=
+
+Name: assets/iphone_fivestar_popup_bitmap.png
+SHA1-Digest: 4XrpVTh4mhShBY6xcHd2Hr6ZRkE=
+
+Name: assets/iphone_store_pearls_button-hd.png
+SHA1-Digest: 2BDpkVJKSwU0avKoC3GFLNcHSR8=
+
+Name: assets/iphone_feature_img_bg_2.png
+SHA1-Digest: E/nP7sfX8hVnz7JSZkOzVLO4sbE=
+
+Name: assets/ha_mobile_ui_breeding_tank_selection_sd.json
+SHA1-Digest: opTmJ5RJ03HHFKjrUXYcjF6mnxE=
+
+Name: assets/coinCollect_default.plist
+SHA1-Digest: cOqV5xcIgitjZEnz6fLmo/yNlOA=
+
+Name: assets/discoParticle.png
+SHA1-Digest: aUyvPHT16KqJimm/G8dSEg6B4Sc=
+
+Name: assets/store_pearls_6.png
+SHA1-Digest: CyitE9SprChnPnac3yAPJ9hGiBU=
+
+Name: assets/chest_upgrade.plist
+SHA1-Digest: +F10vAW21JKn/VI0VbV9JQLfljs=
+
+Name: assets/LoaderAnimation_sheet.png
+SHA1-Digest: i6IGKBTZxR2drV1h8WSYlRVqYeU=
+
+Name: assets/iphone_friend_btn_bg_active-hd.png
+SHA1-Digest: J5Oq9HeClkb0qVZvC7Meqmk+35Q=
+
+Name: assets/iphone_popup_treasure_inlay-hd.png
+SHA1-Digest: D2YjhblWpHLvaXZjsrL0u1n945Y=
+
+Name: assets/iphone_trait_bg_3-hd.png
+SHA1-Digest: 1I6PEnXlMG9VulZ8JgSj+5Zo80I=
+
+Name: assets/loadingTips.json
+SHA1-Digest: Ehw9mYI+Bj8uJTQylw97wj+achE=
+
+Name: assets/Arial Rounded MT Bold White 11.fnt
+SHA1-Digest: 8ekmMO9cPgP0Ze5BxSk8jSTsTMQ=
+
+Name: assets/eggMeterFill.png
+SHA1-Digest: dfHnMdV678BqjqgNPkY08wcEtxg=
+
+Name: assets/iphone_popup_ray.png
+SHA1-Digest: 38eJzlg9v8GuCIKj1RYgAtmPOjo=
+
+Name: assets/iphone_hud_prop_zoom_1_active_btn-hd.png
+SHA1-Digest: JYAaLo9O2JPI5LpDYNV9YI4cuHQ=
+
+Name: assets/store_pearls_3.png
+SHA1-Digest: 83EZCTJIPeV4JGnvg/B0NGTzB/4=
+
+Name: assets/iphone_tank_placement_breed_indicator_breed-hd.png
+SHA1-Digest: cRg80m81a1PbU6quEW6IKW+BzO4=
+
+Name: assets/iphone_meter_1_bg.png
+SHA1-Digest: fPwDOHKkTotRsoMgSeVpNPF5yGQ=
+
+Name: assets/iphone_hud_food_active_btn.png
+SHA1-Digest: pVQ4XMzSqG9hNq6JSsM1HlQhsQA=
+
+Name: assets/iphone_hud_fish_train_active_btn-hd.png
+SHA1-Digest: uMvAjPLRbQjP7UTbFH7/GRxtkRw=
+
+Name: assets/iphone_store_sands_active_button-hd.png
+SHA1-Digest: 6X2ofHDNqg7SDsmw0GevMGs4rAw=
+
+Name: assets/iphone_fish_profile_icn_happy_3_smaller.png
+SHA1-Digest: Q6gI4ClKWg6IUvROAu1bkcKgCRk=
+
+Name: assets/iphone_popup_bg_alert_unique-hd.png
+SHA1-Digest: CrNlCib+iTuzrTDtC0+L/lxA6hg=
+
+Name: assets/iphone_trait_icon_mean.png
+SHA1-Digest: amZkuAEaapa9Kzi8rK/igVN2d8A=
+
+Name: assets/iphone_quest_icn_fling.png
+SHA1-Digest: FOEmA0RZ+yr73EyesRInyvtdLNk=
+
+Name: assets/iphone_event_leaderboard_btn_bg-hd.png
+SHA1-Digest: /VKmYI2/Ki6QnTOmqSb5zXAuZuA=
+
+Name: assets/iphone_tank_placement_breed_04.png
+SHA1-Digest: ZlIwuwYld9VzfJSMRwWPiBbyxck=
+
+Name: assets/iphone_popup_bg_store_info.png
+SHA1-Digest: 6OgMemj5J/u3bSuZ8BXbBYEoJZA=
+
+Name: assets/iphone_btn_bg_facebook-hd.png
+SHA1-Digest: cUFsu8B6ye1ktIWhrGkW3xFDH6w=
+
+Name: assets/iphone_popup_bg_fish_profile_toy_1-hd.png
+SHA1-Digest: p1bfHDLA2li4ZjpszPW5QeV8sF0=
+
+Name: assets/iphone_levelup_button-hd.png
+SHA1-Digest: 3DEbKGqFtMNyJsPb4s4FNhBBuuU=
+
+Name: assets/iphone_large_pearls_indicator-hd.png
+SHA1-Digest: NEK8fmk0gKk6U/HQ4tjlXjwF6+s=
+
+Name: assets/iphone_event_rank_icon_4_small-hd.png
+SHA1-Digest: uKBsuN8TMadqvCW1rvp9ZXq8QvE=
+
+Name: res/drawable-xhdpi/icon.png
+SHA1-Digest: PimK1Lrg+/ZKyEmsdPVUf6IFBfA=
+
+Name: assets/liftoff_engine2.plist
+SHA1-Digest: BhXlO7r2bnkMyaI568JNiCldkRY=
+
+Name: assets/iphone_store_main_babyfish_button_active.png
+SHA1-Digest: x61m11pDvmKeNSI1YnRe0lP/Zdc=
+
+Name: assets/iphone_event_trophy_icon_4-hd.png
+SHA1-Digest: ACn5A7Rs9O/BpKJueI7ic+nyTDA=
+
+Name: assets/iphone_fish_levelup_trait_bg_2-hd.png
+SHA1-Digest: izY0HuqYZs/SleRy7FnAWHpNKAw=
+
+Name: assets/iphone_tank_navigation_star_1.png
+SHA1-Digest: eoe/IiOmpdAg30NZtmBc3bsFnN8=
+
+Name: assets/iphone_btn_close_2_active-hd.png
+SHA1-Digest: eAlv9opcBsa5s9OmFX9Gq8hNHFg=
+
+Name: assets/iphone_event_progress_icon_2_alt.png
+SHA1-Digest: W77CQm2Y/3NhCE2u3EumPnzTT/w=
+
+Name: assets/iphone_hud_prop_zoom_2_disabled_btn-hd.png
+SHA1-Digest: 80/Zta+VUWaOEt4Kyqm8vE1uldQ=
+
+Name: assets/iphone_meter_1_bg_b.png
+SHA1-Digest: ITwRC2QRv47xdR6NT1WCv3DTjRU=
+
+Name: assets/food.plist
+SHA1-Digest: iZtCVr1rju+r+Y+R3CB7iX1J2io=
+
+Name: assets/iphone_store_main_sand_button_active.png
+SHA1-Digest: Yo6WzOgfOackpzIcdg2qqyj87LE=
+
+Name: assets/Arial Rounded MT Bold 17px.fnt
+SHA1-Digest: /Bjc9CL7HwCCFm2F6RLf+3PP6ww=
+
+Name: assets/iphone_hud_nav_home_selected_bitmap-hd.png
+SHA1-Digest: OXXEkxbTIOP/wkg+mVSrKncHCe0=
+
+Name: assets/iphone_feature_img_bg_1-hd.png
+SHA1-Digest: DMGShukFXPRBqfsPVXRcbnPt6jg=
+
+Name: assets/iphone_hud_alert_gift_button.png
+SHA1-Digest: 8N9Mup+f+rMcHTTnDjnAsBVxINQ=
+
+Name: assets/iphone_popup_fg_event_a.png
+SHA1-Digest: E56Vr4pcI3+1yQL0NqmoWomJqCQ=
+
+Name: assets/iphone_meter_5_btn-hd.png
+SHA1-Digest: cSmXJQUreqcR685yl62hUo7yBfw=
+
+Name: assets/ha_mobile_fish_level_up_popup_sd.json
+SHA1-Digest: 5/wycG5FyP5rG/C3RS8iXraW/bA=
+
+Name: assets/iphone_event_filter_btn_1.png
+SHA1-Digest: cNj/6UQlA37owNSEIssEMDsW0Vs=
+
+Name: assets/iphone_population_indicator_full-hd.png
+SHA1-Digest: EIjDkG2NaGHZZKZB2FpXFsIQObY=
+
+Name: assets/iphone_hud_dig_btn-hd.png
+SHA1-Digest: /9AJ00rAFM/SPlFRdjjkDM+NNHY=
+
+Name: assets/iphone_btn_bg_1.png
+SHA1-Digest: XIqIBzY2uRmZkwSgMAnvVOg6nhc=
+
+Name: assets/shock_smoke.plist
+SHA1-Digest: SXOTo7p7y/zVOUpj/Nng9cQmeto=
+
+Name: assets/iphone_popup_bg_tank_locked.png
+SHA1-Digest: /zhX+QfMVWIKdwoNPv+LS4CtuFY=
+
+Name: assets/pearls_to_coins-hd.png
+SHA1-Digest: QQqJNlhHRCK40ZCAZELbWhaRHv8=
+
+Name: assets/iphone_event_rank_icon_1_big.png
+SHA1-Digest: zwDjBqPBQSQLZDTC4VzzsHnoGtE=
+
+Name: assets/iphone_tank_levelup_star_1-hd.png
+SHA1-Digest: GXGTcG7UOk8x5fsloy07IA0NY8w=
+
+Name: assets/iphone_tank_profile_star_2-hd.png
+SHA1-Digest: g+ZrkNQ7COOesCxF7SI/8UxCRoo=
+
+Name: assets/iphone_event_rank_icon_6.png
+SHA1-Digest: a33Flg1DZa0FLKQs8RHKfDeB82Y=
+
+Name: assets/iphone_event_leaderboard_btn_bg.png
+SHA1-Digest: 2TEl6Fx1X8LF0oqkFXFt68zRBXA=
+
+Name: assets/iphone_fish_levelup_train_icn_3.png
+SHA1-Digest: eVqmgAqucbOlhlUwwpx3cyRsnK4=
+
+Name: assets/party_confetti.plist
+SHA1-Digest: 5woEHp9tnVJsCUdI8OVGmp7+Zv8=
+
+Name: assets/iphone_tank_levelup_star_3.png
+SHA1-Digest: HvKGpPTfG8eeweGuhklIjfFmaRU=
+
+Name: assets/iphone_popp_bg_store_fish_info.png
+SHA1-Digest: clQKeNT8z0YhecxbXKDyLMnzCmc=
+
+Name: assets/Arial Rounded MT Bold White no shadow 16.fnt
+SHA1-Digest: MkKhjq8xSxZ5mjpEaazbLcxrYrM=
+
+Name: assets/bubbles.plist
+SHA1-Digest: epTl72LcK0Yx6NwOdJUq6duRbHc=
+
+Name: com/flurry/org/codehaus/jackson/map/VERSION.txt
+SHA1-Digest: e5SCAPRXg/4j8xeYYLwClbrNTY0=
+
+Name: assets/iphone_tank_levelup_star_1.png
+SHA1-Digest: WKD74NyJDLh7y4WXHNvaDzx+N4o=
+
+Name: assets/iphone_fish_profile_happy_item_toy_on-hd.png
+SHA1-Digest: XYvmFzMLHNZX9PG7JG2gXQKmYSI=
+
+Name: assets/iphone_hud_quest_active_btn.png
+SHA1-Digest: evhXaLiI3F2o8Og9wQb1eUCVVFU=
+
+Name: assets/Arial Rounded MT Bold White 11-hd.fnt
+SHA1-Digest: l0cfiZ/OWgmc9tVJJLd0CnI4+V0=
+
+Name: assets/iphone_fish_profile_meter.png
+SHA1-Digest: o0eVH6uNYJXLoV6p9TvnRN/wviA=
+
+Name: assets/iphone_tank_placement_btn.png
+SHA1-Digest: WTaW+ivdTwgiYu3+VZfN3tntY7k=
+
+Name: assets/iphone_fish_profile_happy_item_like_on.png
+SHA1-Digest: qOJzgJN55ANMlmZ1XmGWwFA3Iss=
+
+Name: assets/iphone_tank_profile_icn_happy_2.png
+SHA1-Digest: xOPUZ+fz0AQh+kRfefdjRMOj+oc=
+
+Name: assets/iphone_popup_bg_rating.png
+SHA1-Digest: 5BdeLqax+qn4tVBinc8FZiTqXaA=
+
+Name: assets/iphone_coins_indicator.png
+SHA1-Digest: i/9faMGuQoCz69jAvn+1fKMkTPw=
+
+Name: assets/iphone_tip_bg_2.png
+SHA1-Digest: x4wGIWGQFd6xLK42MwaFNdhTl+c=
+
+Name: assets/iphone_breed_meter_btn-hd.png
+SHA1-Digest: DRhvDroa7viqsX3JLmDZN3+Pqg4=
+
+Name: assets/diamond_burst_small.plist
+SHA1-Digest: ZuGihA4GsH0dDpic1hVELjqUz1s=
+
+Name: assets/ha_mobile_nuf_complete_popup_sd.json
+SHA1-Digest: Wp2Z7A6fyFviCw1buH7jCWZ6vCQ=
+
+Name: assets/iphone_breed_begin_button-hd.png
+SHA1-Digest: 6R/6zxIuqaPnKvHFjU/CblmQtP4=
+
+Name: assets/bottom_effect_particle.png
+SHA1-Digest: DsQivmFVBjGOmJV0pg0YUxc35dM=
+
+Name: assets/iphone_btn_close_2-hd.png
+SHA1-Digest: AS1473TkXwI9kExOrKMqmRuvdHo=
+
+Name: assets/iphone_hud_context_fish_meter_bg.png
+SHA1-Digest: YKYXKQpADbEj8VEUlbQsAnPolkc=
+
+Name: assets/store_coins_1-hd.png
+SHA1-Digest: b6Sygj6tresdmhdHVCUtEhsLRZk=
+
+Name: assets/iphone_event_filter_btn_3-hd.png
+SHA1-Digest: 5jO+uNhfZEWs+QKmwO846yeKIFs=
+
+Name: assets/iphone_shared_close_btn-hd.png
+SHA1-Digest: e42WaiOZJ+h8VKZ+YI5ZqVi15XU=
+
+Name: assets/iphone_popup_bg_social-hd.png
+SHA1-Digest: sktdkWI3Sz4VAdsij1HzixPBtZI=
+
+Name: assets/iphone_settings_music_off_button.png
+SHA1-Digest: vIYbTdxPvobhbAuiyHr8Rtt7ppM=
+
+Name: assets/iphone_fish_profile_inset_meter_2.png
+SHA1-Digest: Yv8v9NbcE6bRHV8JQBIzVDo6lYU=
+
+Name: assets/iphone_friend_btn_bg-hd.png
+SHA1-Digest: 5PjtjywV4a3DPZ7J1ySC7bkp+X8=
+
+Name: assets/iphone_store_bg_bitmap.png
+SHA1-Digest: XgKenkyUbMkxtoyxbVFLsf9rC44=
+
+Name: assets/Barlow Font Green-hd.png
+SHA1-Digest: 7qnam+mUyoWrrUC9fu1Wf0jLh6o=
+
+Name: assets/iphone_hud_prop_zoom_1_active_btn.png
+SHA1-Digest: ug/jt7Jk/VlNl20sz/H5qryVO0M=
+
+Name: assets/iphone_social_dig_icn_happy_5.png
+SHA1-Digest: x+VrI8by6CP7xY55fexklAmHlq8=
+
+Name: assets/gun_shot_sheet.plist
+SHA1-Digest: e6Z6lSb77mzLPz9TRtfifedYLHU=
+
+Name: assets/iphone_indicator_upgrade_button-hd.png
+SHA1-Digest: tY31cTG+6kRo1LW3rrTt1JgcH7Y=
+
+Name: assets/iphone_btn_bg_4_active.png
+SHA1-Digest: 3KodakbHyLmX3p0kr9AM45XiZJQ=
+
+Name: assets/iphone_popup_bg_treasure_3.png
+SHA1-Digest: DTa1cWpSpNUoxp6iEXNfpD3eB4s=
+
+Name: assets/ha_mobile_ui_quest_complete.json
+SHA1-Digest: 9jcAHFm7cCi86TYFNZoo8hkmMf4=
+
+Name: assets/iphone_chestupgrade_barfill_bitmap.png
+SHA1-Digest: DX8qBOYtbf5iupo2i6aI6QUdfEU=
+
+Name: assets/Arial Rounded MT Bold White no shadow 16.png
+SHA1-Digest: /nawmKRzLrovGLJScwwtK67zow4=
+
+Name: assets/iphone_store_main_decoration_button-hd.png
+SHA1-Digest: 4tgGdsw1PeMHH7WOMWjm9YF5OQk=
+
+Name: assets/iphone_tank_navigation_indicator_full-hd.png
+SHA1-Digest: HCMaDOGmfExIEQ2lX8nS/6aoXxE=
+
+Name: assets/Arial Rounded MT Bold White 23-hd.fnt
+SHA1-Digest: y67ttjMlC89/ljIEBmROHhZwkBI=
+
+Name: assets/iphone_meter_4_bg_alt.png
+SHA1-Digest: NYKbVAGPHdxkfNMP63NGMa1h5FE=
+
+Name: assets/iphone_popup_bg_tank_locked-hd.png
+SHA1-Digest: aAmHyfQCu8o+2TmWZq/ww8YoAFI=
+
+Name: assets/HA_Effect_Flash0.png
+SHA1-Digest: gF2AvFeN6icgoJm7DJikZ13VYlM=
+
+Name: assets/iphone_store_main_tank_button.png
+SHA1-Digest: GfN5UkQM9sgpjJxrshLGBPYGMh4=
+
+Name: assets/iphone_store_item_fish_btn-hd.png
+SHA1-Digest: IrTWWw0oeMeVuMhbi+OtLHxZvGM=
+
+Name: assets/iphone_popup_bg_tank_profile-hd.png
+SHA1-Digest: uN98pX/2JQKf6r0SwGZcQLLYRHc=
+
+Name: assets/iphone_quest_reward_xp_bitmap-hd.png
+SHA1-Digest: Q9iINfPbSjK5jxONygeSNo2xVnk=
+
+Name: assets/iphone_hud_egg_warning_button.png
+SHA1-Digest: Su9vITinmtZo4uN+r2hF2cdFGwc=
+
+Name: assets/Nuf_Arrow_Bounce.png
+SHA1-Digest: 1lHkRd/v0etPEvNCVzp4pavhyHY=
+
+Name: assets/iphone_popup_info_level_bitmap.png
+SHA1-Digest: dnoTbXXG+TqaOnDe5+xdaxhrm5k=
+
+Name: assets/iphone_buildtank_bar_bitmap.png
+SHA1-Digest: BKcpNcMbGuXCwxCwVtOqN7G6new=
+
+Name: assets/iphone_Swipe_Glare-hd.png
+SHA1-Digest: 5NTSztiQ2ykayu7X3aLjbVHqBwU=
+
+Name: assets/iphone_hud_prop_zoom_1_disabled_btn-hd.png
+SHA1-Digest: wFtIVa/h9kMxEPllGeI9pM2tsRU=
+
+Name: assets/iphone_hud_indicator_social_no_friend_pic.png
+SHA1-Digest: u+9OxKe8uhgFm2McrgkKX3BVI8k=
+
+Name: assets/breedingTank_default.plist
+SHA1-Digest: a9o5WS5LZk061M1B9iqkEJEW6Os=
+
+Name: assets/iphone_hud_prop_flip_active_btn-hd.png
+SHA1-Digest: ousl11+bNxVm6B1vo4uKyCIdbBY=
+
+Name: assets/iphone_hud_prop_sell_active_btn-hd.png
+SHA1-Digest: KUb6wXH7NMAlDRSWgNEg65MZdII=
+
+Name: assets/iphone_store_all_active_button-hd.png
+SHA1-Digest: KHAR/rAKw7NcjH9ZrFRwHP/TOus=
+
+Name: assets/iphone_popup_bg_fish_fling.png
+SHA1-Digest: r+apCSww+iLsi0VARmwayt5qPAs=
+
+Name: assets/coinSpin_default.png
+SHA1-Digest: XGzmnKODioM4P81XfffuGto8zeM=
+
+Name: assets/iphone_tank_placement_breed_03-hd.png
+SHA1-Digest: 8o6ssoclWK7coKoxB64PqTWQlzo=
+
+Name: assets/ha_mobile_ui_fish_likes_fish.json
+SHA1-Digest: VUGygSdR8CEDyfqO38eWNCbdUl8=
+
+Name: assets/iphone_tag_price_pearl.png
+SHA1-Digest: YAPF6ylj+41JFDcky606asF9eLc=
+
+Name: assets/iphone_settings_music_off_button-hd.png
+SHA1-Digest: 6zgV8vjYRIOu5dJwaRITmRmBAQ8=
+
+Name: assets/event_prize_ui_sd.json
+SHA1-Digest: SfFqhjWme+nzBnpK3kAml5Vm3Fo=
+
+Name: assets/iphone_hud_prop_zoom_2_disabled_btn.png
+SHA1-Digest: t8qQ+xkP1GA3m4w1oiMFypxkTyA=
+
+Name: assets/iphone_btn_2_small.png
+SHA1-Digest: 5fR8O+LAFh55lRk1XOa/dxxPRXI=
+
+Name: assets/iphone_hud_tank_breed_button-hd.png
+SHA1-Digest: poDOFqkJ9ztAN3dI2lfI/xdROHs=
+
+Name: assets/iphone_fish_profile_meter_happy_3.png
+SHA1-Digest: fy6ccLAfzyXPZoaPqrTczgRieSk=
+
+Name: res/drawable-ldpi/close.png
+SHA1-Digest: lg0izCnB1flsd2QqLisbxkcuGyU=
+
+Name: assets/trail_ghost.plist
+SHA1-Digest: ZUyWDA2QblS2t1ALufa+oMBA+yM=
+
+Name: assets/iphone_social_dig_icn_happy_4-hd.png
+SHA1-Digest: tQib9A0yuygXAaWF4QXlCZuCva0=
+
+Name: assets/hobodustcloud.plist
+SHA1-Digest: lHzs6QEzqKaz9TcbpaAipaoP6Ko=
+
+Name: assets/iphone_hud_quest_btn-hd.png
+SHA1-Digest: Xb7tFROeHndR4goQaEFLk5KSjec=
+
+Name: assets/ha_mobile_breedspeedup_popup_sd.json
+SHA1-Digest: HLTHIGn1Jrh2G01WVzoGpgJqUgE=
+
+Name: assets/iphone_hud_context_bg-hd.png
+SHA1-Digest: TpSMVF7KAe4gzs0uxy/Nuw6PcNc=
+
+Name: assets/store_coins_3.png
+SHA1-Digest: HK1maVoenQdCMcvWXvwzExsS7Ec=
+
+Name: assets/iphone_store_item_lock.png
+SHA1-Digest: zj2O6Twv+qhf46Y09C8XxE7OoAk=
+
+Name: assets/iphone_breed_close_button-hd.png
+SHA1-Digest: dxmbwu8LcUdTnLO8MOZphJr3Irg=
+
+Name: assets/loadingBarFill.png
+SHA1-Digest: mASsGQY/1ik5oz9aCJBsg2Og5UY=
+
+Name: assets/iphone_tank_placement_breed_01.png
+SHA1-Digest: B8PcYcTHnkAVxuE0rQ/Y50r2rAg=
+
+Name: assets/ha_mobile_tank_info_popup_sd.json
+SHA1-Digest: +uMNPJuyRD2KCiyHxcWV5V/eTqQ=
+
+Name: assets/Anim_Party_BG.png
+SHA1-Digest: /2MysVvPARAxP/9h+zR6/d+i68I=
+
+Name: assets/iphone_hud_tank_rating_star-hd.png
+SHA1-Digest: Af+mBMdLjrPNI0NTLYxnCF7F+Cg=
+
+Name: assets/Arial Rounded MT Bold White 11-hd.png
+SHA1-Digest: stvnJMlR44EHVbCX6pZdwn9nKnY=
+
+Name: assets/iphone_tank_placement_btn-hd.png
+SHA1-Digest: fC5uRXRECDTJeKB2sOxp78KrHA8=
+
+Name: assets/iphone_fishinfo_selection_bitmap.png
+SHA1-Digest: I0ny8+oV5diHfG6R2PcHiLyDIX4=
+
+Name: assets/Arial Rounded MT Bold White 12-hd.png
+SHA1-Digest: DmzHH2aozB+SpMnELGI2bsHTvLg=
+
+Name: assets/iphone_fullscreen_bg-hd.png
+SHA1-Digest: sktdkWI3Sz4VAdsij1HzixPBtZI=
+
+Name: assets/iphone_store_main_sand_active_button.png
+SHA1-Digest: mHR6u7q/yLs7Qb9lKm8ReeGdAMo=
+
+Name: assets/iphone_hud_dig_btn.png
+SHA1-Digest: radc9DSQuLYWK+OvSc4p/dI2zqo=
+
+Name: assets/LoaderAnimation_sheet-hd.plist
+SHA1-Digest: 9AS15wdG+8+lr99BP3H9BLllBtY=
+
+Name: assets/ha_mobile_breeding_result_fail_sd.json
+SHA1-Digest: tf98NWmr1nZ5VkyD8qJhF1Ya5X8=
+
+Name: assets/Nuf_Arrow_Bounce-hd.png
+SHA1-Digest: SBuWb4OnGNSbGBP9j46Xky0OqT8=
+
+Name: assets/iphone_hud_indicator_xp.png
+SHA1-Digest: LAd8u2lx1vNkjn8o7Fnfhqp4Q2k=
+
+Name: assets/iphone_hud_prop_sell_btn-hd.png
+SHA1-Digest: wh4bSqMG2yjNrYQ7oD9RDqRFBQs=
+
+Name: assets/iphone_popup_bg_announce.png
+SHA1-Digest: 8jaW6K6vWRPo7HkaSoLVhCdMULs=
+
+Name: assets/iphone_event_rank_icon_4_big.png
+SHA1-Digest: LnKpEgA68c6VMDw6oxRGtzZAtHE=
+
+Name: assets/iphone_event_prize_ribbon-hd.png
+SHA1-Digest: W+daPZA7tqOswqlrOuVhlLGgPmw=
+
+Name: assets/store_pearls_5-hd.png
+SHA1-Digest: fMOZqqC1fGKVW4NIJmqFRPj1ScY=
+
+Name: assets/iphone_hud_three_star_active_button.png
+SHA1-Digest: JQZgwjtiJ1HvVdEUb2QUzdvi0MM=
+
+Name: assets/iphone_popup_bg_levelup_2_fish.png
+SHA1-Digest: +evvBEm5sOlNy6sIZXEsYLmm0oM=
+
+Name: assets/iphone_icn_coin.png
+SHA1-Digest: ThdqpWOYyeYhLLH/J1eI5lbqvEs=
+
+Name: assets/iphone_hud_breed_warning_down_button.png
+SHA1-Digest: lKSnuCaK6OKxW/c4/QZc6vNMBG0=
+
+Name: assets/iphone_hud_fish_move_btn.png
+SHA1-Digest: Hp6qJfcto8jKZUcxcCDwWcd7JFg=
+
+Name: assets/iphone_meter_4_btn-hd.png
+SHA1-Digest: 3iYOwa0RYSsH+ceVoihSHGc85p8=
+
+Name: assets/iphone_tank_btn_indicator_empty-hd.png
+SHA1-Digest: 8IA2VU6zftjkeDGcLJIh9s7uIC0=
+
+Name: assets/iphone_store_buy_btn_active.png
+SHA1-Digest: rkVqJA3SR+dvEiGQZPAkx9x/VMk=
+
+Name: assets/iphone_hud_fish_sell_active_btn.png
+SHA1-Digest: S5HuFgBSph6H+M8X+tWiG2CeHos=
+
+Name: assets/iphone_meter_2_btn-hd.png
+SHA1-Digest: bMU+2NiWXcarnpMJjnY9qDEjiH4=
+
+Name: assets/iphone_breed_choose_icn_feed.png
+SHA1-Digest: 5Ia7sJVVQ2NRaUhZL7LdWiSCszs=
+
+Name: assets/iphone_btn_bg_4.png
+SHA1-Digest: Xk2CJLIonnCKE7mRw1D63xqE/KE=
+
+Name: assets/iphone_tank_placement_08.png
+SHA1-Digest: naXj2M3toP79AVNIEUYFgXr3YPE=
+
+Name: assets/SootParticle.plist
+SHA1-Digest: oQgjuKzrtlKiQnqu/U0VvB2xF8U=
+
+Name: assets/BG_Wallpaper_Locked.png
+SHA1-Digest: gyNXgUb1FIFb2DucXEVx8eAtGCU=
+
+Name: assets/store_coins_6-hd.png
+SHA1-Digest: JOWvm+mrNxS8iHq/uJd+lK8qIkU=
+
+Name: assets/iphone_store_item_tank_breed.png
+SHA1-Digest: /BtKp7fsx0ZQDBQOFp4Z1wyUDu0=
+
+Name: assets/iphone_large_pearls_indicator.png
+SHA1-Digest: QuWPEG//DPMyLd3SpkZDUrwi3fg=
+
+Name: assets/iphone_inset_5.png
+SHA1-Digest: rKtJCdqWR+iQbAI877gF6GKG63I=
+
+Name: assets/ha_mobile_ui_sd.json
+SHA1-Digest: rxySIPqcOBPZ3p8a0z2E644bT3M=
+
+Name: assets/iphone_event_leaderboard_filter_1-hd.png
+SHA1-Digest: sEetkAtxHTRpfZ/bnnUE7aY/k5s=
+
+Name: assets/iphone_loading_bg_bg.png
+SHA1-Digest: hHxUWihUigq7TufCmrNN0yTn/uM=
+
+Name: assets/iphone_event_filter_btn_1-hd.png
+SHA1-Digest: St9xqWHAp7zMVuUzVR1KYZ3ZfIE=
+
+Name: assets/iphone_event_prize_ribbon.png
+SHA1-Digest: hM7j0o5o1Rxk7R3LCU7jDJRd98s=
+
+Name: assets/iphone_fish_profile_train_icn_3.png
+SHA1-Digest: l7pbd96ZUbEtroqJPmBFP+5OYO0=
+
+Name: assets/ha_mobile_ui_internet_error.json
+SHA1-Digest: nwdvfZoxZvC5fIHSdg7aTpWY0Ic=
+
+Name: assets/iphone_tank_navigation_breed_01.png
+SHA1-Digest: eLjVMXKqU9F3yp6iglCz4V5tlvc=
+
+Name: assets/iphone_dim-hd.png
+SHA1-Digest: bQ1YXc+550VoyPGGoxjqUjOWpgY=
+
+Name: assets/iphone_tab_fish_owned.png
+SHA1-Digest: Jb340cDavkp6YPTShYA2Un0udAM=
+
+Name: assets/iphone_fish_levelup_train_icn_3-hd.png
+SHA1-Digest: jR8KDuyduha6gLT5LGQRsGUVcUY=
+
+Name: assets/iphone_tank_navigation_02.png
+SHA1-Digest: SNYcqRRqLuDIP3o3r+hYbwtciMk=
+
+Name: assets/iphone_store_main_tapjoy_button_active.png
+SHA1-Digest: Z5B2spyo1+oyBDsZlwDetzRZpdA=
+
+Name: assets/iphone_breed_bottombar_bitmap.png
+SHA1-Digest: zyHZRxWtahSMjaAcuZ+Z/ALAcoU=
+
+Name: assets/iphone_popup_bg_announce-hd.png
+SHA1-Digest: BWAO1COW/a7Yu6VcKp6sYnMwu5w=
+
+Name: assets/iphone_trait_icon_smart.png
+SHA1-Digest: 9r2scMKz77z5WEgacJMhNOPk45w=
+
+Name: assets/iphone_btn_1_tiny.png
+SHA1-Digest: hakz1YQD798KLf2ZErDtry2gREM=
+
+Name: assets/iphone_fish_profile_friend_button_active-hd.png
+SHA1-Digest: 0uxbZ7mtM52HCE7zBmwxi1Vflwg=
+
+Name: assets/iphone_store_item_btn_alt_active.png
+SHA1-Digest: JcpBVtULd4NrEZGFywvkgPzz14U=
+
+Name: assets/iphone_store_item_btn_alt-hd.png
+SHA1-Digest: k+IwZmv4SeMegigdjXOhfG1Anow=
+
+Name: assets/emoticon_mood_1-hd.png
+SHA1-Digest: w7lowgUw50WGBSsiXQkR58rhL+o=
+
+Name: assets/iphone_hud_alert_event_button-hd.png
+SHA1-Digest: OkQA0qxoW0Y9iYbfdu+JVtKHwqs=
+
+Name: assets/iphone_hud_prop_move_active_btn.png
+SHA1-Digest: J99R4FvVp3VIMnmumSo82/1eLbE=
+
+Name: assets/PumpkinJF 11 Outline.png
+SHA1-Digest: Qutg+yFBAUveBhCGm09SPDFFRZs=
+
+Name: assets/iphone_fish_profile_meter_happy_5.png
+SHA1-Digest: jgroqea9tOG53RMm4vr+3DixwDM=
+
+Name: assets/iphone_whitePixel.png
+SHA1-Digest: ESBivtZnJAwDrh3xvCB8llmZXGw=
+
+Name: assets/iphone_tank_levelup_star_3-hd.png
+SHA1-Digest: 1D5sF582W8FjNi4C0jdjimgBYBo=
+
+Name: assets/iphone_hud_prop_zoom_2_btn.png
+SHA1-Digest: w1CGvgGQE3lvldbyyGPzA1U+m7k=
+
+Name: assets/iphone_tank_navigation_02-hd.png
+SHA1-Digest: B7Uyf//QfnUFEG2/aYXB0T7bzqo=
+
+Name: assets/Arial Rounded MT Bold 17px.png
+SHA1-Digest: gUSTieOVoOIwAqnGQb2ZYhUyyUM=
+
+Name: assets/iphone_meter_4_bg_alt-hd.png
+SHA1-Digest: zMztl2Fqt4Z9kFZyfzmnurxJfxY=
+
+Name: assets/iphone_hud_nav_breed_unselected_bitmap-hd.png
+SHA1-Digest: 58v9NTDu+aa48ZxiFyQsKO+wL00=
+
+Name: assets/iphone_meter_2_btn.png
+SHA1-Digest: M9TLqtVnVpnngj4uMSVaXhsP1x0=
+
+Name: assets/bubbles_fart.plist
+SHA1-Digest: o4VPZQPPyfGyzh/60PL/sqDJKA0=
+
+Name: assets/iphone_tank_profile_icn_happy_5.png
+SHA1-Digest: 8Y5bIRSVItKy3uL+kA/ek0jN82Q=
+
+Name: assets/iphone_btn_3_small.png
+SHA1-Digest: xlfe1qpKKhUbtNnwLkcaSMUOLHg=
+
+Name: assets/iphone_trait_icon_gem.png
+SHA1-Digest: RPp3H5c1RAmDRiwwjE1FrSpVAbw=
+
+Name: assets/iphone_fish_profile_inset_meter_1-hd.png
+SHA1-Digest: UUP0k0CZhyhJK6fq+Z8GIoxyFXw=
+
+Name: assets/iphone_hud_chest_upgrade_active_btn.png
+SHA1-Digest: 4+N3lTSN60k7EqMk4t0R4AscrqE=
+
+Name: assets/iphone_store_item_btn_tag.png
+SHA1-Digest: J/sRR3eAz9qwtjBAazOrAAx9gPg=
+
+Name: res/drawable-ldpi/facebook_icon.png
+SHA1-Digest: lPHIYoqZ+2OpY0LPumyDkUdNdoc=
+
+Name: assets/iphone_tank_navigation_breed_03.png
+SHA1-Digest: kf0HEMNvjyUvGy7m0uPpa6/c7C0=
+
+Name: assets/iphone_popup_bg_levelup_3_fish-hd.png
+SHA1-Digest: NkDa0kTfb+hwkydjM70B3UzQ++8=
+
+Name: assets/hud.png
+SHA1-Digest: /hzEFgDLTc8qb0l4OjfNpQ+VdgE=
+
+Name: assets/iphone_meter_1_bg_a-hd.png
+SHA1-Digest: XQjWAB9EZRiNEEaNEPLngv8eLS0=
+
+Name: assets/iphone_breed_choice_item_no_bitmap.png
+SHA1-Digest: L3bh1JEgSt0t1UlUHYa/8VcbWQk=
+
+Name: assets/Arial Rounded MT Bold White 12.fnt
+SHA1-Digest: IPw3Zwt9QDJl1sRhlrA8UmSj/ew=
+
+Name: assets/Barlow Yellow 25-hd.png
+SHA1-Digest: JhXhW7YsCIT8rmbl40yWJjERSq0=
+
+Name: assets/iphone_tank_navigation_07.png
+SHA1-Digest: hPXvGOc6ByXq/ksfSn7/2b+TPdU=
+
+Name: assets/iphone_population_indicator_full.png
+SHA1-Digest: zEu0BlnP+n3uWoHVu0T7u/8Zs+s=
+
+Name: assets/iphone_btn_1_tiny_active-hd.png
+SHA1-Digest: Nz6GuwaP8/R69MsBZbB3FWmX3AQ=
+
+Name: assets/iphone_store_event_alert_bg-hd.png
+SHA1-Digest: GKJ7znl3nOCNCj3ZJ5dzPjEc0oo=
+
+Name: assets/Arial Rounded MT Bold White no shadow 17.fnt
+SHA1-Digest: bJ+qVnFhP7B6t2CKYDsNIh+AHpE=
+
+Name: assets/iphone_alert_coin.png
+SHA1-Digest: AG1lTr7YCfgwpFalDWvR3J8cNdo=
+
+Name: assets/iphone_tank_navigation_breed_01-hd.png
+SHA1-Digest: IJ8uBxn4wSU5URrHCd8Z4f7SK6g=
+
+Name: assets/iphone_store_sands_button.png
+SHA1-Digest: BrjHYTXEHJYptRK704WS0pUslqM=
+
+Name: assets/iphone_achievement_icn_2.png
+SHA1-Digest: EjhlhDK/EdV4/hux2rhIuMcu34k=
+
+Name: assets/iphone_popup_bg_breed_new_fish_4-hd.png
+SHA1-Digest: VeLrsz9Q7HSDXskL80rG0SO9vEE=
+
+Name: lib/armeabi/libgame.so
+SHA1-Digest: HH8q4hPLvVEhS8dWFUEYYcghbSw=
+
+Name: assets/idk.png
+SHA1-Digest: MO2IdQXLfgJx/HF1/yzxpz5mhOk=
+
+Name: assets/emoticon_mood_3.png
+SHA1-Digest: KdGjgL3yY90XYp2P/H/7gOhVaqM=
+
+Name: assets/iphone_tank_navigation_08-hd.png
+SHA1-Digest: 99YEaxwqshiy0qqcCjZD9MXPu7I=
+
+Name: assets/colorDrain.plist
+SHA1-Digest: dMZOzpVV1kb9K6uYutKhnMJqB0w=
+
+Name: assets/Icon-72.png
+SHA1-Digest: 2ieYKPU57PB/JQBFAsUeYdDUxUs=
+
+Name: assets/iphone_hud_fish_sell_btn.png
+SHA1-Digest: HP5njSCHedbg5vws12UZYq3Csl8=
+
+Name: assets/iphone_tankinfo_decobar_fill_bitmap-hd.png
+SHA1-Digest: gOueAvzMZineOkaoPaBHyYnjwKk=
+
+Name: assets/iphone_settings_audio_on_button-hd.png
+SHA1-Digest: 3pigoDiromHHZIefZVqMUh1PtyE=
+
+Name: assets/iphone_event_filter_btn_1_active.png
+SHA1-Digest: lKKhIl6RoE76rB3bV9kmooJfLes=
+
+Name: assets/iphone_filter_decorations_bg_bitmap.png
+SHA1-Digest: Na13R8Dn7oHggeB+dN6+uZN7VBc=
+
+Name: assets/ha_mobile_population_info_sd.json
+SHA1-Digest: Va6AnoigCmT4w1JePv04ITv46L8=
+
+Name: assets/iphone_breed_unlock_button.png
+SHA1-Digest: WNSYW0sFiRDGUwmt+m5NIBEKaEQ=
+
+Name: assets/iphone_buildtank_bg_bitmap.png
+SHA1-Digest: LnE/tgp6NiK2t4/XfgTifTFYSmI=
+
+Name: assets/iphone_popup_bg_treasure_2.png
+SHA1-Digest: w5MFyf+Z0pqYPpxXvJsffqGIiNM=
+
+Name: assets/iphone_event_rank_icon_5_big.png
+SHA1-Digest: 998GWuX6gR3bQ6tqfq0AtMT8GYs=
+
+Name: assets/iphone_settings_off_button.png
+SHA1-Digest: 3fs6iXPr+P36YoANMu4czau+mSs=
+
+Name: assets/ha_mobile_ui_level_up.json
+SHA1-Digest: JgIzGhKuqK1RmieKSyKLAASqoOk=
+
+Name: assets/Arial Rounded MT Bold White 15.fnt
+SHA1-Digest: LJKWqQYEW5wVCz8EZAK+PQocp9c=
+
+Name: assets/iphone_fullscreen_fg_1-hd.png
+SHA1-Digest: KSVa/fME7ue1KBZz8TN+TJLYAzY=
+
+Name: assets/iphone_meter_5_bg-hd.png
+SHA1-Digest: +v4j1MDs4pyKn7CyDhmgWGErNTI=
+
+Name: assets/ui_new_baby_event_fish_popup.json
+SHA1-Digest: tHHqNNAAg9C2z7cD4ZbMqr5usCw=
+
+Name: assets/iphone_tank_navigation_09-hd.png
+SHA1-Digest: yqyLe4Cwk27Dv5F1yLcPL3vA1r4=
+
+Name: assets/iphone_tank_placement_breed_bg-hd.png
+SHA1-Digest: 18PlEPhjXj3FHC81j+ZfOx2VpKk=
+
+Name: assets/iphone_trait_icon_galactical-hd.png
+SHA1-Digest: k6jysqYq5xOK4P8w7eW8SUXpk3M=
+
+Name: assets/iphone_store_item_enemy_2.png
+SHA1-Digest: CUmrf+fr9kOSaeXc9j85BkpjxkE=
+
+Name: assets/iphone_event_leaderboard_filter_1_active-hd.png
+SHA1-Digest: wiGYjd3kvXHaXbFoBWofsY1/psE=
+
+Name: assets/iphone_store_main_treasure_button.png
+SHA1-Digest: kUqRm9Wj9T2uJ0KtLY8udmKat40=
+
+Name: assets/iphone_store_item_1_btn_active-hd.png
+SHA1-Digest: PCJesD9mt5mK8+q8lCTnzZDKGA8=
+
+Name: assets/iphone_breed_choose_start_active-hd.png
+SHA1-Digest: qcmtwVXHt/s0Bc4bfOJtyKxrPX0=
+
+Name: assets/iphone_btn_bg_5_active-hd.png
+SHA1-Digest: BwAAmk1LGJZoswIemMlpNdKaNCI=
+
+Name: assets/iphone_hud_pearl_warning_down_button-hd.png
+SHA1-Digest: yFPzNd5RojoUzkboe7scWFp7QCQ=
+
+Name: assets/Arial Rounded MT Bold White no shadow 17-hd.png
+SHA1-Digest: 3wVxNE3Z7FTnt2kZ+JBWQXYLFUY=
+
+Name: assets/iphone_cheating_bg_bitmap.png
+SHA1-Digest: SMjf+pvUSKsVVY1Ld8hGLiacsi4=
+
+Name: assets/ha_mobile_sell_popup_sd.json
+SHA1-Digest: z2PIHOilUjP1BdtpAgtVbhcjtoU=
+
+Name: assets/iphone_event_progress_icon_1.png
+SHA1-Digest: +ci7t7WEQ8jo4kTSS/BjjpjPNfM=
+
+Name: assets/iphone_fish_profile_trait_inset-hd.png
+SHA1-Digest: WnyJ5TpPdM2Y9T+z6yAQgYaCThs=
+
+Name: assets/iphone_Swipe_Arrow.png
+SHA1-Digest: qoX9bMRQ1U7qC9axGQGzbza/EPQ=
+
+Name: assets/BeamTexture.png
+SHA1-Digest: JC1Q1p0UVI7WrQaQOJxcks5hYmQ=
+
+Name: assets/Icon-Small.png
+SHA1-Digest: 6DuRqIDlSMt4Gane0eZJXIjI1O4=
+
+Name: assets/iphone_meter_1_btn_active.png
+SHA1-Digest: kfXkvGOfZPh01xwJZBcwMYBHFOM=
+
+Name: assets/iphone_trait_icon_galactical.png
+SHA1-Digest: apSuR0BTZSAHd9p7LTE2M/yCmQo=
+
+Name: assets/iphone_hud_context_bg.png
+SHA1-Digest: SamMhbdPQfBfnuJhcC60oie9EjQ=
+
+Name: assets/iphone_trait_icon_rare-hd.png
+SHA1-Digest: /q4+TH4P4L8aet9aBsmYJmI9a6o=
+
+Name: assets/iphone_store_item_2_btn_active-hd.png
+SHA1-Digest: mZavi5Qcq04KwXshuPD9Asrm7YU=
+
+Name: assets/iphone_fish_levelup_train_icn_2-hd.png
+SHA1-Digest: +4tKiRDZOsMwKAQzoFR+SWk4xTo=
+
+Name: assets/ruby_burst.plist
+SHA1-Digest: Gb+qmv0KRaEZyrMzC1ZmaviOvQQ=
+
+Name: assets/iphone_quest_icn_buy.png
+SHA1-Digest: sbHdZZI+6nFl0pWSMJ54B8cBbfA=
+
+Name: assets/diamond_burst_medium.plist
+SHA1-Digest: Bt5o/HD/9hQetsFMRT14wGLyc+I=
+
+Name: assets/iphone_store_main_idol_button-hd.png
+SHA1-Digest: Cv6Aa5xcBMFb5w8Ddm23MuIZ6mg=
+
+Name: assets/iphone_event_prize_bg-hd.png
+SHA1-Digest: mbuGLDyeerBRMWOXAaG1lz6+W+s=
+
+Name: assets/ha_mobile_ui_tank_decor_popup1.json
+SHA1-Digest: wpiGV6XSzg0sbLqX+wnQZfrQJYw=
+
+Name: assets/iphone_tank_navigation_03-hd.png
+SHA1-Digest: qYYY8EQl5WAUjGzYqfBlb47O4QA=
+
+Name: assets/exclamation_point_sheet.plist
+SHA1-Digest: FXy7e4WkBm/IhnmuovzjJI2PXus=
+
+Name: assets/Arial Rounded MT Bold Brown 16-hd.png
+SHA1-Digest: o/RUfsmWpRILMyNI36PRmzmXtio=
+
+Name: assets/iphone_hud_alert_event_active_button-hd.png
+SHA1-Digest: yb+Zz5ntyuAdSWOChDNEi25HqRo=
+
+Name: assets/iphone_hud_indicator_xp_background-hd.png
+SHA1-Digest: sQXcdl5Trgik8OsNvbc/Ejy48UA=
+
+Name: assets/ui_helper.txt
+SHA1-Digest: 5FhJimCitDhz1nYJLxTwPyhMd7A=
+
+Name: assets/iphone_tank_navigation_10-hd.png
+SHA1-Digest: orxNp8U39zlYq7f5sqbVy4arj90=
+
+Name: assets/iphone_fish_profile_happy_item_decor_on.png
+SHA1-Digest: fWf7RSicJMBSICQO1pIvabtQbng=
+
+Name: assets/iphone_tank_placement_04-hd.png
+SHA1-Digest: qJH8iNN6taz5GCQOamRrTfA69vc=
+
+Name: assets/icn_lock.png
+SHA1-Digest: u/2EwfzcU1c/c/2DoDpYziRiJC8=
+
+Name: assets/iphone_btn_bg_4-hd.png
+SHA1-Digest: LZ6wEYAJR+Q+cmbnvt7kUHWoTa8=
+
+Name: assets/iphone_fish_profile_happy_item_dislike_on.png
+SHA1-Digest: qOJzgJN55ANMlmZ1XmGWwFA3Iss=
+
+Name: assets/iphone_fish_profile_icn_happy_3_smaller-hd.png
+SHA1-Digest: oKTkQaiwcdQ1ATFdLuZqmk/iVaU=
+
+Name: assets/iphone_trait_icon_smart-hd.png
+SHA1-Digest: SkGj1TGpEzA15s/RkNFZUESnqpk=
+
+Name: assets/iphone_popup_bg_treasure_3-hd.png
+SHA1-Digest: zv/4P9Fa44MQBYIgDl2KOL+FklY=
+
+Name: assets/iphone_hud_pearl_warning_button.png
+SHA1-Digest: UQKyBJ/zDE6va6vIRGZkT1d0FFo=
+
+Name: assets/iphone_store_item_treasure_inset-hd.png
+SHA1-Digest: jHw9g4UlSoSijAz09Y4FX8N0Rs0=
+
+Name: assets/iphone_quest_icn_train.png
+SHA1-Digest: uzxWNUTstfg8OIFV6VkGFP7/baE=
+
+Name: assets/iphone_popup_info_population_bitmap.png
+SHA1-Digest: Zqi13ryHQ66fM0e7sG5YlhM5Ak0=
+
+Name: assets/iphone_hud_fish_move_active_btn-hd.png
+SHA1-Digest: e0z3WXKaRpNzAHmy3NFJoHWN0V0=
+
+Name: assets/iphone_trait_icon_creative-hd.png
+SHA1-Digest: hMPwX+Fpd6BbFSSnqsxRBYWLn+c=
+
+Name: assets/iphone_event_bg-hd.png
+SHA1-Digest: wJ8/afTUJWWceWfeWNMqu7Eclls=
+
+Name: assets/iphone_hud_fish_train_btn-hd.png
+SHA1-Digest: UlVqzCrn1ea9n7WUTXvmTuQFXpw=
+
+Name: assets/iphone_breed_choose_fg.png
+SHA1-Digest: VL55z1JJHTwVvVSN4hUOjie9eW4=
+
+Name: assets/iphone_tank_placement_breed_btn-hd.png
+SHA1-Digest: DK02bgqpX6YISa5TVPTZZO3nc3s=
+
+Name: assets/iphone_fullscreen_fg_1.png
+SHA1-Digest: 1QtIwkRF6wl+jWUzwnlVVcmIa5U=
+
+Name: assets/iphone_hud_settings_btn-hd.png
+SHA1-Digest: jz8YbXg5FhzbTUWg1thwZg+2U04=
+
+Name: assets/iphone_quest_icn_star-hd.png
+SHA1-Digest: U1yS/v0TbXrV0N+y6yYCQtw5oX0=
+
+Name: assets/iphone_hud_quest_active_btn-hd.png
+SHA1-Digest: HjWr2p4Zfn3JTzpA7wlnu6jvq4o=
+
+Name: assets/iphone_hud_prop_move_btn.png
+SHA1-Digest: qMM1gG9la6ZFOM4pgWpMo6/uyPo=
+
+Name: assets/iphone_store_main_babyfish_button.png
+SHA1-Digest: 2pAlosZZVc9uCpZ3qbym062G8bc=
+
+Name: assets/iphone_popup_bg_event_alert-hd.png
+SHA1-Digest: KIU1dyhlwaV8w4RMWG4sQhuZe00=
+
+Name: assets/iphone_fish_profile_icn_happy_1_smaller-hd.png
+SHA1-Digest: n80MnyheMqEebU4EOSJx8yAWz4g=
+
+Name: assets/iphone_hud_context_fish_meter_bg-hd.png
+SHA1-Digest: zhbYQ7Ca3Okp9znljFYrYKCL4cE=
+
+Name: assets/iphone_trait_icon_special.png
+SHA1-Digest: FWZ+ucJ01lANShAMiYwq9OCXzqs=
+
+Name: assets/iphone_event_rank_icon_6_small.png
+SHA1-Digest: EiEKoWg3VVKroD2gWYELr60rN38=
+
+Name: assets/Diamond_Particle.png
+SHA1-Digest: CH37xTQOvSGTXt0pMq7EFnJCFzQ=
+
+Name: assets/Barlow Yellow 25.fnt
+SHA1-Digest: qp3xN6RpaYoz6iQEq/XED5cSwew=
+
+Name: assets/iphone_tank_buy_btn-hd.png
+SHA1-Digest: cAJj9ya1eyIrhwGKQ+3b7fZj42E=
+
+Name: assets/iphone_popup_bg_internet.png
+SHA1-Digest: 9FC0Q/AcjUn2RFCRF4FWErR2BCQ=
+
+Name: res/layout/game_demo.xml
+SHA1-Digest: c6pB5dhHI3idypcid8dHzAAk2Jw=
+
+Name: assets/store_coins_4-hd.png
+SHA1-Digest: HSqWE4KJ3gIShCblOxaKeMyEIQE=
+
+Name: assets/iphone_new_fish_bitmap-hd.png
+SHA1-Digest: 2r4RZHAcHNCqkfJ7+BwXPynmpeI=
+
+Name: assets/iphone_event_leaderboard_btn_bg_you.png
+SHA1-Digest: tZPPB0jhkUhvfXZSt+RHzT6jFSQ=
+
+Name: assets/Arial Rounded MT Bold White no shadow 16-hd.fnt
+SHA1-Digest: 34N8KLsoKM0byCLQMX5ozYjt60I=
+
+Name: assets/iphone_tank_navigation_star_1-hd.png
+SHA1-Digest: hoOO6g4ZDSQVmG9LxGw2bIfEmQY=
+
+Name: assets/iphone_nuf_1.png
+SHA1-Digest: 26NHN0pJ4RJDu7603DziZIcgJ+U=
+
+Name: assets/iphone_popup_settings_bitmap.png
+SHA1-Digest: O4P3DUE9vXoB8oBG1HremfoXQWA=
+
+Name: assets/iphone_fish_profile_train_icn_2-hd.png
+SHA1-Digest: 0S3ni9wFCuFResStRuifkYvROdA=
+
+Name: assets/store_pearls_2-hd.png
+SHA1-Digest: tNg52UkjooZhCOQ5/jB5p0r0DHQ=
+
+Name: assets/iphone_store_coins_active_button.png
+SHA1-Digest: CijcarMZz2O4ADy/hvVFojZ0E1E=
+
+Name: assets/iphone_icn_alert.png
+SHA1-Digest: YErOFxn3oLkXfZlI3adrSCg+P6g=
+
+Name: assets/iphone_hud_chest_upgrade_btn-hd.png
+SHA1-Digest: krnD8lGOQ/ruUAL13CRgglfmkM0=
+
+Name: assets/iphone_hud_tank_navigation_button.png
+SHA1-Digest: o8ZREkdbw+OtWI+nLgyvsqoi6Yc=
+
+Name: assets/iphone_loading_bar-hd.png
+SHA1-Digest: TyKb7XTObCwzEcwUVWrZsvDhDZs=
+
+Name: assets/Particle_SeaMonkey.png
+SHA1-Digest: xhqKTTgvbZZ1DXe0g/qhIudNXws=
+
+Name: assets/Arial Rounded MT Bold Brown 18-hd.png
+SHA1-Digest: o/RUfsmWpRILMyNI36PRmzmXtio=
+
+Name: assets/iphone_event_leaderboard_filter_3-hd.png
+SHA1-Digest: IXNr4V3WNg7r7qLnWnkfCLw8fBY=
+
+Name: assets/iphone_hud_social_active_btn-hd.png
+SHA1-Digest: 9Gwn0uIWpbF5sAx6vWygGgUz/1o=
+
+Name: com/android/vending/billing/IMarketBillingService.java.d
+SHA1-Digest: 8mI940Uf4mlg5OrsxxeP9YvqzAE=
+
+Name: assets/iphone_popup_bg_fish_fling-hd.png
+SHA1-Digest: LG2JWhw4VVuwomsinuprzV/S4jE=
+
+Name: assets/iphone_popup_bg_sell_item.png
+SHA1-Digest: 7OoUyeiH6kdyovxdJkUoNSL8FEY=
+
+Name: assets/iphone_store_main_idol_button_active.png
+SHA1-Digest: f8ZlgjlZHHtG2GOb+I3garhq7zs=
+
+Name: assets/iphone_popup_bg_breed_new_fish_1-hd.png
+SHA1-Digest: soLm+Na2f9qgheUO6d68ECxUZ2o=
+
+Name: assets/iphone_inset_5-hd.png
+SHA1-Digest: YT4ZB236hYZWeZCL0B9+qaCabw8=
+
+Name: assets/iphone_popup_bg_event_alert.png
+SHA1-Digest: leP6xBCxmoxcV+vs0x1g6tTetNU=
+
+Name: assets/party_disco_lights.plist
+SHA1-Digest: PEGcpsPK7ewZxhzJwIMvmpyE178=
+
+Name: assets/iphone_shared_back_btn-hd.png
+SHA1-Digest: CFxu6p3PDGzWYUIhP4Pn3m7GUwI=
+
+Name: assets/ha_mobile_storescreen_sd.json
+SHA1-Digest: DG+wNvzHKO5f/D91jVkMGR+HjS4=
+
+Name: assets/iphone_icn_alert-hd.png
+SHA1-Digest: zk/mOcNxqaVv0UiQhviHr+z3vmk=
+
+Name: assets/iphone_icn_bowl.png
+SHA1-Digest: gl8HmOj8YMHqM/EU8WviqnJzLfE=
+
+Name: assets/iphone_fling_distance_button.png
+SHA1-Digest: Yc2TqBHGR/z2iGuA+5k18WJbcjk=
+
+Name: assets/iphone_popup_bg_fish_profile_decor_1.png
+SHA1-Digest: CJ1OV4X3UsyIYsH2u/50vmWe2Z4=
+
+Name: assets/iphone_popup_bg_social_alert_1.png
+SHA1-Digest: P8k+zFOAwwJgSr0d53M4o0ofyPU=
+
+Name: assets/iphone_breed_choose_bg-hd.png
+SHA1-Digest: DFlWwHcqaqtRQqUnvM9XVGBEoDU=
+
+Name: assets/iphone_filter_treasure_bg_bitmap-hd.png
+SHA1-Digest: pzDY3cTnX5087AeVBTg4C/fhPcU=
+
+Name: assets/Arial Rounded MT Bold White 23-hd.png
+SHA1-Digest: XPJnQ4KMgjVNYEWEfkohF4ryu5I=
+
+Name: assets/ha_mobile_train_fish_ui_sd.json
+SHA1-Digest: T5vT9g8lviXCFhcIRBOgI2xnlnY=
+
+Name: assets/iphone_popup_bg_fish_levelup.png
+SHA1-Digest: xBKj/0LccAB+PtM/s36P0laL0eA=
+
+Name: assets/iphone_event_progress_icon_2_alt-hd.png
+SHA1-Digest: pPxJCjlZlXFUj+ZbUiT7sDojZeE=
+
+Name: assets/iphone_breed_locked_button.png
+SHA1-Digest: 4LJGPZJgCWO1AyERH6KWOJSfOS0=
+
+Name: assets/iphone_hud_alert_dig_button-hd.png
+SHA1-Digest: mNNpVVi6+dRO6didhoUqaydC5UA=
+
+Name: assets/iphone_tank_profile_breed_bitmap-hd.png
+SHA1-Digest: DuZObGl2NiStM9uGiXWS/adLZow=
+
+Name: assets/iphone_tank_navigation_07-hd.png
+SHA1-Digest: /trhNKsw4skyowLsDkP/lc980sw=
+
+Name: assets/ha_mobile_fish_profile_dislike_alert_sd.json
+SHA1-Digest: SbCR6EZIMviurzqtZK1l0KUAPRI=
+
+Name: assets/iphone_store_event_alert_bg.png
+SHA1-Digest: O7nXEmXkgzYSPq/pvn+1d+DVBIY=
+
+Name: assets/iphone_event_filter_btn_3_active.png
+SHA1-Digest: QsckXyj8J3pJOAuJHrjyB+nwLow=
+
+Name: assets/iphone_tank_navigation_breed_02-hd.png
+SHA1-Digest: Sh/hPZgWG1CD2L2wNIbCK+lselE=
+
+Name: assets/iphone_event_rank_icon_6_big.png
+SHA1-Digest: d9EDyrlZyJ4KZaKBafWaj835ISs=
+
+Name: assets/iphone_breed_choice_item_bitmap.png
+SHA1-Digest: dld7VcYkwY4GrrTFq8ptilSRDB8=
+
+Name: assets/iphone_hud_indicator_social-hd.png
+SHA1-Digest: 7WX5H2zNVGEIf5kYB3vVikGLGuU=
+
+Name: assets/ha_mobile_fish_profile_decor_alert_sd.json
+SHA1-Digest: 6SjS4W5upCS5+oXzS4PHbtAtyo4=
+
+Name: assets/app.config.txt
+SHA1-Digest: D+8/F8ALDrhQss9omPinPp+wEfc=
+
+Name: assets/ui_event_ended.json
+SHA1-Digest: R0bwgqGampYL/P35xmTWqFUvDuY=
+
+Name: assets/bubbles_sneeze.plist
+SHA1-Digest: 2eK+Uz4KXR3gfWQ/rIstyTh2ZQU=
+
+Name: assets/ha_mobile_ui_high_score_popup_sd.json
+SHA1-Digest: cJlZQVcrNYqepXSvGa7itPHy0bI=
+
+Name: assets/Sign-hd.png
+SHA1-Digest: U9aHAK20HDnOyU5VLre9DTj5ERI=
+
+Name: assets/iphone_inset_trait_c.png
+SHA1-Digest: VpVtt98FZx6eEhz4uMXb5tSm7FM=
+
+Name: assets/iphone_event_rank_icon_6-hd.png
+SHA1-Digest: s/B6oX0GozpVX0i08tMW2m7jrqA=
+
+Name: assets/iphone_btn_bg_1_active-hd.png
+SHA1-Digest: YGHuOirhRWBapB8aXJsGh8fJ43o=
+
+Name: assets/iphone_social_fish_btn_active-hd.png
+SHA1-Digest: XDdPCFzedwSONrM6zkXIwX1iaFw=
+
+Name: assets/iphone_event_leaderboard_btn_bg_you-hd.png
+SHA1-Digest: Z3zAankuQaVil2uiBOH/sacLE1c=
+
+Name: assets/iphone_popup_bg_alert_unique.png
+SHA1-Digest: fab/SyjQCjhl4aX7SrPtFUyYiWA=
+
+Name: assets/omg.png
+SHA1-Digest: Wczld7NsTr6tahRwgCTal6pzN3Q=
+
+Name: assets/lol.png
+SHA1-Digest: FO3ZXv4D8RmvN5dyNWR8Ech1Dbo=
+
+Name: assets/iphone_fish_levelup_train_icn_1-hd.png
+SHA1-Digest: QWL9tDPljTC7tdc/dQe2kECjuHo=
+
+Name: assets/iphone_tank_navigation_01-hd.png
+SHA1-Digest: HZ3SdCr4dLeu1Ak2SIbzpStVj9Y=
+
+Name: assets/iphone_popup_bg_breed_new_tank-hd.png
+SHA1-Digest: Plz0lkfnJBqvKWeUZKFSowMUsbw=
+
+Name: assets/iphone_btn_camera_active-hd.png
+SHA1-Digest: o9SE+J0v2Vh3aLnnfgeSp9AzK48=
+
+Name: assets/iphone_hud_chest_upgrade_active_btn-hd.png
+SHA1-Digest: jWccqS3Uu7drJKBtP0Et3uTG6sw=
+
+Name: assets/iphone_quest_icn_breed.png
+SHA1-Digest: 7n78oAopscuNmyhsvfprs7xcMYk=
+
+Name: assets/iphone_event_trophy_icon_4.png
+SHA1-Digest: NyZ9ht8kdnTc+Eo6gX6wlv15McU=
+
+Name: assets/iphone_store_main_tank_button-hd.png
+SHA1-Digest: /YKIkgjgECBbGKmtbZxOsv4zE9A=
+
+Name: assets/event_leaderboard_ui_sd.json
+SHA1-Digest: vgkNmHyWwVREv3txdApdL8zaQl4=
+
+Name: assets/iphone_tank_navigation_star_3.png
+SHA1-Digest: eZvI2j8mS0IrH2GlKjnrE04E/Oc=
+
+Name: assets/smoke_default.png
+SHA1-Digest: iSJ2WG5+EvfaCOZNCvro6hIgg2I=
+
+Name: assets/iphone_popup_fg_social.png
+SHA1-Digest: vHnlX8MDvsmaH/JepMpW7H34vfM=
+
+Name: assets/iphone_event_rank_icon_4_small.png
+SHA1-Digest: 08UYPrNRbBD/5UHbQeaW1j3lmqk=
+
+Name: assets/iphone_hud_nav_home_unselected_bitmap.png
+SHA1-Digest: OqhsjZ9NEKLoQPzMBqtnhRUcKHg=
+
+Name: assets/iphone_achievement_bg_1_fish.png
+SHA1-Digest: z7TVruh2ZW9iLsz+fJ1zeV3yNs8=
+
+Name: assets/iphone_store_main_tank_active_button.png
+SHA1-Digest: 77DwJ1qBSLky2VlCdF3rgEKtIpY=
+
+Name: assets/gossip_6.plist
+SHA1-Digest: z/rErptnvsQK3GUzg0X4G8Atzh8=
+
+Name: assets/iphone_popup_bg_levelup_1_tank.png
+SHA1-Digest: +8CmwZnu2rYhCtnXuYnVCQE6b5I=
+
+Name: assets/level_up.plist
+SHA1-Digest: GfCS/A2Hj93vgzk+PJcgdw+HFok=
+
+Name: assets/iphone_quest_icn_dig-hd.png
+SHA1-Digest: wFDo1OzikEKjkijrH9p1kHZcKMU=
+
+Name: assets/iphone_pearls_indicator.png
+SHA1-Digest: q6wQR7UdyOAsQObsQi1/cLqG15g=
+
+Name: assets/reticle.png
+SHA1-Digest: mcSKNtC7lyHqAd73tEsTGlN9yXs=
+
+Name: assets/btw.png
+SHA1-Digest: IP4QEsL8oOrrtdwLT1HFShLguss=
+
+Name: assets/iphone_fish_profile_happy_item_alert-hd.png
+SHA1-Digest: sDwDxz0yBZJtbWrj6XOU2lgFpcA=
+
+Name: assets/Barlow Font Green-hd.fnt
+SHA1-Digest: TLdk3x03X2jDJe0yK7TS7Jd2Qd8=
+
+Name: assets/iphone_popup_bg_levelup_2_tank.png
+SHA1-Digest: cTHzJhtNxxSnzRe5zUJJ9MefUI8=
+
+Name: assets/iphone_store_main_treasure_disabled_button-hd.png
+SHA1-Digest: o04oF/fGZO0bJO0RCQ7UL1friGs=
+
+Name: assets/iphone_meter_2_bar.png
+SHA1-Digest: xWhOHFZAuO36lUE9jQ8U8935zgM=
+
+Name: assets/iphone_btn_bg_3_active-hd.png
+SHA1-Digest: hy2EnHwUdDKpfXpQ7UdItEvv8dU=
+
+Name: res/xml/wallpaper_preferences.xml
+SHA1-Digest: bSY/L5CfIZopdGS9rjOe1YH0CGc=
+
+Name: assets/HA_Corals.png
+SHA1-Digest: Q5VYfZ0PWeFv7cmiXt0q0+MlNVo=
+
+Name: assets/iphone_tank_profile_icn_happy_1.png
+SHA1-Digest: ykLsSK8buJS3gZohkcEcsLtmTW0=
+
+Name: assets/iphone_fish_levelup_train_icn_2.png
+SHA1-Digest: DEEEH0xnXyCTXW2bgdbkCN4cDYg=
+
+Name: assets/iphone_event_details_img_bg-hd.png
+SHA1-Digest: Z49xCukahYzrhDdptMLsPuaW0Vw=
+
+Name: assets/iphone_settings_audio_off_button-hd.png
+SHA1-Digest: WVdjJVkRb9tSJXGSs5i1Ia93S/Y=
+
+Name: assets/iphone_meter_5_bg.png
+SHA1-Digest: ZDQcT2KbFfcyBkY1NqXJ5t5MFiw=
+
+Name: assets/PumpkinJF White 11-hd.fnt
+SHA1-Digest: d5HNA49qY6KrrQ06lVsEBseTK/I=
+
+Name: assets/iphone_popp_bg_store_fish_info-hd.png
+SHA1-Digest: n7jO/ZpaKN0HCes9akJ7siBSvwY=
+
+Name: assets/iphone_store_item_2_btn-hd.png
+SHA1-Digest: W/EUvvdjnJrdOPWyYzBMtmly9Js=
+
+Name: assets/iphone_sell_fish_bitmap.png
+SHA1-Digest: 4XGdko8/4QcXLdSZR20zCVGF6z4=
+
+Name: assets/iphone_meter_4_btn_active.png
+SHA1-Digest: H7RQL/ZAvHyGkrxo0oPzaha1Vk8=
+
+Name: assets/iphone_popup_bg_nuf-hd.png
+SHA1-Digest: lGTdfvvAOJmndoyKKQASMuBDCB8=
+
+Name: assets/iphone_settings_on_button.png
+SHA1-Digest: gVxshCVZmhfNHlIAKuzaxoSz2EY=
+
+Name: assets/iphone_popup_bg_fish_profile_dislike-hd.png
+SHA1-Digest: pmghvSymuoZvWnjSGxtbpX3lr1k=
+
+Name: assets/iphone_article_bg-hd.png
+SHA1-Digest: MHmrMTtRc/eC5Vf/ZhdAhV0Eeh4=
+
+Name: assets/iphone_popup_fg_event_a-hd.png
+SHA1-Digest: Ff0dBzgiOdD6BqBySqcOVFBBeUY=
+
+Name: assets/iphone_meter_5_btn.png
+SHA1-Digest: 9vvsuin06B0vkYx3PlM5WgtZSV4=
+
+Name: assets/iphone_breed_choose_item_btn-hd.png
+SHA1-Digest: +uA8tvxjr+WWf8EwFuDc6MNYL8Q=
+
+Name: assets/iphone_store_info_fish_bg-hd.png
+SHA1-Digest: D2+XrCFMVvY1jZtH/nYnY2yM7+o=
+
+Name: assets/store_pearls_4.png
+SHA1-Digest: 78KDGjB0lvWavpQvh4JSpGs9K/0=
+
+Name: assets/iphone_trait_icon_mean-hd.png
+SHA1-Digest: RQrqVTgOtoBGlyvFkNBEVlSLqw8=
+
+Name: assets/iphone_store_item_tank.png
+SHA1-Digest: JM2EYhGIKYzOE/cbPOy8ZDzA9JQ=
+
+Name: assets/iphone_store_coins_btn.png
+SHA1-Digest: frQIBV2jhX+wlJbYy7TQIlG2t4Q=
+
+Name: assets/iphone_achievement_icn_3.png
+SHA1-Digest: EjhlhDK/EdV4/hux2rhIuMcu34k=
+
+Name: assets/Clam_Open_Gray.png
+SHA1-Digest: hRvuU3YxUfTuGyPoRfAyC294shA=
+
+Name: assets/localization_en.csv
+SHA1-Digest: ZlPPqTZD6XsoqOkKD7Gij07uFq4=
+
+Name: assets/iphone_store_wallpaper_button-hd.png
+SHA1-Digest: A1UUmgSLniwRY+aS/E85R0soDy0=
+
+Name: assets/beam_Up.plist
+SHA1-Digest: vlaEC1a4TBjC6iv8Xqa93CNStcQ=
+
+Name: assets/iphone_tank_profile_icn_happy_5-hd.png
+SHA1-Digest: ULSvkhKVibjc3TJF/ti7FvwAOuo=
+
+Name: assets/iphone_popup_bg_tank_levelup-hd.png
+SHA1-Digest: DOxht3nircTsjXpYq/VcUrYb/Fg=
+
+Name: assets/iphone_tank_placement_breed_03.png
+SHA1-Digest: aRibM5RanHvVa7jGXJUraWTPAK4=
+
+Name: assets/ha_mobile_treasure_start_sd.json
+SHA1-Digest: stZ15rpv7gMpwyXfaS7+8J2oW+0=
+
+Name: assets/iphone_store_info_bg.png
+SHA1-Digest: rFUMaWgbELbXihCg+ylvP/omAvg=
+
+Name: assets/iphone_settings_on_button-hd.png
+SHA1-Digest: +X2k1LcHgYc/ZA9TQby3jU5Yoj8=
+
+Name: assets/iphone_popup_bg_social_fish-hd.png
+SHA1-Digest: /8aSI/A7uPh13GhjVQKuIAJS+rY=
+
+Name: assets/particleTexture.png
+SHA1-Digest: 6x999wOF3orAFzICDZxW4m68br0=
+
+Name: assets/iphone_popup_bg_breed_new_fish_3-hd.png
+SHA1-Digest: 7X9m78dE/u99GAXCCyw37G6yBPs=
+
+Name: assets/diamond_burst.plist
+SHA1-Digest: Bch4wjLatg47s83hdQ5FECMR1rQ=
+
+Name: assets/iphone_social_btn_forum-hd.png
+SHA1-Digest: tSO4HyaFgiF5j4/2Jd6icVC86aE=
+
+Name: assets/iphone_achievement_icn_1.png
+SHA1-Digest: EjhlhDK/EdV4/hux2rhIuMcu34k=
+
+Name: assets/iphone_social_dig_icn_happy_5-hd.png
+SHA1-Digest: rZf8EowCRrPIola9t4tVCvrKcIA=
+
+Name: assets/iphone_store_buy_btn-hd.png
+SHA1-Digest: rUdTY3dJ6H5hwQGV5J4+HCyGQxk=
+
+Name: assets/iphone_btn_3_small-hd.png
+SHA1-Digest: ml4655vEsR8rVKJzEnLyovzCJnQ=
+
+Name: assets/Arial Rounded MT Bold White 15.png
+SHA1-Digest: APsSdUaglsuV8AijsmCy1hIOQmI=
+
+Name: assets/iphone_trait_icon_special-hd.png
+SHA1-Digest: /q4+TH4P4L8aet9aBsmYJmI9a6o=
+
+Name: assets/iphone_loading_bar.png
+SHA1-Digest: NcqJY/ol8LmHtRlp3s400tKyLYE=
+
+Name: assets/ha_locked_fish_purchase_popup_sd.json
+SHA1-Digest: eJl9+UhoIQCEhNMT4+CLs99sihE=
+
+Name: assets/iphone_friend_btn_bg_active.png
+SHA1-Digest: j2VWdfNLpIBV3jO/bmGJ0rDHQL8=
+
+Name: assets/iphone_btn_6_small-hd.png
+SHA1-Digest: xTgYZHAIQiyc7+xZv2O1RyDsbUc=
+
+Name: assets/iphone_btn_close_1.png
+SHA1-Digest: engZRiSfjwdakHzJTmrd0al8W+I=
+
+Name: assets/ha_mobile_social_gift.json
+SHA1-Digest: QDf2Uf6p2nwo4rpop9VBDG4x92o=
+
+Name: assets/iphone_hud_pearl_warning_down_button.png
+SHA1-Digest: mO9rCBHMI8evpQbMRag2Xy0+oHE=
+
+Name: assets/iphone_hud_indicator_xp-hd.png
+SHA1-Digest: 4UBbu2/zqU0H1PVM3qhg7QiNJOQ=
+
+Name: assets/iphone_event_leaderboard_filter_1_active.png
+SHA1-Digest: qzeAoEuPnD9cElrjFkJ4xivSP3Q=
+
+Name: assets/iphone_feature_img_bg_2-hd.png
+SHA1-Digest: gXZPWW+E22YoxagbgwdiPHGChMg=
+
+Name: assets/iphone_hud_prop_sell_btn.png
+SHA1-Digest: zMzztdz5RrRHOPREEHo1Ji2tSJ0=
+
+Name: assets/iphone_store_all_active_button.png
+SHA1-Digest: mHC0MFguPGifZhJ6UNAzI93kgXU=
+
+Name: assets/coinCollect_default.png
+SHA1-Digest: o7Mji64TdkR2Yp6TUq/YRcx6nDk=
+
+Name: assets/event_overview_ui_sd.json
+SHA1-Digest: SbTwDyuKRPLLdc1znuSFb7vj1jw=
+
+Name: assets/iphone_store_item_treasure_inset.png
+SHA1-Digest: reYw8NKDf3Gsty7R/3h3VexY0Uk=
+
+Name: assets/iphone_tab_le.png
+SHA1-Digest: UgQzd61uwEw0sTcS3VOv1V+lhic=
+
+Name: assets/iphone_shared_back_btn_active.png
+SHA1-Digest: PeGwC6vwFNH54Kqcx/cj4+gcBV4=
+
+Name: assets/iphone_tank_placement_09.png
+SHA1-Digest: xE5tWvcLCcwnZ73dwt88rhM+3DE=
+
+Name: assets/iphone_hud_prop_flip_active_btn.png
+SHA1-Digest: fHpmxUIEiUDRMG5Y4pYU1s7SJNk=
+
+Name: assets/iphone_popup_bg_levelup_3_tank.png
+SHA1-Digest: iEbqDzEYEgb6lnsY90STLoM6OnA=
+
+Name: assets/iphone_tank_placement_10.png
+SHA1-Digest: OwUvP5UrIOyCKjucC6zjrgQ1BkU=
+
+Name: assets/iphone_popup_bg_fish_train-hd.png
+SHA1-Digest: SLib0Jx22j2e1f2EtzOWRtwTNf8=
+
+Name: assets/iphone_icn_unknown.png
+SHA1-Digest: FZMvFuCbsE+nl+TYKzn5nCyQMGI=
+
+Name: assets/iphone_store_main_sand_button.png
+SHA1-Digest: 2dOZHlZAg7LBqFcUiCtSjaFaQaI=
+
+Name: assets/iphone_hud_quest_btn.png
+SHA1-Digest: h/2o9ApKtZbiZqyLPa0lQpOu8a4=
+
+Name: assets/iphone_tank_placement_06-hd.png
+SHA1-Digest: eC+ycAE2Q8EUloWBDtKX5Ag0eGI=
+
+Name: assets/iphone_buildtank_active_button-hd.png
+SHA1-Digest: sjY8U0lmGVQlSQcWifaJ/6hUrMM=
+
+Name: assets/iphone_popup_bg_fish_new-hd.png
+SHA1-Digest: GormsiyobcYuXMtPtSIpojIAw+k=
+
+Name: assets/iphone_popup_bg_speedup-hd.png
+SHA1-Digest: ou9zGkfN/GogbmywXQ8wapi0C+E=
+
+Name: assets/ha_mobile_main_fish_info_sd.json
+SHA1-Digest: bvR1fRVLGiRJdUkVhdNp75IrAGI=
+
+Name: assets/iphone_popup_fg_dig-hd.png
+SHA1-Digest: ABSorS1llRKKHL1BUDqSH6rWDMY=
+
+Name: assets/gun_shot_sheet.png
+SHA1-Digest: PCi4DYP1ClooS5/+q0y/o/QDctA=
+
+Name: assets/Arial Rounded MT Bold Brown 16-hd.fnt
+SHA1-Digest: UeoQ2TxkplukUL46nTYhklZC428=
+
+Name: assets/Toy_Ground_Lollipop.png
+SHA1-Digest: XDZLJWjjFGM6hsWnThHBv+oTK9s=
+
+Name: assets/ha_mobile_social_popup_sd.json
+SHA1-Digest: rIZAi6zh0Kb4yDOzr1/USKB2Nj4=
+
+Name: assets/iphone_fish_profile_inset_meter_2-hd.png
+SHA1-Digest: 8v2Aclat1UgJ5l0RC13cgHuaeww=
+
+Name: assets/iphone_popup_bg_levelup_2_pearl-hd.png
+SHA1-Digest: tDXF+2/kUFS6scjhWRZ1F62neNc=
+
+Name: assets/iphone_trait_icon_gem-hd.png
+SHA1-Digest: fTi85Z82p55iF6Egp9X5TPfv6mE=
+
+Name: assets/tempButton.png
+SHA1-Digest: wYDJXTfK8toJJPgpFiNB0+Mg5nM=
+
+Name: assets/iphone_popup_bg_speedup.png
+SHA1-Digest: FGeF3C5T7BybsD59TUgxEPdhwiE=
+
+Name: assets/iphone_hud_alert_dig_button.png
+SHA1-Digest: XksiHPWHG3Gs4KeUc38J5j9JhZc=
+
+Name: assets/iphone_btn_bg_3.png
+SHA1-Digest: bnmH4D5nqMZUGgW6qXU8bBHIwxA=
+
+Name: assets/iphone_popup_bg_fish_profile_toy_1.png
+SHA1-Digest: hxtnP3n7Ar+JazKwdgff51aE3B4=
+
+Name: assets/iphone_popup_settings_bitmap-hd.png
+SHA1-Digest: 6TReCKfQOWr8oEno+aPP3NzKefQ=
+
+Name: assets/iphone_event_filter_btn_3.png
+SHA1-Digest: WXSgYa4LmG4WY6PKgLKdO5VLauc=
+
+Name: assets/iphone_meter_4_bg.png
+SHA1-Digest: OYmOq4ZGBk4V7MTpQlWxCrCCaZA=
+
+Name: assets/iphone_hud_nudge_btn_active.png
+SHA1-Digest: /Ed9ZtpDdxrrCR1VJI6yWRvdwcc=
+
+Name: assets/iphone_hud_prop_zoom_1_btn.png
+SHA1-Digest: 0Vn4NcgRD6MfSGbs+wUJ+MW9xj4=
+
+Name: assets/iphone_popup_bg_sell_item-hd.png
+SHA1-Digest: MCK5Lp6+/wZzqD1C1cI+muhYcOg=
+
+Name: assets/iphone_breed_choice_select_bitmap.png
+SHA1-Digest: QVRVrGQpr1PaxDPh+py9vivWhQg=
+
+Name: assets/bats_sheet.png
+SHA1-Digest: TTAotAKhrFA7H8GBx5Nm3ENjVOs=
+
+Name: assets/iphone_close_button-hd.png
+SHA1-Digest: QbeSfbYDP+q0XqRJVZgfTsDUKoc=
+
+Name: assets/ha_mobile_rating.json
+SHA1-Digest: DXJQojvDaRXzShEHJDBL04DZXzQ=
+
+Name: assets/iphone_btn_bg_5_active.png
+SHA1-Digest: BDbMyQsbmRNoZdslUuGyZQDVl8o=
+
+Name: assets/iphone_meter_5_bg_alt-hd.png
+SHA1-Digest: xz2VQJYIYhaabGtHaDCcdO2VV58=
+
+Name: assets/iphone_event_leaderboard_footer-hd.png
+SHA1-Digest: Lfc3EzJFCiSrSrCnxdFZeaRWM98=
+
+Name: assets/iphone_tab_fish_owned-hd.png
+SHA1-Digest: +nlChduYRXbvq/OeCFbTwPXN2v0=
+
+Name: assets/transferItem_default.png
+SHA1-Digest: j7uSJGHkFtEw/AwVpqNjwawTpso=
+
+Name: assets/PumpkinJF White 11.fnt
+SHA1-Digest: dzNIRepyH6wm+ZB2DCCRhkSPMxk=
+
+Name: assets/iphone_hud_social_btn-hd.png
+SHA1-Digest: XfdztPsZTNX8JQ5uZ/+s/uWbBKY=
+
+Name: assets/iphone_store_item_btn_alt.png
+SHA1-Digest: TnFX8WqM8+yj2Dg+AJbhe1M43M4=
+
+Name: assets/iphone_popup_bg_levelup_2_pearl.png
+SHA1-Digest: 21L4eGdgZKmqlNwehacXjB7Ewyg=
+
+Name: assets/iphone_tank_placement_breed_02-hd.png
+SHA1-Digest: Jd4H3r3BjmM9vc9AuFMkdl4re2Q=
+
+Name: assets/ha_mobile_chest_popup_sd.json
+SHA1-Digest: uzn5Ug/gUJoyH0QRFKxIrqeotq8=
+
+Name: assets/store_coins_6.png
+SHA1-Digest: kwjXRdVkbJKbP7NxzLDpbI6MQng=
+
+Name: assets/iphone_store_event_alet_bg_small-hd.png
+SHA1-Digest: 1t2k89LI3xRW+I04QumZkxWOhvs=
+
+Name: assets/Barlow Font Green.fnt
+SHA1-Digest: UTQrzRVAtz6c1GOVd2jyUYFQxM0=
+
+Name: assets/iphone_event_rank_icon_1_small.png
+SHA1-Digest: T3wCx2jHWPGbaKztM7++YPr78Ro=
+
+Name: assets/iphone_buildtank_active_button.png
+SHA1-Digest: NjaMB5PbnP/WtC7wrnK0BX9whvA=
+
+Name: assets/confetti.png
+SHA1-Digest: wJEOo1P3x7c2d8jP5uOi1RqkEWI=
+
+Name: assets/transferItem_default.plist
+SHA1-Digest: nbQp9ZNCPvhql3SWDBSqBGD+E2k=
+
+Name: assets/iphone_meter_1_bar-hd.png
+SHA1-Digest: uHJq0RWvydUfwmNtmU555eKG06A=
+
+Name: assets/ha_mobile_out_of_treasure_sd.json
+SHA1-Digest: sFMAztfqPf2PjcJaqO1WhPOFAO4=
+
+Name: assets/iphone_tank_placement_breed_02.png
+SHA1-Digest: eZ+mtRh7ezpv9wL5C8lVh8xnWKc=
+
+Name: assets/iphone_settings_music_on_button-hd.png
+SHA1-Digest: uER1Ui5AQG0z/haWVdLLQu4ZRYs=
+
+Name: assets/iphone_tank_placement_09-hd.png
+SHA1-Digest: 1HuP66kiGN6E7msupgN0MxCrxNU=
+
+Name: assets/PumpkinJF.ttf
+SHA1-Digest: PMQgYRrXy72DQW0JT31zmxjOq68=
+
+Name: assets/iphone_hud_three_star_active_button-hd.png
+SHA1-Digest: 6mmanh8IaDo0J/3XgpKCB1xwHHg=
+
+Name: assets/iphone_fivestar_popup_bitmap-hd.png
+SHA1-Digest: cZ++tp/mOKXjGkHdbsCPGspiRf4=
+
+Name: assets/iphone_large_coins_indicator-hd.png
+SHA1-Digest: Kzt1VYJkLOX5/+HzC6TfHNgq3aQ=
+
+Name: assets/Barlow Font Green.png
+SHA1-Digest: BUlWd3eCPD9aQwaCz+Tzbq8O0J0=
+
+Name: assets/Arial Rounded MT Bold White no shadow 17-hd.fnt
+SHA1-Digest: bUILbbAB6gBK+MVyg0UpTZfpdXE=
+
+Name: assets/emoticon_mood_5.png
+SHA1-Digest: gqbDs4j16o5j4gBUW0TD0fsS6Ko=
+
+Name: assets/iphone_btn_1_small.png
+SHA1-Digest: ZqSyH1BPLzQOI1hdWVByDlobnYo=
+
+Name: assets/surfaceSplash_default.plist
+SHA1-Digest: R6voM1OhG6HCcW3t548MyqmdiRU=
+
+Name: assets/iphone_event_bg.png
+SHA1-Digest: bZ13REu5yGwkIkPEnlX5oI+JGyk=
+
+Name: assets/store_pearls_2.png
+SHA1-Digest: gR/FiCurRw6pXlh/XAbwAiRFi44=
+
+Name: assets/iphone_fish_profile_inset_meter_1.png
+SHA1-Digest: jv1jCr42GkkGWBLVy/ROaEYu+04=
+
+Name: assets/iphone_tank_navigation_indicator_breed-hd.png
+SHA1-Digest: hOHusQleWs3dQKMq4w86vHeBBio=
+
+Name: assets/iphone_tank_breed_buy_btn_active.png
+SHA1-Digest: VNu5CUh3ohjM2uOU4SEid0msgls=
+
+Name: assets/iphone_popup_bg_breed-hd.png
+SHA1-Digest: YdCuGnCWq1/xWVZxIHPIFLwnrI0=
+
+Name: res/drawable-hdpi/close.png
+SHA1-Digest: P3HE/cN1DH97qEFhaWUqiBLjuUY=
+
+Name: assets/iphone_hud_indicator_social_no_friend_pic-hd.png
+SHA1-Digest: xo+f3v/xW7WY5cw0jYGQdY9oBpY=
+
+Name: assets/iphone_event_rank_icon_6_big-hd.png
+SHA1-Digest: qKaeYdd60qCHu3+usT3tGIv50iM=
+
+Name: assets/iphone_friend_div-hd.png
+SHA1-Digest: c8roL5ucv//B4iW+7RiEWYI/8QI=
+
+Name: assets/iphone_alert_coin-hd.png
+SHA1-Digest: eKR/q3yRiNcPhKbS+MGDw30B5to=
+
+Name: assets/iphone_tank_navigation_05.png
+SHA1-Digest: uOwpb5WVZErlSvyYHRs/hwskJTk=
+
+Name: assets/PumpkinJF White 11.png
+SHA1-Digest: woaxVuOhMR1frLevl9867RVzZaA=
+
+Name: assets/iphone_hud_fish_train_active_btn.png
+SHA1-Digest: EUCaeCJoPPtVbSzgaDTx3XVt9Qo=
+
+Name: assets/iphone_store_info_bg-hd.png
+SHA1-Digest: cUrNMUzNJ2sukdDAKYPEUH3+ISo=
+
+Name: assets/iphone_event_leaderboard_filter_3_active-hd.png
+SHA1-Digest: MhB7N0hfEF268UH2x68mYheWOIU=
+
+Name: assets/iphone_tank_profile_hungry_bitmap-hd.png
+SHA1-Digest: NVne+WYIySshigk0ldprm0v4hGI=
+
+Name: assets/iphone_population_indicator_empty.png
+SHA1-Digest: h2MBwxt+LK/EGrD+pqyF/II7XT4=
+
+Name: assets/iphone_popup_bg_quest_reward.png
+SHA1-Digest: Jft7SANrnABcPr5uCX4Z0HjZfxw=
+
+Name: assets/close_button.png
+SHA1-Digest: ggZLbvXG2YZ9rm7bflyXSVSgIi0=
+
+Name: assets/iphone_tank_placement_btn_bg-hd.png
+SHA1-Digest: /BeSQMjsXv5BX73+Lkj5gfx7sng=
+
+Name: assets/iphone_meter_4_bar-hd.png
+SHA1-Digest: qKU9sh0D3/QGmeCGmRxIIF1gXSk=
+
+Name: assets/iphone_meter_4_btn_active-hd.png
+SHA1-Digest: 0Pg5EujGlVL6coMXQNvP4Y4kJI8=
+
+Name: assets/ha_mobile_new_baby_popup_rare_sd.json
+SHA1-Digest: YfPvbCci8l027X3a2gjYk28xRDo=
+
+Name: assets/iphone_popup_bg_breed_new_fish_button-hd.png
+SHA1-Digest: 9IqDt2KMvm6dXFXLwY7LBTM3cCc=
+
+Name: assets/Barlow Blue 25-hd.fnt
+SHA1-Digest: a534rV6sHrlts+oUXI3j0slDOsA=
+
+Name: assets/iphone_popup_bg_social_fish.png
+SHA1-Digest: +6PfZHyApZoib8mMeYlcUHeAtmw=
+
+Name: assets/iphone_breed_choose_item_btn_active.png
+SHA1-Digest: zFpk74Y8n3tg5X+muPqBi7wzzK0=
+
+Name: assets/iphone_event_prize_list_placeholder-hd.png
+SHA1-Digest: O8qVjCZRqcscbjUp/9iMb1vqyhM=
+
+Name: assets/store_coins_4.png
+SHA1-Digest: uAfUwsl71mFg5uuiZ/BeCw5vZGY=
+
+Name: assets/iphone_hud_nav_home_unselected_bitmap-hd.png
+SHA1-Digest: ZoMXQA+7ic8zSpi0W8o1FcGYdso=
+
+Name: assets/iphone_meter_3_btn_alt.png
+SHA1-Digest: 8yTf6A/v8Z6ZQzqYRha3UYbG7SM=
+
+Name: assets/FightStarEffect.plist
+SHA1-Digest: RifmjYqAarkfDmSkjQXGThr6t0I=
+
+Name: assets/iphone_tank_placement_03-hd.png
+SHA1-Digest: nvLcW7pjU6dy2mSrahBJ8s/aX14=
+
+Name: assets/iphone_store_item_1_btn-hd.png
+SHA1-Digest: pPLscB9356xTgxhzQLB6Ab75fW0=
+
+Name: assets/iphone_popup_treasure_inlay.png
+SHA1-Digest: 7MUTQEpzoGACj4vezz/Kx7aMoNQ=
+
+Name: assets/iphone_tank_placement_10-hd.png
+SHA1-Digest: i8CT4NfpN4k9GmrtoOS2Aw2CvJc=
+
+Name: assets/iphone_hud_indicator_bg-hd.png
+SHA1-Digest: zvNH3hmTfi/smwg7uYVyDI0fmSc=
+
+Name: res/drawable-hdpi/icon.png
+SHA1-Digest: XXubFIRlv9tO4hwnKEAKTZptlrQ=
+
+Name: assets/iphone_hud_indicator_pearls-hd.png
+SHA1-Digest: WHsZ4KgCUdsj9pdCNXxpLNwoiJk=
+
+Name: assets/iphone_tank_navigation_bg.png
+SHA1-Digest: YexHQDD19ZFtoZ3n5ps0uamM964=
+
+Name: assets/iphone_breed_choose_icn_breed-hd.png
+SHA1-Digest: ZP3DP+7IDu0DCKyCyFaqxrVyRIA=
+
+Name: assets/Arial Rounded MT Bold White 12-hd.fnt
+SHA1-Digest: qMlN5naa2hM1cWs2/Vg/YP7cLAo=
+
+Name: assets/iphone_store_main_babyfish_button_active-hd.png
+SHA1-Digest: sYb0rPTVIUYc8Nq6qevUGsTxtnE=
+
+Name: assets/iphone_shared_back_btn.png
+SHA1-Digest: BccM5hpyOmNge4ulLjBDFyGi9r0=
+
+Name: assets/iphone_breed_begin_button_active.png
+SHA1-Digest: We4Fng9n9tttbDYi+bvvE1ACkQ4=
+
+Name: assets/iphone_breed_meter_btn_active.png
+SHA1-Digest: CdjBczrjh+EgT47ANpxNeKKB56M=
+
+Name: assets/diamond_sparkle.plist
+SHA1-Digest: QHtISLWSIr6GhDdwnFf9hVNZxKo=
+
+Name: assets/hobodust02.png
+SHA1-Digest: ocTi/CtR5uIYj69oUzmDvAlmkiw=
+
+Name: assets/iphone_buildtank_button-hd.png
+SHA1-Digest: uDBNFb1pQRUHEn3L4VlhP7fHJbg=
+
+Name: res/xml/fishwallpaper.xml
+SHA1-Digest: sdcccocPj1n/p/zNyuIgsVNQeUY=
+
+Name: assets/iphone_meter_1_bar_alt.png
+SHA1-Digest: Kr823pMWz8yso3AkKOrTmnMXiQs=
+
+Name: assets/iphone_tank_placement_01-hd.png
+SHA1-Digest: ocvm6zlwGf/OYbwapNGM09cOwY8=
+
+Name: res/drawable-hdpi/facebook_icon.png
+SHA1-Digest: V2LEVKYg2PFb0nYYOBnKjQliS/s=
+
+Name: assets/ha_mobile_generic_popup_sd.json
+SHA1-Digest: WHEWnudy+ANMULyG6S25P6i6dLo=
+
+Name: assets/iphone_popup_bg_sell_bowl-hd.png
+SHA1-Digest: fNbLUTPIDPN/mB5w3LpsIz4+NZw=
+
+Name: assets/BG_Sand_Locked.png
+SHA1-Digest: Wx5kG4qtGlVgWvoGSE+L4OIzVlI=
+
+Name: assets/iphone_breed_meter_bg-hd.png
+SHA1-Digest: 9Y66oC27uIs2V//2i44AaD/3UKU=
+
+Name: assets/Toy_Ground_Lollipop_preview.png
+SHA1-Digest: iyotZIxIb6Sq9WaMgKb5zt4U5F4=
+
+Name: assets/iphone_event_leaderboard_filter_2.png
+SHA1-Digest: C/InqVltUBSOKo5Q+0Zo3ok42w4=
+
+Name: assets/iphone_hud_social_btn.png
+SHA1-Digest: aDJ5p3kH4KhvHNVmhf5UDev4WOM=
+
+Name: assets/iphone_tank_navigation_indicator_empty-hd.png
+SHA1-Digest: e2IN5xP6ZH1kSg5SbV+mW80Z4Hw=
+
+Name: assets/ha_mobile_welcome_popup_sd.json
+SHA1-Digest: /hNZ+jMhljvUwdl4/bkNr8eTtQE=
+
+Name: assets/iphone_store_item_parents.png
+SHA1-Digest: CUmrf+fr9kOSaeXc9j85BkpjxkE=
+
+Name: assets/iphone_meter_2_bar-hd.png
+SHA1-Digest: k4KPUtJuqVrNj/VTznhA1Y2bMbs=
+
+Name: R.java.d
+SHA1-Digest: W0kw1+cANaoX+miE6zxjKxiTiBs=
+
+Name: assets/Barlow Yellow 25.png
+SHA1-Digest: 01c1qMllw5aGuxa+/+73/m6lS6k=
+
+Name: assets/iphone_trait_icon_celestial.png
+SHA1-Digest: nmK/2sKjW35tjBvNQC140ux1hAw=
+
+Name: assets/iphone_fullscreen_container-hd.png
+SHA1-Digest: VcGLlPv+6h5yvVz/WWoI91PqTv4=
+
+Name: assets/iphone_social_fish_btn.png
+SHA1-Digest: m5wNN4FJ4I0x8vxA/L0c6dnu4gg=
+
+Name: assets/iphone_quest_button-hd.png
+SHA1-Digest: IIEpx1W6gAjvOPCXgPuFjWHvdls=
+
+Name: assets/iphone_population_indicator_breed-hd.png
+SHA1-Digest: 4ZuLzrK9OoT/o5qLb5P4zToIK6o=
+
+Name: assets/iphone_popup_bg_breed_new_fish_2.png
+SHA1-Digest: oYEEZjEna7/oJSADzs4VOzReOM8=
+
+Name: assets/iphone_btn_6_small.png
+SHA1-Digest: 52/kdoXkDlNqUPANlH6gCImsgoY=
+
+Name: assets/Firework_effect.plist
+SHA1-Digest: eStekcU0/0vrWwxBXPx7/sNam6M=
+
+Name: assets/iphone_event_rank_icon_3_big-hd.png
+SHA1-Digest: dIwABhCo/Sg2DG/PWggJ01t1X78=
+
+Name: assets/iphone_hud_nudge_btn-hd.png
+SHA1-Digest: OBZIM+NDob3Iu8P7QSf9FuCf13I=
+
+Name: assets/iphone_hud_nudge_btn_active-hd.png
+SHA1-Digest: t9i+JWqw12/M/dGTSnu/N0lOW9I=
+
+Name: assets/iphone_meter_1_btn.png
+SHA1-Digest: /nSXSOLv4mV7JsnuJ4l6YimU8YM=
+
+Name: assets/ha_mobile_ui_quests.json
+SHA1-Digest: JxCY3QcQeKSzmgJm2TlDOaqt6AI=
+
+Name: assets/iphone_icn_pearl-hd.png
+SHA1-Digest: x3HpZQ343a50nQgZrGJWxjGDjKY=
+
+Name: assets/Clam_Open-hd.png
+SHA1-Digest: aIw/TX8vHu/O8Oay5o9a5W8+j6U=
+
+Name: assets/iphone_event_rank_icon_5_small.png
+SHA1-Digest: uKutR8MNWvpD8ezGWWw0barKkQc=
+
+Name: assets/iphone_popup_bg_nuf.png
+SHA1-Digest: apQjSZ0L/eVNKObiCPphtsZ876U=
+
+Name: assets/iphone_fish_profile_meter_happy_4-hd.png
+SHA1-Digest: tejCgT04J8lRlp82Cn0EHZuIxxQ=
+
+Name: assets/ha_mobile_tank_selection_sd.json
+SHA1-Digest: Ovcwtrf/7NJirWdEslRqbIZTL8Y=
+
+Name: assets/ha_mobile_basic_popup_sd.json
+SHA1-Digest: W2BHxWl0Sf/PyN/3/IG7QCSud+E=
+
+Name: assets/iphone_fish_profile_trait_inset.png
+SHA1-Digest: vRPkQTbk+TA2NZkJmEIRgoAehSU=
+
+Name: assets/iphone_store_buy_btn.png
+SHA1-Digest: XIqIBzY2uRmZkwSgMAnvVOg6nhc=
+
+Name: assets/iphone_popup_bg_treasure_2-hd.png
+SHA1-Digest: f+NrQr8Gdl8Jnx8uY7FmIhx8FDk=
+
+Name: assets/iphone_store_coins_active_button-hd.png
+SHA1-Digest: GctWZ3148bSLEoCoyiRD45FzosY=
+
+Name: assets/iphone_tank_navigation_04.png
+SHA1-Digest: mo6oNZQb9J2klwM/dMcWNdR9lZ8=
+
+Name: assets/iphone_store_locked_bitmap-hd.png
+SHA1-Digest: XgE7mtD7HhOXE/cQonr7Hjb+blA=
+
+Name: assets/iphone_tank_placement_04.png
+SHA1-Digest: RtlT/9HFhRYS4PYXFPyh3xHQynI=
+
+Name: assets/iphone_btn_1_small_active.png
+SHA1-Digest: E1jXQC1QDUay15WWSjERag2WVPE=
+
+Name: assets/default-hd.png
+SHA1-Digest: kDhxnbWlwo3azeQBRBSoTV9LIMM=
+
+Name: assets/iphone_event_leaderboard_filter_2_active-hd.png
+SHA1-Digest: 8lb20akDZvbUtXtN2NBoNg0Xd8o=
+
+Name: assets/iphone_hud_alert_gift_active_button.png
+SHA1-Digest: I8NHUAzbMrztiA3Gdqrl5g4LLHM=
+
+Name: assets/bubbles_burst.plist
+SHA1-Digest: Z9f3LFWDfrejtpLwWjJ68Km4GzU=
+
+Name: assets/iphone_tab_new-hd.png
+SHA1-Digest: 2r4RZHAcHNCqkfJ7+BwXPynmpeI=
+
+Name: assets/iphone_tankinfo_decobar_fill_bitmap.png
+SHA1-Digest: nYr7Y5J5QwJnFoA1Qx9ZByA31ek=
+
+Name: assets/iphone_event_rank_icon_3.png
+SHA1-Digest: HKO/y+AJNHIuqcDDEXaGfW9H8Cs=
+
+Name: assets/rainbowTexture.png
+SHA1-Digest: 9aF+il36rqab4VrfVfnjfolWF0A=
+
+Name: assets/ha_mobile_item_info_sd.json
+SHA1-Digest: fb7/Z3lE6Rx+WUGgI3eNSkYdh2Q=
+
+Name: assets/Arial Rounded MT Bold Brown 12-hd.fnt
+SHA1-Digest: 6MdqaWhHT3Zvcu1I7mSICEGTs8s=
+
+Name: assets/iphone_store_main_sand_button_active-hd.png
+SHA1-Digest: rXdsYhC9oLW5RRt9pvNv3GnXrnw=
+
+Name: assets/iphone_store_main_idol_active_button.png
+SHA1-Digest: Yoi+Hc+94pLKoULu6ky8LshE2FE=
+
+Name: assets/iphone_breed_meter_bar.png
+SHA1-Digest: 2GbXf60CGPrAbWeuQn7KWKcXTfI=
+
+Name: assets/event_progress_ui_sd.json
+SHA1-Digest: qICxZrgLYrSejOcu/hRdsu8s8nw=
+
+Name: assets/ha_mobile_move_item_to_tank_ui_sd.json
+SHA1-Digest: 2+f/zo6JIv7oQxxwAHvi+cV7uMU=
+
+Name: assets/iphone_hud_alert_dig_active_button-hd.png
+SHA1-Digest: oFg3AMXhmxFkPoSn3tBmWHmGJYQ=
+
+Name: AndroidManifest.xml
+SHA1-Digest: n7UeBT5QBsWWK6M0LR+5H6cFybE=
+
+Name: assets/iphone_tank_placement_breed_indicator_empty.png
+SHA1-Digest: iAt0T7yJBTbJVE1T1L0zP+KiL7A=
+
+Name: assets/iphone_Swipe_Glare.png
+SHA1-Digest: 1Eg1bYoS1BrYqE/CiHjJ/t457YQ=
+
+Name: assets/iphone_btn_camera_active.png
+SHA1-Digest: NsxOmQNXUn2vyEg0/cu9mzhoFDw=
+
+Name: assets/iphone_breed_place_btn-hd.png
+SHA1-Digest: lmtlhWZTJns4ELE55ySiWX1XMpk=
+
+Name: assets/iphone_breed_choose_bg.png
+SHA1-Digest: CjV3lWYnTum4GXvHrRsKUlMhhrs=
+
+Name: assets/iphone_meter_3_btn_alt_active-hd.png
+SHA1-Digest: G5WLUvHeVaWvJhUvKQ1z/wZGHCg=
+
+Name: assets/iphone_hud_fish_sell_active_btn-hd.png
+SHA1-Digest: YdqSc8jVpHMrBdEnAq5/+xatVQk=
+
+Name: assets/Arial Rounded MT Bold Brown 18.fnt
+SHA1-Digest: P6Cc1Cw7P83mTAFzAuScYlOcaEc=
+
+Name: assets/Arial Rounded MT Bold Brown 12.fnt
+SHA1-Digest: u8U/run+PmgTfEIBvNnIOmdXGgQ=
+
+Name: assets/Arial Rounded MT Bold 15px.fnt
+SHA1-Digest: 5C4Cqd98Gx/OXNsMsO7zWJrDhDU=
+
+Name: assets/iphone_meter_1_btn_active-hd.png
+SHA1-Digest: ceen4mt3MAyBwUN9zPFQXVgNaKU=
+
+Name: assets/heart_sheet.png
+SHA1-Digest: rpngrfVtKsGG3yLc8nD9pN95rc0=
+
+Name: assets/trail_star_particles.plist
+SHA1-Digest: zMb1AyFfNTDLQ+Yu5L9PW967dgE=
+
+Name: assets/iphone_event_rank_icon_3-hd.png
+SHA1-Digest: wRdilv/AL60/ftl1swA+btAZnE4=
+
+Name: res/drawable/close.png
+SHA1-Digest: Nwlm5aDJGXbo6eG5hVvbrq4/cVk=
+
+Name: assets/iphone_hud_alert_event_active_button.png
+SHA1-Digest: 0FjJZkq9GQsnCjnTf+FbACCDsgk=
+
+Name: assets/iphone_trait_icon_nice-hd.png
+SHA1-Digest: gczO0e1lPsju1Erxv4hbErBBlWE=
+
+Name: assets/party_confetti-hd.plist
+SHA1-Digest: 7ajjAS2M09c48HZmns9suAKD6ro=
+
+Name: assets/iphone_btn_back_active-hd.png
+SHA1-Digest: 3i66ac+9k0gTLkbZvdIh2dp9NpQ=
+
+Name: assets/emoticon_mood_2.png
+SHA1-Digest: TaPfNBaRtC7avJ7aZ8Qoxa8ncAc=
+
+Name: assets/iphone_event_rank_icon_2_big.png
+SHA1-Digest: 6nFQvu0NpzlSJik/0lEo+wO47m8=
+
+Name: assets/iphone_fish_profile_happy_item_like_on-hd.png
+SHA1-Digest: 7VxEMCRg40YVdrX9iStdwupCdfg=
+
+Name: assets/iphone_hud_prop_zoom_1_disabled_btn.png
+SHA1-Digest: FyyJgcny9v6hEBR7Zuc0naj8NmI=
+
+Name: assets/iphone_hud_home_btn_active-hd.png
+SHA1-Digest: az2FcN5kS34dV1Z4YtrXX8tnKTQ=
+
+Name: classes.dex
+SHA1-Digest: RdBHNmLxMLuIsMIYW7FflcAe61g=
+
+Name: assets/iphone_meter_5_bar.png
+SHA1-Digest: Jmna9+xxoYqkPCQ4LHjYBZJexD4=
+
+Name: assets/iphone_popup_bg_levelup_2_tank-hd.png
+SHA1-Digest: QzLZUstuAFzkQNZXmKdxNniHeDQ=
+
+Name: assets/iphone_tank_profile_hungry_bitmap.png
+SHA1-Digest: mrQu5GxFXCh52olXrxJcvCkGAAQ=
+
+Name: assets/iphone_quest_icn_star.png
+SHA1-Digest: BGttGK2GF0YdxBE+77wShP6wiUc=
+
+Name: assets/iphone_event_progress_icon_1_alt.png
+SHA1-Digest: mbJUK79OLE8FG1Kj89poQr+MaY4=
+
+Name: assets/ha_mobile_ui_announcements.json
+SHA1-Digest: cR6TayWVGBpuSAuj5jzuXtslRQs=
+
+Name: assets/iphone_tab_fish_new.png
+SHA1-Digest: Td4sW1jfqM0FIj2MF2jvVhWO41g=
+
+Name: assets/iphone_trait_icon_magical.png
+SHA1-Digest: 6B823Sw5rWR7VO4dfmaBuHaAB0Q=
+
+Name: assets/Arial Rounded MT Bold 15px.png
+SHA1-Digest: 25cxedQFXECiZDOUrLMKVvDdI18=
+
+Name: assets/iphone_fish_profile_happy_item_alert.png
+SHA1-Digest: xQuB2ZmuBnveUUVXwScu9rB3RLA=
+
+Name: assets/iphone_settings_music_on_button.png
+SHA1-Digest: ddc9I3WAr0Z9AtxZrsunWVb0ebs=
+
+Name: assets/heart_sheet.plist
+SHA1-Digest: K4b2qUgSkw1STu8Kikh5q8FscJU=
+
+Name: assets/trail_devil_cloud.plist
+SHA1-Digest: lYY2I+vDjiJI7z0EBgFTBb9dveg=
+
+Name: assets/iphone_tank_navigation_breed_03-hd.png
+SHA1-Digest: WSMDf3huDTI9lzWspWUHn5Lxm0M=
+
+Name: assets/iphone_btn_3_small_active-hd.png
+SHA1-Digest: pd/o2xkCmvB4H6E24iusQjqDXXI=
+
+Name: assets/iphone_event_filter_btn_3_active-hd.png
+SHA1-Digest: ZemcfYzusBIrVONJRbEjBFmT1GA=
+
+Name: assets/iphone_fish_profile_meter_happy_5-hd.png
+SHA1-Digest: CrpjuX0IhWHgpzUh7vGw1FNcPJM=
+
+Name: assets/FightCloud.png
+SHA1-Digest: iCpgL052BNOW/Ig/d7My99YoRPs=
+
+Name: assets/Arial Rounded MT Bold 17px-hd.png
+SHA1-Digest: CVzNLoS3RD3tKEgWViSwfEKojmI=
+
+Name: assets/iphone_store_item_btn_alt_active-hd.png
+SHA1-Digest: QJTh9MYTUDQyfNgSzQCzmbLkWb8=
+
+Name: assets/iphone_popup_bg_coin-hd.png
+SHA1-Digest: O71PorzqtfFDyCLeLx40IFBptsk=
+
+Name: assets/iphone_store_wallpaper_button.png
+SHA1-Digest: nzpkcAMnhU6io0VBpTcLEdQ/MYU=
+
+Name: assets/iphone_popup_bg_fish_locked.png
+SHA1-Digest: n69Qd3JaKnt0UqY3z1/cAtpvd4U=
+
+Name: assets/iphone_meter_5_btn_active-hd.png
+SHA1-Digest: KC099fYMtVQCF4ZUTo1j+epYHug=
+
+Name: assets/iphone_tank_navigation_04-hd.png
+SHA1-Digest: WmgsXMNzK307L2052kBEuNTtC6g=
+
+Name: assets/iphone_breed_place_btn_active-hd.png
+SHA1-Digest: DqO1l6t4AT57vTzRk6ZguoiRnfw=
+
+Name: assets/iphone_breed_choose_icn_feed-hd.png
+SHA1-Digest: VfdIxbh1UC5P6LYkERtxFi1q9LI=
+
+Name: assets/iphone_fish_purchase_icn_bowl-hd.png
+SHA1-Digest: RMLaKKeuOo5vXHGkRCKQalXN3A8=
+
+Name: assets/iphone_meter_3_btn_alt-hd.png
+SHA1-Digest: 9OhtafXGadbPoAUlp33KfBGPx2w=
+
+Name: assets/iphone_breed_place_btn_active.png
+SHA1-Digest: ytcZlojOD5MzUiSUD46o8XFrzIo=
+
+Name: assets/iphone_tank_placement_01.png
+SHA1-Digest: jnUcN0SsqaALyfpywkkY2flezOY=
+
+Name: assets/iphone_hud_pearl_warning_button-hd.png
+SHA1-Digest: oXuV7TJHv+8EimaXZWtowUrTrfk=
+
+Name: assets/iphone_dig_choose_item_btn-hd.png
+SHA1-Digest: WVOTkCkLFVcTgKUehVGiTcR1y3U=
+
+Name: assets/iphone_tab_le-hd.png
+SHA1-Digest: eDpEzUsxgHgmal2ErduHGk1ubH4=
+
+Name: assets/iphone_store_main_treasure_button_active-hd.png
+SHA1-Digest: PVHBbPDjJE580I38AbQYoaPLueo=
+
+Name: assets/iphone_tank_placement_breed_04-hd.png
+SHA1-Digest: WTKgHwV9bIHCdvCeyNDfK6J74cE=
+
+Name: assets/iphone_fish_profile_icn_happy_4_smaller.png
+SHA1-Digest: mfqtYmhqjV2kDxDqDnT9GLRIKP0=
+
+Name: assets/iphone_shared_back_btn_active-hd.png
+SHA1-Digest: 2tTSa4z+152Ka4n27It6kthX+rk=
+
+Name: assets/ha_mobile_store_sd.json
+SHA1-Digest: fIVmabtP9Ihjy+fFo49PqjvjmR0=
+
+Name: assets/iphone_hud_indicator_xp_bar-hd.png
+SHA1-Digest: Yq8Z+wpVB+MIFW0WO05SGgbD7d0=
+
+Name: assets/emoticon_mood_4-hd.png
+SHA1-Digest: 8L4YalRUtLIs+nV8bmBRYXurSvw=
+
+Name: assets/iphone_event_rank_icon_6_small-hd.png
+SHA1-Digest: l1QSluTf1QePE7GuS80I15XoSlI=
+
+Name: assets/iphone_social_btn_text-hd.png
+SHA1-Digest: +pgk7ItYv3rjt8RiMCX1fRRobGk=
+
+Name: assets/surfaceSplash_default.png
+SHA1-Digest: bcsixm7UKmixxr0gnQlxNwm31AI=
+
+Name: assets/iphone_hud_chest_collect_btn.png
+SHA1-Digest: GtU+CJpaV+3xHVNt7jTIOX7tUIc=
+
+Name: assets/iphone_store_item_enemy_0.png
+SHA1-Digest: NLIXyDubH371n+SbXfXf7wMlseM=
+
+Name: assets/iphone_popup_bg_fish_levelup-hd.png
+SHA1-Digest: N3dbcVD3OZjzB6QtLwmzmr6+3SY=
+
+Name: assets/iphone_popup_bg_breed_new_fish_4.png
+SHA1-Digest: Q0AqKxgrDPQM2w8rwB8IbP90CAY=
+
+Name: assets/iphone_social_dig_icn_happy_1-hd.png
+SHA1-Digest: 5vzlvbklHbZZkDS++LwJUCNLPfw=
+
+Name: assets/iphone_popup_bg_internet-hd.png
+SHA1-Digest: mHt1Vx3/kYVMmhvS/TAi6qJQMY8=
+
+Name: assets/iphone_inset_2.png
+SHA1-Digest: 0H/e9T1Efe6nNkTrUOaryMMIUC0=
+
+Name: assets/iphone_hud_pop_indicator_bitmap.png
+SHA1-Digest: yIgRFedq4/carLlt/NSebopHq/M=
+
+Name: assets/iphone_social_dig_icn_happy_2.png
+SHA1-Digest: cylY2ij9DFA8oSuzMwI3EKyh3mQ=
+
+Name: assets/effect_sheet_explosion.plist
+SHA1-Digest: 1ivNC5NocpTrVeFNqggLnDrsbtU=
+
+Name: assets/ha_mobile_treasure_finish_sd.json
+SHA1-Digest: Kasr2d3Of57q6euzCgvCq97mzJA=
+
+Name: assets/iphone_fish_profile_friend_button_active.png
+SHA1-Digest: 64usS6DnKJ5g02lGLvfTVp6iky8=
+
+Name: assets/trail_unicorn.plist
+SHA1-Digest: /gkgd7LmP11Fo+mHW0d6llZwwjI=
+
+Name: assets/iphone_social_btn_forum.png
+SHA1-Digest: 2tKGOAAVe7KDfB5VQtmsl4IeB1Y=
+
+Name: assets/PumpkinJF 11 Outline-hd.fnt
+SHA1-Digest: 9N/xzGpVb6IUXpcVeNPH3ovlzYk=
+
+Name: assets/iphone_popup_bg_quest_reward-hd.png
+SHA1-Digest: 9MbqFTpfpDnj+cV3VynepBrNgo0=
+
+Name: assets/iphone_breed_choose_item_btn.png
+SHA1-Digest: v+9MqFMqbiOvwTriGzM2vAHDi1E=
+
+Name: assets/iphone_store_main_tank_button_active-hd.png
+SHA1-Digest: Z/vYypiy0mWVH2IGbxBnL1PolyM=
+
+Name: assets/iphone_tip_bigcollect_button-hd.png
+SHA1-Digest: qLEkcVk8Msun4BTS+JwJBHVNyCc=
+
+Name: assets/iphone_trait_icon_brave-hd.png
+SHA1-Digest: M40Afip8nqvI+BEY3BlfrD+GBKs=
+
+Name: assets/iphone_tag_price_pearl-hd.png
+SHA1-Digest: x/GoROj2xOnLDx06DqkgULMwDOs=
+
+Name: assets/iphone_breed_begin_button_active-hd.png
+SHA1-Digest: MIfNN8uKqjyWULGhfHapfc+777E=
+
+Name: assets/harmony.plist
+SHA1-Digest: fvABj+26MvBCOVr6vA4Ziu/Aktc=
+
+Name: assets/iphone_social_dig_icn_happy_2-hd.png
+SHA1-Digest: Zx9ef4T2V0CMTkPfNQYLknIAsoM=
+
+Name: assets/haha_sheet.png
+SHA1-Digest: xHAjqGgDjOf+g95/X/zM3XU3L/4=
+
+Name: assets/iphone_feature_bg-hd.png
+SHA1-Digest: JVcLVlxuSPy2+1mMbzncJHb7wMk=
+
+Name: assets/iphone_fish_profile_icn_happy_2_smaller-hd.png
+SHA1-Digest: TxGAG0PQGYp455itwX6uLnMrizY=
+
+Name: assets/iphone_tank_profile_icn_happy_3.png
+SHA1-Digest: h+Zuy3v0p6ZfP8dUrixSwsrUZ8w=
+
+Name: assets/iphone_store_main_decoration_button_active.png
+SHA1-Digest: JDqZqZFujyTRvAjyyF4qyr0RNxc=
+
+Name: assets/iphone_tank_btn_indicator_breed.png
+SHA1-Digest: uunwKObcqMpVgQUG3ly11f7VUh8=
+
+Name: assets/iphone_icn_store_sticker_le-hd.png
+SHA1-Digest: Grf+n+CMqjuayc9sNzIWGaKxlcE=
+
+Name: assets/iphone_indicator_grownup_button-hd.png
+SHA1-Digest: vlWn3Mbv/oHsyWks9HRBkO5GMgU=
+
+Name: assets/iphone_hud_tank_navigation_button-hd.png
+SHA1-Digest: 0tFjmljeY6+VghV+ve1kIBXEBRU=
+
+Name: assets/iphone_tag_price_coin.png
+SHA1-Digest: MH+WOSc5MWWw4Wf81wfBVn4kj10=
+
+Name: assets/iphone_meter_3_btn_alt_active.png
+SHA1-Digest: KlAVcwKcHIf65auhQ39aIVgjs5Y=
+
+Name: assets/store_coins_1.png
+SHA1-Digest: 1/YPsqb6hD97vQVB+N5Ip3UoGMA=
+
+Name: assets/iphone_tank_profile_icn_happy_1-hd.png
+SHA1-Digest: Xrs3U3aMjkWwBwzWBldsI5MctX8=
+
+Name: assets/hud.plist
+SHA1-Digest: 0hSyfuDOLBRuXieja67Oh5sp0tw=
+
+Name: assets/iphone_btn_close_1_active.png
+SHA1-Digest: zOPBKAN5NFHMYZIuCkGasU5fzX8=
+
+Name: assets/iphone_alert_pearl.png
+SHA1-Digest: 7xYO0zDrOGHvFJq6Aq18bilhpa4=
+
+Name: assets/iphone_hud_breed_warning_down_button-hd.png
+SHA1-Digest: ra4wLyR60SW05kUd01B0b8YnSb8=
+
+Name: assets/iphone_hud_prop_sell_active_btn.png
+SHA1-Digest: lpS7Z0xcx8d5QdBOPXaINNiQwRY=
+
+Name: assets/iphone_btn_bg_4_active-hd.png
+SHA1-Digest: LOjz4iqbKop8URQ+E0L/hvzwzzw=
+
+Name: assets/CloseSelected.png
+SHA1-Digest: jAGLZR1Zw3vujySy5fwK5FRJTgA=
+
+Name: assets/Particle_Feather.png
+SHA1-Digest: mxEArf4IIDcsGGNAwu59YZ89804=
+
+Name: assets/iphone_hud_prop_move_active_btn-hd.png
+SHA1-Digest: SMTbaBulshchXG+dy21oFyHV+A0=
+
+Name: assets/iphone_quest_icn_dig.png
+SHA1-Digest: umeILRtqKDooAG2rW32aobFyzPg=
+
+Name: assets/BG_Sand_LockedBreeding.png
+SHA1-Digest: 5PQuHD+KKztygc1cNF+t+7hrEvI=
+
+Name: assets/iphone_hud_egg_warning_button-hd.png
+SHA1-Digest: 1GD03QjlNQlPgffro1h2G3gGtqY=
+
+Name: assets/iphone_btn_3_small_active.png
+SHA1-Digest: PFAuG+78incPMTAntRYS7EVBK+k=
+
+Name: assets/iphone_btn_close_1-hd.png
+SHA1-Digest: 6Iq/014kMiLc+SQ2RZJVYwNZan4=
+
+Name: assets/iphone_tank_navigation_06-hd.png
+SHA1-Digest: inmLbyX7gnDbuD+p2gjVf0rfnf0=
+
+Name: assets/iphone_hud_settings_btn.png
+SHA1-Digest: lptXFzFluj/xMdgKQy3E0xEuEvI=
+
+Name: assets/iphone_hud_egg_warning_down_button-hd.png
+SHA1-Digest: i/3diYx2cacEQjwFgBdXR+xF+1Y=
+
+Name: assets/iphone_tank_navigation_10.png
+SHA1-Digest: TGUSMrDOM/aqIDINdt+V/41xznc=
+
+Name: assets/iphone_store_tank_item_button.png
+SHA1-Digest: Xcb65Ap8YQ7zlKLJLzukn61CRbQ=
+
+Name: assets/iphone_tank_navigation_breed_04-hd.png
+SHA1-Digest: j6xZHXNSNIWiXt+a0qAET8fRgcs=
+
+Name: assets/iphone_fish_levelup_train_icn_1.png
+SHA1-Digest: RCy1buoWiot6udm4X5FZ4U/34GU=
+
+Name: assets/iphone_tank_profile_star_1.png
+SHA1-Digest: yA6vT7xbx8n4YTfGIlOQ0zDNXns=
+
+Name: assets/HA_Rocks.png
+SHA1-Digest: /YO7RLuayoiNXL3KYUO5/C5LnDM=
+
+Name: assets/iphone_event_rank_icon_3_small-hd.png
+SHA1-Digest: 6cIQe77WNbhNLL0QV4ins49WhT0=
+
+Name: assets/iphone_hud_home_btn.png
+SHA1-Digest: aLCbn4Neis+8mxnDQy7f/Zq/dks=
+
+Name: assets/iphone_social_dig_icn_happy_1.png
+SHA1-Digest: wL3tojtfT6pD5Ny1xAZhLVUEAEQ=
+
+Name: assets/iphone_popup_bg_photo_ipad.png
+SHA1-Digest: +e9yt/0kFhzmWmbhm0BV36NV9io=
+
+Name: assets/iphone_dig_choose_item_btn_active.png
+SHA1-Digest: w215X7UpUK2c8KUxy+duZgR2CIU=
+
+Name: assets/iphone_popup_bg_levelup_1_fish.png
+SHA1-Digest: kXREzd90Y6zknrKRWF6S6thic44=
+
+Name: assets/ha_mobile_ui_fish_purchase_popup_sd.json
+SHA1-Digest: Q99ql+KwN+vel00T9v+6BJckzz8=
+
+Name: assets/iphone_popup_bg_fish_profile_decor.png
+SHA1-Digest: fbcHX8zEHIK/hLnfQs+RHgvgKDY=
+
+Name: assets/iphone_popup_bg_fish_profile_decor-hd.png
+SHA1-Digest: ynXGyteN2nmSqqyfhhgMc3RyUt0=
+
+Name: assets/iphone_breed_meter_btn_active-hd.png
+SHA1-Digest: 7fmFhCub/lXvWaYK2UDiXrKM0X0=
+
+Name: assets/ha_mobile_level_info_sd.json
+SHA1-Digest: oP3Ve5pbazy8VNzr6tF7t8AIr+8=
+
+Name: assets/questionmark.png
+SHA1-Digest: S6TzUN3Prqa6zoClLcbxhAsGnyI=
+
+Name: assets/iphone_hud_chest_flip_active_btn-hd.png
+SHA1-Digest: dMEUGFgZYXadrH4y6bQxu9hWn0s=
+
+Name: assets/iphone_popup_bg_event_end-hd.png
+SHA1-Digest: /qKjUnov33bCwlOX8q6bbZNfygo=
+
+Name: assets/iphone_breed_place_btn.png
+SHA1-Digest: i90ZtaZW/+GvYzNBYdJIAvrDvMo=
+
+Name: assets/iphone_hud_breed_warning_button.png
+SHA1-Digest: DyLavImpqKPO2sUMbHt21rQr9vE=
+
+Name: assets/iphone_store_main_breed_decoration_button.png
+SHA1-Digest: s/PsqkJFCssMBP3dc7AkdX5lamE=
+
+Name: assets/iphone_store_main_decoration_button.png
+SHA1-Digest: RkK5ZMQNyYs2d3Oa6h1MLIFKhwA=
+
+Name: assets/galaxy_warp.plist
+SHA1-Digest: hE+u+kOiheQGDfo33r5nhF2cQqA=
+
+Name: assets/iphone_event_leaderboard_footer.png
+SHA1-Digest: FEaxeC3Da7Of1sAQ+se5IIRzShc=
+
+Name: assets/iphone_event_filter_btn_2_active-hd.png
+SHA1-Digest: 8+wuG7wi3dEhCJLwdS7FwfHfp8Y=
+
+Name: assets/iphone_hud_nav_breed_unselected_bitmap.png
+SHA1-Digest: b2EKW3HHQeWxMNCwc0NOlB0GYzM=
+
+Name: assets/iphone_social_btn_email.png
+SHA1-Digest: QDYrjU5hYiQ7WbxTe6VutnmHYqM=
+
+Name: assets/iphone_logo_fwa-hd.png
+SHA1-Digest: pfuVZkMXxgnCoCYsrQmj1T8dGQk=
+
+Name: assets/iphone_store_main_tapjoy_button.png
+SHA1-Digest: qTdP8kzm6nxY30jAlk9c+/lZrHw=
+
+Name: assets/bff.png
+SHA1-Digest: NyBhsjHOgBp9tOZGrmlhbeyLp44=
+
+Name: assets/iphone_store_item_fish_btn_active.png
+SHA1-Digest: 2dLhdZiQIcXd5aXjxSQT7svfQIs=
+
+Name: assets/iphone_tank_profile_icn_happy_3-hd.png
+SHA1-Digest: /UwSSG6ZYFno/bhveidWwE0+mls=
+
+Name: assets/iphone_popup_bg_fish_profile-hd.png
+SHA1-Digest: 8aIp+vrqW+dIV+dsGNaMo98f7xQ=
+
+Name: assets/iphone_meter_5_bg_alt.png
+SHA1-Digest: W9Ult/BXlJx9rtx7li9QoHwlAQI=
+
+Name: assets/iphone_hud_nav_home_selected_bitmap.png
+SHA1-Digest: xn4yriV6DtON5zu4bwow/baGVQY=
+
+Name: assets/iphone_tank_levelup_star_2-hd.png
+SHA1-Digest: XRisuPbwwkrtnOW0bCrNvSsTx+Q=
+
+Name: assets/iphone_store_main_decoration_active_button.png
+SHA1-Digest: 3dR0TvthXemzDhd5Ksy9XU7g3jo=
+
+Name: assets/iphone_btn_bg_facebook.png
+SHA1-Digest: MdUDcHsD7xbr7hQYmcdayb2EF18=
+
+Name: assets/iphone_store_main_tapjoy_button_active-hd.png
+SHA1-Digest: UOfdY3VId7NsiCrmcvPW+9Z6zNM=
+
+Name: assets/iphone_event_progress_icon_2-hd.png
+SHA1-Digest: D/Wn53477Itf32fSCfKIXiICMJs=
+
+Name: assets/ultra_rare_instruction_popup.json
+SHA1-Digest: RpIHgcaPUPjzs8AllnYRJwnetvA=
+
+Name: assets/effect_sheet_explosion.png
+SHA1-Digest: tekBeihjK/yQ0gNygjQXa4pbXoc=
+
+Name: assets/iphone_popup_bg_generic.png
+SHA1-Digest: 5uTH5Jnbn9HX6hU2HkKE+QceR/0=
+
+Name: assets/iphone_fish_profile_meter_happy_4.png
+SHA1-Digest: vLzGkix+EmJMzpi//BUhT/eZhdI=
+
+Name: assets/iphone_hud_prop_zoom_2_active_btn.png
+SHA1-Digest: zwCo4eaK0l+5dzHwRnAqyOGneq4=
+
+Name: assets/iphone_social_dig_icn_breed.png
+SHA1-Digest: gTvZClMZoY6D+j9lMgQa1NKLNxQ=
+
+Name: assets/iphone_tank_profile_decobar_fill_bitmap-hd.png
+SHA1-Digest: CauyTyylFhhxeVXOJv+z20VcabI=
+
+Name: assets/iphone_tank_placement_breed_btn.png
+SHA1-Digest: Hcd4LEOSfpLL5KGXc8rICEeop5Q=
+
+Name: assets/iphone_btn_close_1_active-hd.png
+SHA1-Digest: ngwulHQk9V6dUTn0xhhPGsNvNfM=
+
+Name: assets/iphone_hud_settings_active_btn-hd.png
+SHA1-Digest: JLTpHXMgepRUfCDY3MZZ0ayJLow=
+
+Name: assets/iphone_hud_prop_flip_btn-hd.png
+SHA1-Digest: kaoqqbxhkrpka3BwKhuhCRSP6JA=
+
+Name: assets/ha_mobile_treasure_reward_sd.json
+SHA1-Digest: pXM6V9E57HW5/X4/wxMHbaj74a4=
+
+Name: assets/iphone_fish_profile_meter_happy_2-hd.png
+SHA1-Digest: /2KuKogE0vMo4S5P0MMYBWzLQVU=
+
+Name: assets/iphone_tank_placement_btn_bg_active-hd.png
+SHA1-Digest: JURN9Vow2U8a14d5j3eHt00URmI=
+
+Name: assets/iphone_store_item_enemy_1.png
+SHA1-Digest: 89ub/LVqpFUOmlz9F/EcikS7zGQ=
+
+Name: assets/iphone_store_all_button-hd.png
+SHA1-Digest: e4dPSrb8iaBKd8nxR9sNECsG7us=
+
+Name: assets/fire_breath_sheet.plist
+SHA1-Digest: 9ZhM+CnTq62PpVMBDdy4w6O7t84=
+
+Name: assets/iphone_tab_event_1-hd.png
+SHA1-Digest: sOQgHDBg8VwWnzmVhN/uKGNILIc=
+
+Name: assets/iphone_tank_btn_indicator_full-hd.png
+SHA1-Digest: /MYnDytBYejkPx8mp0od4u3ySxY=
+
+Name: assets/iphone_trait_icon_creative.png
+SHA1-Digest: ZogQDMxCLaGRLsySsu+W6nA7eVc=
+
+Name: assets/iphone_social_dig_icn_happy_4.png
+SHA1-Digest: pC+XPh0OJyXFAJp+jB9qmbRowW4=
+
+Name: assets/iphone_event_leaderboard_filter_3_active.png
+SHA1-Digest: V99OSNYQ4JHSNFPaB8d0fNYt+s0=
+
+Name: assets/iphone_logo_cs-hd.png
+SHA1-Digest: ZvOQtP2a0pPNTPjJlYWwsyXO9VI=
+
+Name: assets/iphone_event_rank_icon_1_small-hd.png
+SHA1-Digest: W6M9sS5T97kg43UB0i4wiX8wh4M=
+
+Name: assets/iphone_fivestar_close_button.png
+SHA1-Digest: oIhLjQDq7RfGLCoEfuPZRaoEscQ=
+
+Name: assets/iphone_popup_bg_treasure_1.png
+SHA1-Digest: i+m/pp6rAgigRmSfTwrvwZO4TKQ=
+
+Name: assets/iphone_store_main_treasure_button-hd.png
+SHA1-Digest: KIIRbPu6gsmOk3NDKB5dNDwcbtk=
+
+Name: assets/Info.plist
+SHA1-Digest: G4v9d4OnzutI1nf/bJUyKfPpfSQ=
+
+Name: assets/iphone_breed_choice bg bitmap.png
+SHA1-Digest: rY5RK3hjE5fzcHM/b2Uox2B+wjI=
+
+Name: assets/Arial Rounded MT Bold Brown 18.png
+SHA1-Digest: LhljfIuy7Vvozt+zj+hI1Hp6X3Y=
+
+Name: assets/iphone_quest_item_bg.png
+SHA1-Digest: 95wsNjs1f2AbWXcSiI98f6Yd4rc=
+
+Name: assets/iphone_tank_profile_star_3-hd.png
+SHA1-Digest: EVGL9MCvvBJOGD3B0gOFp5w4SDs=
+
+Name: assets/iphone_nuf_1-hd.png
+SHA1-Digest: avC9buQ2WxsOIijuxS/kNStRUiI=
+
+Name: assets/iphone_basic_screen_bitmap.png
+SHA1-Digest: MRfFqIrWFeQUplqoa6pS6xLLu04=
+
+Name: assets/iphone_event_rank_icon_3_small.png
+SHA1-Digest: 4Vavwnl3uLpmCESkIkrj+6se8l0=
+
+Name: assets/iphone_store_main_babyfish_active_button.png
+SHA1-Digest: xsiVgaUT4VkK2L5lOAAZpuCPVFs=
+
+Name: assets/iphone_hud_context_fish_star_off.png
+SHA1-Digest: 8oVo8IwjZVfwv83EdIJVQMd6Cfk=
+
+Name: assets/iphone_hud_indicator_coins.png
+SHA1-Digest: T0nQRmBnkOBoRQZjug3ANpZ89iw=
+
+Name: assets/iphone_store_coins_btn-hd.png
+SHA1-Digest: j+5ySPL2ZPoU4QzszG3xs8X12vE=
+
+Name: assets/iphone_popup_bg_breed_new_fish_2-hd.png
+SHA1-Digest: e7pt1mY2qTPGwTo09dPSl43kOU8=
+
+Name: assets/iphone_tank_levelup_star_2.png
+SHA1-Digest: +R2DnbjWyFyRpMSxXQ2MdSwbKqo=
+
+Name: assets/iphone_popup_bg_treasure_1-hd.png
+SHA1-Digest: Xa+XT5hddBGmW0XrUiWS7HZFoiY=
+
+Name: assets/iphone_indicator_fishhungry_button.png
+SHA1-Digest: mMK57A61ylCsDHsoqhgCUkV9CO4=
+
+Name: assets/fire_breath_sheet.png
+SHA1-Digest: oFvBblO9IZN8+n8Tyfp3Tx8EWnA=
+
+Name: assets/iphone_hud_indicator_pearls.png
+SHA1-Digest: G0cf1Qvps83Mxt+wXllTC2n+a+k=
+
+Name: assets/Arial Rounded MT Bold Brown 16.png
+SHA1-Digest: LhljfIuy7Vvozt+zj+hI1Hp6X3Y=
+
+Name: assets/iphone_home_button-hd.png
+SHA1-Digest: zR9f04I6CiYruX1WF2q+O+ebGvA=
+
+Name: assets/ui_screenshot_popup.json
+SHA1-Digest: pwItfAiw0moGu11KtBLemcBnbGs=
+
+Name: assets/iphone_popup_bg_breed_build.png
+SHA1-Digest: NTekuODF220CAgU8ovxGlLjs5tg=
+
+Name: assets/iphone_hud_prop_zoom_1_btn-hd.png
+SHA1-Digest: 3MwBongM5cQEttGU1Wx0RR6qf7U=
+
+Name: assets/ha_mobile_ui_tank_locked.json
+SHA1-Digest: VifKCcLB+WyWVVTmvlkOfl7Ko78=
+
+Name: assets/iphone_btn_2_small-hd.png
+SHA1-Digest: RB3MJO870STGS6Rq+5Gnbxl03V4=
+
+Name: assets/food.png
+SHA1-Digest: B2xgwl6CFGQ0eY3rwtW/1TNzzOM=
+
+Name: assets/ha_mobile_social_gift_fish_selector_sd.json
+SHA1-Digest: 7eJD5r2HmiRimTnOYSqU5NR5d8E=
+
+Name: assets/iphone_fish_profile_friend_button-hd.png
+SHA1-Digest: 7mWWdAZXzVIKYFGDDMpBunqNqSo=
+
+Name: assets/iphone_store_item_lock-hd.png
+SHA1-Digest: +Ia7DUiDv7F3GrTV1wkrPX5+2ug=
+
+Name: assets/iphone_btn_2_small_active.png
+SHA1-Digest: znJ/uCahl+ApG/7GADpxdkRpEOg=
+
+Name: assets/store_pearls_1-hd.png
+SHA1-Digest: wSyUib3Z2bw+2mRQrS79BhAIJPs=
+
+Name: assets/iphone_event_inset_1-hd.png
+SHA1-Digest: uz2kgeOK23cfkh2RP4J0Ws5bbrg=
+
+Name: assets/iphone_achievement_icn_1-hd.png
+SHA1-Digest: v//8Ea5bvJ8I3aHG24YYZrGu0rk=
+
+Name: assets/Particle_bubble.png
+SHA1-Digest: 3mCpZvC4etgdBIh3L/n0KHo8ePY=
+
+Name: assets/iphone_tip_bg_3-hd.png
+SHA1-Digest: qRUaIGvf9r5PRQFJiP2SgjexXm4=
+
+Name: assets/iphone_achievement_alert_1.png
+SHA1-Digest: VYStc+1lK1gl13nAmg8+g/Q5Log=
+
+Name: assets/iphone_fish_purchase_icn_bowl.png
+SHA1-Digest: gl8HmOj8YMHqM/EU8WviqnJzLfE=
+
+Name: assets/iphone_dim.png
+SHA1-Digest: tVdeYF6062IPRrceC8GEDT+Ngwk=
+
+Name: assets/iphone_event_rank_icon_2_small-hd.png
+SHA1-Digest: TezxU6jEIYZXK/u0IF+tT/bfqVE=
+
+Name: com/crowdstar/billing/GooglePlayBillingFacadeDebug.java.orig
+SHA1-Digest: YjC++BYD1jGjj231K4W3Xbqn3Tc=
+
+Name: assets/iphone_popup_bg_sell_bowl.png
+SHA1-Digest: lxRU4TtzRoAuhPCiGpbCm1jcHNs=
+
+Name: assets/iphone_popup_bg_fish_profile.png
+SHA1-Digest: 52RcSijzI8rCzIELiRcBq2WD8C0=
+
+Name: assets/iphone_fish_profile_meter_happy_1.png
+SHA1-Digest: FctLuZI+H9Job7VaqiYTiNqdXkQ=
+
+Name: assets/iphone_achievement_icn_3-hd.png
+SHA1-Digest: v//8Ea5bvJ8I3aHG24YYZrGu0rk=
+
+Name: assets/iphone_tank_btn_indicator_empty.png
+SHA1-Digest: kszIrWpRwFXApNvxNYo1P8vfGm4=
+
+Name: assets/ha_mobile_ui_breeding_tank_unlock_sd.json
+SHA1-Digest: epgSHU6ESq6EQ8/eFMGvmIkkwks=
+
+Name: assets/iphone_popup_bg_fish_train.png
+SHA1-Digest: 8VYv1wF/zJ39JSH/E7RJ6hfbeDw=
+
+Name: assets/iphone_nuf_hand.png
+SHA1-Digest: egtyGpMHUaEmFHCUP5fQP1WqbE8=
+
+Name: assets/Beam_Down.plist
+SHA1-Digest: c+t2Z0Nqxc1x62Y9oIa6GNChBx8=
+
+Name: assets/iphone_quest_icn_happy-hd.png
+SHA1-Digest: BVC3VRqYWjcP3iQFvhbzBGD3rLU=
+
+Name: assets/iphone_quest_icn_fling-hd.png
+SHA1-Digest: f1Y/x4GyJBciGdyXDhhHbNFaZgA=
+
+Name: assets/iphone_fish_profile_happy_item_decor_on-hd.png
+SHA1-Digest: i+RhtKeTrsbiUnPsG8dX+2tiAis=
+
+Name: assets/Arial Rounded MT Bold White no shadow 16-hd.png
+SHA1-Digest: 42e23OGTPZxqfpp5+jQ0jr2TNis=
+
+Name: assets/iphone_inset_trait_c-hd.png
+SHA1-Digest: qcVQ7RNFNS7ewMMCQTNgYNWTnbA=
+
+Name: assets/Arial Rounded MT Bold White 23.png
+SHA1-Digest: rXO63pzXBtaHSZoodMvTn6mGkPM=
+
+Name: assets/iphone_quest_icn_buy-hd.png
+SHA1-Digest: 5aUYSuvph0JV3D7e5u5jr/F+SqA=
+
+Name: res/drawable-mdpi/icon.png
+SHA1-Digest: TGj47shvtLqTlD7Z6AT7JJEB7To=
+
+Name: assets/iphone_meter_2_bg_b.png
+SHA1-Digest: d+tPWC68v8TYxaOnERFCpqwwylo=
+
+Name: assets/confetti_happy.plist
+SHA1-Digest: nNqlh5qISoWv+nKZP2/5VE6GVjU=
+
+Name: assets/iphone_breed_unlock_button-hd.png
+SHA1-Digest: nyUApHR58DGcklKEERoUV5yWbSA=
+
+Name: assets/behaviors_rainbow.png
+SHA1-Digest: rrxWAPWGNKowIzFyfNWkUCINwAI=
+
+Name: assets/regular_diffuse_particle.png
+SHA1-Digest: eui/duG6dOLxzBMLcLjUvYTBPyE=
+
+Name: assets/Particle_Star.png
+SHA1-Digest: lBLY3W/47Lay8C7GzJnQ8rcI4Zs=
+
+Name: assets/iphone_quest_icn_train-hd.png
+SHA1-Digest: OU06/nuJne1+1Vc0Px4y6nPCUNk=
+
+Name: assets/iphone_breed_unlock_button_active-hd.png
+SHA1-Digest: 77H1/TbNBhSezUP8/1sjjDuQYtI=
+
+Name: assets/iphone_hud_nav_breed_selected_bitmap-hd.png
+SHA1-Digest: hWBKEl6D48fDNM8EGxEqFfj+vGE=
+
+Name: assets/iphone_icn_coin-hd.png
+SHA1-Digest: 0kyV4BUsg6G3ejjYHjrUCnb0tbQ=
+
+Name: assets/iphone_btn_bg_5.png
+SHA1-Digest: ZCDaCZ6MyTaCzYE3Q5mmyhQg1iw=
+
+Name: assets/iphone_hud_chest_flip_active_btn.png
+SHA1-Digest: PFHOsclW1dKC2wFQBi/rVOizqBI=
+
+Name: assets/iphone_trait_icon_celestial-hd.png
+SHA1-Digest: ePh3xr4jJDYbmWHObzY+pWParkw=
+
+Name: assets/iphone_popup_bg_generic-hd.png
+SHA1-Digest: XTS6OFFyiULTdrsQjO9idxOiTrI=
+
+Name: assets/iphone_popup_bg_social_alert_2.png
+SHA1-Digest: N9DlJZDp22XDtPdH4yHfJt6W4Ec=
+
+Name: assets/bubbles_splash.plist
+SHA1-Digest: fMmmihaZsxzeHWZEuoUrSb8kqYY=
+
+Name: assets/Arial Rounded MT Bold 16px-hd.png
+SHA1-Digest: DN2txeq9RlFdRTZQ+tzJlqKdJfA=
+
+Name: assets/Arial Rounded MT Bold White no shadow 17.png
+SHA1-Digest: DvcnglQnxvhY+PUXWsRdwpHIgdQ=
+
+Name: assets/iphone_tank_placement_btn_bg.png
+SHA1-Digest: saDykmv11zm+cyHD4CoFd8iuLb8=
+
+Name: assets/iphone_popup_bg_social_alert_2-hd.png
+SHA1-Digest: 71SioX500prVrOFp3BHRKlhhKcM=
+
+Name: assets/iphone_hud_fish_move_active_btn.png
+SHA1-Digest: Oh/aEXOpE0CgrKCcQmarSRBZUhI=
+
+Name: assets/iphone_quest_icn_breed-hd.png
+SHA1-Digest: e54WiAZCHC1xQ6tV7JpGr5m5Vrk=
+
+Name: assets/iphone_fish_profile_icn_happy_5_smaller-hd.png
+SHA1-Digest: f080ofZNbQ0d7KXbMqW5pXLYb18=
+
+Name: assets/iphone_hud_indicator_bg.png
+SHA1-Digest: bHRkSyGuCgr/SWVIHtPz6BlWtfs=
+
+Name: assets/iphone_btn_bg_1_active.png
+SHA1-Digest: rkVqJA3SR+dvEiGQZPAkx9x/VMk=
+
+Name: assets/iphone_social_fish_btn-hd.png
+SHA1-Digest: rWj2d5C5M7ncezpdl+vBGYNPPfs=
+
+Name: assets/ha_mobile_sell_fish_popup_sd.json
+SHA1-Digest: WM75ZLlwAeTPT/ZRHPuCMc1HRkA=
+
+Name: assets/iphone_hud_indicator_xp_bar.png
+SHA1-Digest: h3wMBug0iT9c8LWQtWk/qcy6+O4=
+
+Name: assets/iphone_tank_breed_buy_btn.png
+SHA1-Digest: +nmXGdr+pRa2TZdbtFPdjPYAVqM=
+
+Name: assets/iphone_achievement_bg_1_fish-hd.png
+SHA1-Digest: 58GyczXCFQqH4WIbtgy/3fq6y4E=
+
+Name: assets/iphone_inset_trait_b.png
+SHA1-Digest: s+Y6SHFGlTCstVTjk1bzMjTyw1w=
+
+Name: assets/iphone_tank_navigation_08.png
+SHA1-Digest: L+T9AlPQfQGYYHSozotwMFFJTpA=
+
+Name: assets/iphone_fish_profile_icn_happy_1_smaller.png
+SHA1-Digest: VOu0GHtuWapw2+5N5f36UwCYLEE=
+
+Name: assets/iphone_store_item_tank_locked.png
+SHA1-Digest: qAyoK6fyDTB8Rtr98xH7/rSHtf4=
+
+Name: assets/iphone_store_item_btn_tag-hd.png
+SHA1-Digest: ggMSQO5Y9HCdozAKtsYMtBzdovE=
+
+Name: assets/iphone_popup_bg_alert-hd.png
+SHA1-Digest: XTS6OFFyiULTdrsQjO9idxOiTrI=
+
+Name: assets/ha_mobile_tank_navigation_sd.json
+SHA1-Digest: EzulyyIJXMTzuaGrcUftG6MYj28=
+
+Name: assets/gossip_2.plist
+SHA1-Digest: Cgtc9Q4vZ946+E/iSGn7vufZRI4=
+
+Name: com/flurry/org/codehaus/jackson/impl/VERSION.txt
+SHA1-Digest: e5SCAPRXg/4j8xeYYLwClbrNTY0=
+
+Name: res/drawable/loading.png
+SHA1-Digest: 1+eHO2/vZxoRH49q5CwaNVENwqY=
+
+Name: assets/sand_dig.plist
+SHA1-Digest: F9MiV7HdOC5TEL/ejruMNmWWpPc=
+
+Name: assets/ha_mobile_ui_main_store_screen.json
+SHA1-Digest: fTdswZ70LcXc9f+VOA5f9y37pl4=
+
+Name: assets/iphone_tank_placement_bg-hd.png
+SHA1-Digest: cB/oy8IroAJyYodTXcN0PpitLZI=
+
+Name: assets/iphone_event_rank_icon_1.png
+SHA1-Digest: ltT/MWq5733vNysTlIzadN9r2vo=
+
+Name: assets/iphone_trait_icon_rare.png
+SHA1-Digest: FWZ+ucJ01lANShAMiYwq9OCXzqs=
+
+Name: assets/iphone_tank_placement_07-hd.png
+SHA1-Digest: LIg0vvv51tTs5vD+xJPsGs38odk=
+
+Name: assets/iphone_info_enemies_bitmap.png
+SHA1-Digest: ryuIW26Ti6j3g07kpgPMn8DZlsc=
+
+Name: assets/CloseNormal.png
+SHA1-Digest: /QGcO1MOwaLN1VS5dk86sEDqqKA=
+
+Name: assets/iphone_hud_feed_inicator_bg.png
+SHA1-Digest: bHRkSyGuCgr/SWVIHtPz6BlWtfs=
+
+Name: assets/iphone_tank_navigation_indicator_empty.png
+SHA1-Digest: 0xuCp1BtTTkMfIQeufSqB/Zt5Zc=
+
+Name: assets/iphone_popup_bg_levelup_1_fish-hd.png
+SHA1-Digest: NdbEnxs1O0TGYixhuPbjLNTo9sQ=
+
+Name: assets/ha_mobile_ui_fivestar_popup_sd.json
+SHA1-Digest: UAabs0cK6DyL2Orv2BxjIqnuTZk=
+
+Name: assets/iphone_tank_placement_02-hd.png
+SHA1-Digest: Q9nNMErjfj6OQ3KBl/Z/FqFqS3o=
+
+Name: assets/sleepingz.png
+SHA1-Digest: dpiUPja36dZ5AVTReaYEpsklEd8=
+
+Name: assets/iphone_social_fish_btn_active.png
+SHA1-Digest: luBhMQXmqVXiOsozTSPfwohw+Y8=
+
+Name: assets/iphone_trait_icon_happy.png
+SHA1-Digest: KBDrGyUWrb6FtSArx8VOy/TYLfU=
+
+Name: assets/iphone_store_pearls_active_button-hd.png
+SHA1-Digest: 3sUY+y1Er4FLp2shNJNBwKseR9Y=
+
+Name: assets/iphone_Swipe_TextColor.png
+SHA1-Digest: VI78QB592iGzYU8N0UUwf4mSPA0=
+
+Name: assets/iphone_feature_img_bg_1.png
+SHA1-Digest: 33Qy8wxEZ4iD6wwM863pf/9Q3eg=
+
+Name: assets/store_coins_3-hd.png
+SHA1-Digest: r8bYqHeaW2hIhhMWF4rwNAIb/Ow=
+
+Name: assets/iphone_buildtank_bar_bitmap-hd.png
+SHA1-Digest: La1026QhISWIdbsvjOtNQLHPBao=
+
+Name: assets/iphone_tank_placement_btn_bg_active.png
+SHA1-Digest: KRT4e50qEGJ3VE6Wrglyyt/uSI4=
+
+Name: assets/Arial Rounded MT Bold White 12.png
+SHA1-Digest: LpC7Fo0LkCkw8qR/eGQsjHQheH8=
+
+Name: assets/iphone_event_rank_icon_5.png
+SHA1-Digest: aEeipg5334KJ4HT1ikVaBi2VOgI=
+
+Name: assets/iphone_fish_profile_icn_happy_4_smaller-hd.png
+SHA1-Digest: EkaGgzPn9DUzGlD4SVTn30Xs+wk=
+
+Name: assets/Arial Rounded MT Bold 15px-hd.png
+SHA1-Digest: 9FG4u/zuHjkkg6CCVmjMfGDoT20=
+
+Name: assets/iphone_btn_1_small_active-hd.png
+SHA1-Digest: WjrHF59ZWrclNSxVca/89j7NL0M=
+
+Name: assets/iphone_btn_1_tiny_active.png
+SHA1-Digest: NiISWtrSr+H4fw0/AS7iDO4UdO0=
+
+Name: assets/Clam_Open.png
+SHA1-Digest: XK9z1vm47CZDH4Bp0kdPmFaNvqM=
+
+Name: assets/iphone_hud_fish_sell_btn-hd.png
+SHA1-Digest: I4tDXy8aFYQ/0LcXEajcGXQeJns=
+
+Name: assets/iphone_social_btn_text.png
+SHA1-Digest: WBQxJjs7KsYJ7Rv7Z4Xh95/C1mw=
+
+Name: assets/party_confetti-hd.png
+SHA1-Digest: CmJTorDwwMghaVw6h6FLs7qWXAY=
+
+Name: assets/iphone_popup_bg_tank_profile.png
+SHA1-Digest: dxqPhRZtm20GcskLv7aH8pALyHk=
+
+Name: assets/treasure_reward_pearl.png
+SHA1-Digest: YTsYH9wS41jCdh0EnFCoz99YKBw=
+
+Name: assets/rewards.plist
+SHA1-Digest: GuP7tyO8mp4EeWsToEV/EHtksVI=
+
+Name: assets/iphone_tank_breed_buy_btn-hd.png
+SHA1-Digest: 0JFxEgiusN6rDGBmNC4HnD/mJ2g=
+
+Name: assets/iphone_quest_popup_bitmap.png
+SHA1-Digest: iqFgaSMIuqLNS18icQuNwZK3Ic4=
+
+Name: assets/iphone_btn_bg_facebook_active-hd.png
+SHA1-Digest: SX/508k2ysCUJo0ImmElwfLMYqQ=
+
+Name: assets/iphone_store_main_breed_decoration_button-hd.png
+SHA1-Digest: KZuVv9VjCcoMVt/4AygiZIBrSsQ=
+
+Name: assets/iphone_social_dig_icn_feed-hd.png
+SHA1-Digest: tKJySgJwi4DVLIJ/ovAZ6Bc/ktg=
+
+Name: assets/iphone_trait_icon_brave.png
+SHA1-Digest: JVPEiuF5KSwAToe2pqkplqrISxQ=
+
+Name: assets/iphone_event_rank_icon_2_big-hd.png
+SHA1-Digest: VRRLUDANFwLHJ4Rud8ndkNweO+U=
+
+Name: assets/iphone_hud_tank_rating_star.png
+SHA1-Digest: 3stTnNlWxd1LmAE5PRRGBOq4YCs=
+
+Name: assets/iphone_store_event_alet_bg_small.png
+SHA1-Digest: 0vDfBMoloa0ilQ5TVH0NBJ0AoOg=
+
+Name: assets/iphone_hud_context_fish_star_on-hd.png
+SHA1-Digest: nDL1wnW+fdu42cDo1klXXF+MKaQ=
+
+Name: assets/diamond_burst_Large.plist
+SHA1-Digest: 3Ufqr+OsDklGUjvlGARIEUICQ2A=
+
+Name: assets/iphone_popup_bg_randomize-hd.png
+SHA1-Digest: 6Wf2X4QjdXQltS/8c+l3eDcNMM0=
+
+Name: assets/iphone_fish_profile_meter_happy_1-hd.png
+SHA1-Digest: CERPruvznGI55+xlFMM5x8e0t1E=
+
+Name: assets/iphone_article_img_bg_2.png
+SHA1-Digest: dcuCst3lvypGyjHpg1YsTZe/LKI=
+
+Name: assets/iphone_tank_navigation_star_1_inset.png
+SHA1-Digest: PG8bf8FJxEYRJVpXmG7MzXTtyXg=
+
+Name: assets/iphone_breed_meter_btn.png
+SHA1-Digest: Ni0NdogizzsIQCcC2MN49eLNPQc=
+
+Name: assets/Barlow Blue 25.fnt
+SHA1-Digest: NlZZCSKzGSY/DAvA7aD5Wt4YCR8=
+
+Name: assets/iphone_quest_icn_generic-hd.png
+SHA1-Digest: dwoJ6kduG2CoXCOJNCvbjFWt8bI=
+
+Name: assets/iphone_store_info_fish_bg.png
+SHA1-Digest: /Xosn1iqt2Sji8DRxK9tWkj3QiY=
+
+Name: assets/iphone_dig_choose_item_btn.png
+SHA1-Digest: EGZEUGIcNDlrsvJvBei8ji/aIc4=
+
+Name: assets/iphone_hud_alert_gift_button-hd.png
+SHA1-Digest: OC+vUyymePQe1MQA7hcueD35JVk=
+
+Name: assets/iphone_tank_placement_02.png
+SHA1-Digest: 5Y/ZokCuJbzcGfQeyEj6cvNowWM=
+
+Name: assets/iphone_popup_bg_fish_profile_like_1-hd.png
+SHA1-Digest: pmghvSymuoZvWnjSGxtbpX3lr1k=
+
+Name: assets/iphone_popup_bg_breed_speed.png
+SHA1-Digest: 7MKIUEPrROrzatXlZjICECAVq2c=
+
+Name: assets/iphone_event_progress_icon_2.png
+SHA1-Digest: RpV2vlVNota7S//BP+NV9AZwRss=
+
+Name: assets/iphone_fish_profile_friend_button.png
+SHA1-Digest: ZUtcd9NIbSTr4OxMPZXy2os2VdA=
+
+Name: assets/ha_mobile_store_fish_info_sd.json
+SHA1-Digest: /wK5yfRhQsvpQ6chTFmX6u6wBps=
+
+Name: assets/iphone_btn_camera-hd.png
+SHA1-Digest: EhaL952oD3BoQf0N0wMJqqgWgHA=
+
+Name: assets/randomize_fish.plist
+SHA1-Digest: GpjpY8YEPgSt3dEQ6+nV4OTING0=
+
+Name: assets/iphone_tank_navigation_star_3-hd.png
+SHA1-Digest: pwxHQ51Ti2rRhBfDeE9fnBn7S7U=
+
+Name: assets/iphone_popup_bg_levelup_3_pearl.png
+SHA1-Digest: w11gN6qWUHwYCcG9PvZC0ZLDRHU=
+
+Name: assets/iphone_event_rank_icon_4-hd.png
+SHA1-Digest: SBy37LP0zjJRvVsx0BaJbhCcpNw=
+
+Name: assets/iphone_meter_2_bg_b-hd.png
+SHA1-Digest: /Bf4Zzu2spLtTMngcrCe9G2b6os=
+
+Name: assets/bottom_effect.plist
+SHA1-Digest: QiJYRCLqMtVaTM1xerRRGkOT4gw=
+
+Name: assets/iphone_tab_new.png
+SHA1-Digest: Td4sW1jfqM0FIj2MF2jvVhWO41g=
+
+Name: assets/iphone_quest_icn_state-hd.png
+SHA1-Digest: 8iMhorCWbqBmlDnGAMB4zzQSu5c=
+
+Name: assets/iphone_friend_btn_bg.png
+SHA1-Digest: hoYs7c28MsW2xBQYGFxLRHEo0lo=
+
+Name: assets/iphone_social_dig_icn_happy_3-hd.png
+SHA1-Digest: tT9nRG6FlP+B3Dbu+22bFPlvsv0=
+
+Name: assets/iphone_popup_bg_fling.png
+SHA1-Digest: lFfTvfiFthhpQ8EoQUvrhpnMUjA=
+
+Name: assets/party_confetti.png
+SHA1-Digest: h5wNUvVBmlDotOaYg03AKdtQ+a0=
+
+Name: assets/iphone_store_item_fish_btn_active-hd.png
+SHA1-Digest: 4yaWmaJ5StIetSs/M0Y9xrTmhH8=
+
+Name: assets/iphone_popup_bg_alert.png
+SHA1-Digest: 5uTH5Jnbn9HX6hU2HkKE+QceR/0=
+
+Name: assets/iphone_meter_4_btn.png
+SHA1-Digest: jJUWHGyg++ML+104aBFQEakA4Ac=
+
+Name: assets/transferBubbles_default.png
+SHA1-Digest: 61M7gclMX1q4sCZdKw7ejY+Bulc=
+
+Name: assets/iphone_store_tag_price_free-hd.png
+SHA1-Digest: 7noI/4XQt7Vpg8bxGJc+ZrrzOVI=
+
+Name: assets/ha_mobile_sell_item_popup_sd.json
+SHA1-Digest: 2P8dvCTSsdRm48/q5AAjj1hQR7Q=
+
+Name: assets/store_coins_5-hd.png
+SHA1-Digest: LCFcIXHR7uBRuKiyDGbns/q2/Cc=
+
+Name: assets/iphone_tank_navigation_marker-hd.png
+SHA1-Digest: +wfxv/ak+GnFr6ngNidHEWU0Mcw=
+
+Name: assets/iphone_meter_1_bg-hd.png
+SHA1-Digest: TGLHtH7vqVszoCnkMmP5FKvXsrg=
+
+Name: assets/iphone_event_leaderboard_filter_2-hd.png
+SHA1-Digest: N/1CDIoTEgtbntCijA6tdOd47Wg=
+
+Name: assets/iphone_event_leaderboard_filter_3.png
+SHA1-Digest: KVsbPmwFuifsljhfj30DCLOPWDo=
+
+Name: assets/iphone_tank_placement_breed_btn_active.png
+SHA1-Digest: FEhSKnfbxrz4pgaYN/cX2n+zy/s=
+
+Name: assets/iphone_store_main_treasure_active_button.png
+SHA1-Digest: i+daS24hm5oqQ6NDKawX1Dh8E6k=
+
+Name: assets/iphone_hud_tank_breed_button.png
+SHA1-Digest: WowgwYEcPTDn+HzMS5sA/ISmv3k=
+
+Name: assets/hobodustparticles.plist
+SHA1-Digest: hxIKAF67FIMyY4cUne2uWWPvF4k=
+
+Name: assets/iphone_fishinfo_selection_bitmap-hd.png
+SHA1-Digest: yr42MKKx35aVskj0J9ilmkML3Y4=
+
+Name: assets/iphone_loading_bg_bg-hd.png
+SHA1-Digest: IBfeoThyBH5g8lBJw+Mab2cFamo=
+
+Name: assets/iphone_social_btn_twitter-hd.png
+SHA1-Digest: u1/Ha1thR6RhY/INvEyNgMIY5fc=
+
+Name: assets/iphone_store_item_tank_locked-hd.png
+SHA1-Digest: GU0RA7sxoLnybNxYkISXvrM0AMc=
+
+Name: assets/store_coins_2-hd.png
+SHA1-Digest: QTdpHgovPgyRe/3MxQWKSBOpEhY=
+
+Name: assets/emoticon_mood_5-hd.png
+SHA1-Digest: JIOLn5pL9omFsA6PT5VM3kCXsDw=
+
+Name: assets/iphone_store_main_breed_decoration_button_active-hd.png
+SHA1-Digest: RwclMIW3iVd3xtbkqQnCG9ZhcKc=
+
+Name: assets/iphone_event_filter_btn_2.png
+SHA1-Digest: 7Lkqognu2GaenJ+cNrTa+Ghemdc=
+
+Name: assets/iphone_btn_bg_1-hd.png
+SHA1-Digest: rUdTY3dJ6H5hwQGV5J4+HCyGQxk=
+
+Name: resources.arsc
+SHA1-Digest: 2+yLuRfPM12IvLOiowji7ni8sO8=
+
+Name: assets/iphone_btn_bg_3-hd.png
+SHA1-Digest: GL/WaEGioobotE0JWyAOFMUPcjc=
+
+Name: assets/iphone_tank_placement_breed_bg.png
+SHA1-Digest: 3XquZqu2uVXTTDB8V1IkrJDi9qk=
+
+Name: assets/iphone_tab_event_1.png
+SHA1-Digest: wqR+taOrIf1bbMtnZuQtoObvo1E=
+
+Name: assets/iphone_btn_1_small-hd.png
+SHA1-Digest: 0MwxMkdx6q/ro/yUs691jSpU5Ts=
+
+Name: assets/iphone_cheating_bg_bitmap-hd.png
+SHA1-Digest: KRETSUeL/TOnoKKmdBLhCs4omwQ=
+
+Name: assets/iphone_popup_bg_levelup_3_fish.png
+SHA1-Digest: xpxcJbkIy5Oolf0LwpWcQPipXcw=
+
+Name: assets/iphone_popup_bg_event_end.png
+SHA1-Digest: eXoKY/qL2EX96LF5jtZUc44n7Ms=
+
+Name: assets/iphone_hud_prop_zoom_2_btn-hd.png
+SHA1-Digest: 6nt+2bYPXuZrEIb+t54TRapRDMc=
+
+Name: assets/iphone_store_main_breed_decoration_button_active.png
+SHA1-Digest: 823irZI8UgEaodSTQeDf/1w/KHw=
+
+Name: assets/PumpkinJF 11 Outline.fnt
+SHA1-Digest: JtUBDsJuUhi6BUuQXq9tWTOMep0=
+
+Name: assets/iphone_fish_profile_train_icn_3-hd.png
+SHA1-Digest: U21Bgp7BrieTYXDis2q9IignEfw=
+
+Name: assets/iphone_popup_bg_breed_new_fish_3.png
+SHA1-Digest: wFX5ZcJA2veK3dTSjhdRQvwjitU=
+
+Name: assets/iphone_tank_placement_breed_indicator_breed.png
+SHA1-Digest: NKgTZotpSjjgwu6XKIF8fB6jOj0=
+
+Name: res/drawable-xxhdpi/icon.png
+SHA1-Digest: YtnPiOa2J8t6rH6LeYIJP2Ov8CU=
+
+Name: assets/iphone_back_button-hd.png
+SHA1-Digest: NunWT2N+xN1LAlDprLrIvYE5UF4=
+
+Name: assets/emoticon_mood_1.png
+SHA1-Digest: wgSYE6c0MxQh/vJ94HNJKQSQ0Eo=
+
+Name: assets/iphone_tank_profile_breed_bitmap.png
+SHA1-Digest: oOITqECATBDgsSwIr27IIZbvwc4=
+
+Name: assets/iphone_store_tag_price_free.png
+SHA1-Digest: 5Epm+Lyv+9M7VohSwWUZlIBs2k0=
+
+Name: assets/iphone_inset_2-hd.png
+SHA1-Digest: m2MxFoO3NdxDO4RzCjv5KdlX9hU=
+
+Name: assets/iphone_hud_store_btn-hd.png
+SHA1-Digest: tn+sI+VY040C7OexTWgUkfOvrqc=
+
+Name: assets/iphone_icn_store_sticker_le.png
+SHA1-Digest: tfcjYOcLVTUNhwmgsk3WWTLltYM=
+
+Name: assets/iphone_breed_choose_fg-hd.png
+SHA1-Digest: R9uWa00aU92Bbppb871mqaM4BhI=
+
+Name: assets/iphone_trait_icon_happy-hd.png
+SHA1-Digest: gczO0e1lPsju1Erxv4hbErBBlWE=
+
+Name: assets/iphone_trait_bg_3.png
+SHA1-Digest: 4LPLto0D5sot484XPPDCL2RIjYU=
+
+Name: assets/iphone_meter_2_btn_active-hd.png
+SHA1-Digest: Vt2UEArMec/E9eJcP9tJbvvsV1M=
+
+Name: assets/iphone_btn_bg_2_active.png
+SHA1-Digest: R7tgjsi15wQOvWcvHm4Np9IixZs=
+
+Name: assets/iphone_tank_placement_05.png
+SHA1-Digest: toy0aHIQgVWAE+/nS+eceoNND+o=
+
+Name: assets/iphone_hud_fish_move_btn-hd.png
+SHA1-Digest: RAcvyQsCADPGFrybX45g920c5Lc=
+
+Name: assets/iphone_hud_prop_flip_btn.png
+SHA1-Digest: KWP/FWXlO3kV6nBfgXJToTl/4rQ=
+
+Name: assets/iphone_tank_buy_btn.png
+SHA1-Digest: mbu1SDYS5UEY5ObD9s2lCtnkRkg=
+
+Name: assets/iphone_breed_choose_start_inactive.png
+SHA1-Digest: HcIpyVkYROA2FJVdJnXE/pLeqeA=
+
+Name: assets/rainbow_effect.plist
+SHA1-Digest: ZqJA+eQfKD+UxEAHwAZ8Hh2IgJ4=
+
+Name: assets/iphone_fish_levelup_trait_bg_2.png
+SHA1-Digest: Tzl2QJpxFc6tErkhnEsM3rqVU7Q=
+
+Name: assets/iphone_tank_navigation_breed_04.png
+SHA1-Digest: e8AyE6dNzawvlLsNaZSVl2qpZH4=
+
+Name: assets/iphone_store_item_1_btn.png
+SHA1-Digest: kyxD39i+eyf4eW3mTh+6aUf5nEY=
+
+Name: assets/iphone_popup_bg_randomize.png
+SHA1-Digest: /SWrT3HoQh37LrTHwYh9XsJiAjA=
+
+Name: assets/iphone_breed_close_active_button.png
+SHA1-Digest: wb0up9u0ZhvmEFkQCkc/SwUq5jg=
+
+Name: assets/iphone_popup_bg_coin.png
+SHA1-Digest: MCzfS9QXxrJQtT9n9f0yKrqZHXo=
+
+Name: assets/iphone_nuf_hand-hd.png
+SHA1-Digest: PyBLxb519n0Mqnmv+MclFr+xhaM=
+
+Name: assets/iphone_btn_2_small_active-hd.png
+SHA1-Digest: 1bSY3UXbCieMk/nFHqzi6Oe6+Sc=
+
+Name: assets/iphone_btn_bg_5-hd.png
+SHA1-Digest: 3nnPD5v3gqfvvdY1TToy+mTefZU=
+
+Name: assets/iphone_tag_price_coin-hd.png
+SHA1-Digest: wVmqncDSXpUbFTPi+Yp682E5SX0=
+
+Name: assets/iphone_tab_prize.png
+SHA1-Digest: obf7VPKpfrCq3lcIRByNfZ9S0+4=
+
+Name: assets/iphone_popup_bg_levelup_3_tank-hd.png
+SHA1-Digest: TKpxmvJu1MHmyJg7MT5U6e0HTLQ=
+
+Name: assets/iphone_event_rank_icon_5_big-hd.png
+SHA1-Digest: 8ndVSNQVAss1Sss1hXy8ORsdwC8=
+
+Name: assets/iphone_hud_indicator_coins-hd.png
+SHA1-Digest: oPYlgJ/bbS5p+iv7PXmHKKVS82g=
+
+Name: assets/store_pearls_4-hd.png
+SHA1-Digest: PgvgoR+S4GlQAvJVob3/R8Lp+2s=
+
+Name: assets/iphone_tank_profile_icn_happy_4.png
+SHA1-Digest: sguPnM35VSkfBLNB//7QHzDhiyI=
+
+Name: assets/iphone_meter_5_btn_active.png
+SHA1-Digest: Y5lDPFW0SapQdJ9ykZhvyFJY2z0=
+
+Name: assets/iphone_breed_choose_start_active.png
+SHA1-Digest: x+CpIRIwFl38a9LrYK3iC7VBGqI=
+
+Name: assets/Arial Rounded MT Bold 17px.bmglyph
+SHA1-Digest: gCKeUhIOc3mQ7LiMPCAzHxbl5dY=
+
+Name: assets/Barlow Blue 25.png
+SHA1-Digest: ewLmB/XdzZQJQIeX/Kd4xrrU/NE=
+
+Name: assets/iphone_hud_food_btn-hd.png
+SHA1-Digest: HZeVlJ/8PiDKlwsgs3WSzQKh+4Q=
+
+Name: assets/ha_mobile_new_baby_popup_unique_sd.json
+SHA1-Digest: FWXpg3AfxQ/bg6FURbgwCV1bDIE=
+
+Name: assets/ha_mobile_ui_helper.txt
+SHA1-Digest: eLNYBV8zBHzQ3Ix5sqS01Y4YVWQ=
+
+Name: assets/ha_mobile_ui_fish_likes_toy.json
+SHA1-Digest: kKWoxEzzkP8MGNH/EOb70oThRss=
+
+Name: assets/iphone_store_item_button-hd.png
+SHA1-Digest: E4QcejTTJWuFUwnzXlGmV+/su/I=
+
+Name: assets/iphone_icn_xp.png
+SHA1-Digest: it5qws2V1pP4atSLtA+S0CxXfnA=
+
+Name: assets/ha_mobile_ui_cheating_error.json
+SHA1-Digest: hwzJd1cqk8uVdgKv6TdQMDMdm40=
+
+Name: assets/iphone_trait_icon_nice.png
+SHA1-Digest: KBDrGyUWrb6FtSArx8VOy/TYLfU=
+
+Name: assets/gossip_5.plist
+SHA1-Digest: kdjus89tYxIPXTCutW5TImdpyhw=
+
+Name: assets/iphone_tank_locked_button.png
+SHA1-Digest: hU8RHIE9CkM+dPDVEvKD1xLA/u4=
+
+Name: assets/iphone_hud_home_btn_active.png
+SHA1-Digest: BQ4F7RPRX63CR5Qy7eJoO6LFyGs=
+
+Name: assets/iphone_trait_icon_shy-hd.png
+SHA1-Digest: F67MD55GW8sOQ9EouOIDQrEWBIA=
+
+Name: assets/iphone_tank_placement_05-hd.png
+SHA1-Digest: EuwlPFKB6Zp9mWx5cFNzAxu7mi8=
+
+Name: assets/iphone_quest_icn_tank-hd.png
+SHA1-Digest: cYzt65X5NV0Ya8YxFs6OvuOQBgU=
+
+Name: assets/iphone_popup_bg_breed_speed-hd.png
+SHA1-Digest: Uy8mOy5MxKdpajm1+o20sxuNdqw=
+
+Name: assets/iphone_social_dig_icn_feed.png
+SHA1-Digest: OTtGLzq6M5cXFIRFctiAZCDpNlQ=
+
+Name: assets/iphone_hud_chest_flip_btn-hd.png
+SHA1-Digest: 9WeV/9011QB3/ctGt2oUD2c5dh8=
+
+Name: assets/iphone_popup_bg_breed_new_tank.png
+SHA1-Digest: YlRWhLw1j4enUFu0MpJqk9WocoI=
+
+Name: assets/iphone_hud_breed_warning_button-hd.png
+SHA1-Digest: xRKbEWlMj8B38FRUOoEGZn8TNM0=
+
+Name: assets/iphone_hud_chest_upgrade_btn.png
+SHA1-Digest: hEzqzymhoYkYJXJXOWrct2HWDHc=
+
+Name: assets/breedMeterFill.png
+SHA1-Digest: Teucxq+k+wQDxAEJWwU1/6RKrbw=
+
+Name: assets/iphone_btn_bg_facebook_active.png
+SHA1-Digest: Dibn5fGY2t9Eow3jyCMxBDADbK8=
+
+Name: assets/iphone_meter_5_bar-hd.png
+SHA1-Digest: fXZNYHrssW9hppeWl+3GW+Upm7Y=
+
+Name: assets/iphone_event_rank_icon_5-hd.png
+SHA1-Digest: Vq6cp1utruojhl/Try466Phg4Fo=
+
+Name: assets/iphone_popup_bg_levelup_2_fish-hd.png
+SHA1-Digest: notmR32Hh9FR0lbZOOBo0QY+1tA=
+
+Name: assets/default.png
+SHA1-Digest: 7X6eogFTNkOvXMFvRHk7PyHrNKg=
+
+Name: assets/iphone_fish_profile_train_icn_2.png
+SHA1-Digest: IG7iBkHNpt52U24c62BC3BQzbuA=
+
+Name: assets/iphone_fivestar_close_button-hd.png
+SHA1-Digest: DCXjyh/TcwIHWFdKbhLruls+InY=
+
+Name: assets/iphone_popup_bg_levelup_1_tank-hd.png
+SHA1-Digest: pzbGJHSor5OhrVIwHX+09P/2ELg=
+
+Name: assets/iphone_hud_nav_breed_selected_bitmap.png
+SHA1-Digest: 4ONnkjlYKCekBPbj/h19iGSp+40=
+
+Name: assets/iphone_tank_navigation_indicator_full.png
+SHA1-Digest: Wvkodm4hU/t2NwLhUNVesuzorQ4=
+
+Name: assets/iphone_icn_xp-hd.png
+SHA1-Digest: 9P6Klj9D6ULC8bIwx67/dIlgvxQ=
+
+Name: assets/iphone_hud_chest_collect_active_btn.png
+SHA1-Digest: fe1TrYJxGNNOMeb5Mbp9AO+67ts=
+
+Name: assets/iphone_btn_bg_2.png
+SHA1-Digest: 6qI/uffb3E/k9u7lKrZ5y5JHrz4=
+
+Name: assets/iphone_store_item_tank_breed-hd.png
+SHA1-Digest: E9/dOZCDbuf0Rt2YijDP5fatsok=
+
+Name: assets/ui_randomize_likesdislikes_popup.json
+SHA1-Digest: U5seVUQ+xVmWpzPsZzGHO4BolUg=
+
+Name: assets/iphone_popup_bg_fling-hd.png
+SHA1-Digest: sXjC0YfnD4iptHBATUoOircuYjA=
+
+Name: assets/iphone_btn_camera.png
+SHA1-Digest: bVxPU1iusu23Hc6Vx9jhzud+dXM=
+
+Name: assets/iphone_close_button.png
+SHA1-Digest: RWUGWT3WxjAP9E2lmkzzEjXoaxA=
+
+Name: assets/iphone_popup_bg_social.png
+SHA1-Digest: fXJ/LBj0rbG1Lcy/TIcGVBPmXLo=
+
+Name: assets/iphone_tank_navigation_star_3_inset-hd.png
+SHA1-Digest: CMjs9g7dHsW8+t7PLBlYKDs2XrY=
+
+Name: assets/iphone_icn_pearl.png
+SHA1-Digest: 85q5sC0iCCQxiQF9tIM2F6jvJP8=
+
+Name: assets/iphone_fish_profile_icn_happy_5_smaller.png
+SHA1-Digest: JkYoH0TuXlfbD7Un2j+0WhYe+g0=
+
+Name: assets/iphone_hud_alert_dig_active_button.png
+SHA1-Digest: xU6bYVLRnJHokpgutzhVCNQGlSQ=
+
+Name: assets/iphone_hud_chest_collect_active_btn-hd.png
+SHA1-Digest: RQ2V0z2rBpkPQRtqhfR7oYQIu1w=
+
+Name: assets/iphone_hud_three_star_button-hd.png
+SHA1-Digest: xCZh1Gg3FKrCeWp1Qj/5Mwy8zTc=
+
+Name: assets/iphone_population_indicator_empty-hd.png
+SHA1-Digest: In4DHfBSdoqTYhYqaOLUi7MjOek=
+
+Name: assets/store_pearls_3-hd.png
+SHA1-Digest: A3Y7IfBj2glkoHsStCnFYAiyWYE=
+
+Name: assets/iphone_hud_three_star_button.png
+SHA1-Digest: VTAoeAWiqp15035/udTGE2zZL5s=
+
+Name: assets/iphone_popup_bg_chest_upgrade.png
+SHA1-Digest: mZhtOAF52K5s2rZecJUtxDduviM=
+
+Name: assets/event_ui_sd.json
+SHA1-Digest: RPysXkpM9Kp45BulTi4jIEvRLo8=
+
+Name: assets/iphone_hud_fish_train_btn.png
+SHA1-Digest: HGWJ0S1qTuhKYcbXpakdU1fNzG4=
+
+Name: assets/iphone_store_item_2_btn.png
+SHA1-Digest: 0dQ+LQPkTPplQiy6Q5TmGHYDK+w=
+
+Name: assets/transferBubbles_default.plist
+SHA1-Digest: WrX8wDfKwJB71SaptOw4RkEHTV4=
+
+Name: assets/iphone_popup_fg_announce.png
+SHA1-Digest: eA1tZpJ/rs+lNRJK8pmTRE7oHI4=
+
+Name: assets/iphone_indicator_fishhungry_button-hd.png
+SHA1-Digest: gpsd1avIHn4o3Ccvk844TnkePk8=
+
+Name: assets/iphone_btn_close_2_active.png
+SHA1-Digest: VnfU5WaTQi9YcVNvw/IWQpPDLNw=
+
+Name: assets/ui_hd.json
+SHA1-Digest: 1l4sS8l/R0gmdq9eORhD8L76DPQ=
+
+Name: assets/iphone_transparent_box-hd.png
+SHA1-Digest: ifOkZlnl2gSuWBU6RWUMxbFpnoU=
+
+Name: assets/LoaderAnimation_sheet-hd.png
+SHA1-Digest: y5lv2lwYk9/BR0Vft1uIbP2OXec=
+
+Name: assets/iphone_icn_bowl-hd.png
+SHA1-Digest: RMLaKKeuOo5vXHGkRCKQalXN3A8=
+
+Name: assets/iphone_btn_bg_2_active-hd.png
+SHA1-Digest: i0u7Z7/Fzrp4AoHQvMM0hDMogKM=
+
+Name: assets/iphone_store_buy_btn_active-hd.png
+SHA1-Digest: YGHuOirhRWBapB8aXJsGh8fJ43o=
+
+Name: assets/iphone_tank_profile_star_1-hd.png
+SHA1-Digest: VDXFZ+CKsZEYl8vS/TnStndjTEs=
+
+Name: assets/iphone_breed_button.png
+SHA1-Digest: cTIJ70ln0Aem2IrSifpQMXEUsRo=
+
+Name: assets/iphone_feature_bg.png
+SHA1-Digest: hvJt9a9efi1oZZAAFqBK9J5qQyc=
+
+Name: assets/iphone_event_progress_icon_1_alt-hd.png
+SHA1-Digest: As7s/DaVKmHbcvPWH2SWPSoHHU4=
+
+Name: assets/iphone_article_img_bg_1-hd.png
+SHA1-Digest: Ly4fvr5HhjTDmSP2pXNC0HHQl28=
+
+Name: assets/iphone_store_item_fish_btn.png
+SHA1-Digest: nQyZrvwvw+dqTOykR85qxJ04Fko=
+
+Name: assets/iphone_hud_food_active_btn-hd.png
+SHA1-Digest: FDfFssjQqRM5wZLwdDuPP+vmOK4=
+
+Name: assets/ha_mobile_ui_hd.json
+SHA1-Digest: nhGAJwBwxb2crb+iZ+XvYM6OmEo=
+
+Name: assets/iphone_event_rank_icon_5_small-hd.png
+SHA1-Digest: Yz1k4qygu7o6lBvqEVyHPf6uEIQ=
+
+Name: assets/iphone_nuf_2-hd.png
+SHA1-Digest: aqUSwSKZaVLTOgc344Tg3sGMKfo=
+
+Name: assets/iphone_event_filter_btn_2-hd.png
+SHA1-Digest: iL4A2tpfAfVetQGEWjnEN0iGxzQ=
+
+Name: assets/treasure_reward_pearl_hd.png
+SHA1-Digest: lu5ydpXTwYNkHj4urNKMUwYDAAA=
+
+Name: assets/iphone_tank_navigation_05-hd.png
+SHA1-Digest: IQvs29Xslw2TCG0iB8hGCsJDD/I=
+
+Name: assets/iphone_store_item_1_btn_active.png
+SHA1-Digest: yQavjTAFeOcU5EKieecMu6Rx4xo=
+
+Name: assets/iphone_event_prize_list_placeholder.png
+SHA1-Digest: ojsEsetS78slMjQ9b9GPQHOdXCc=
+
+Name: assets/iphone_popup_bg_fish_profile_decor_2.png
+SHA1-Digest: tW5QYFKzr4wvzWOkUYnFA1AhiGo=
+
+Name: assets/iphone_hud_prop_move_btn-hd.png
+SHA1-Digest: d8zSlEppUAgCYWv10cfNqQXLBDI=
+
+Name: assets/iphone_event_rank_icon_2-hd.png
+SHA1-Digest: Is18FTqIvfDAKxbRzAIu11nOqbQ=
+
+Name: assets/iphone_fish_profile_happy_item_toy_on.png
+SHA1-Digest: brrK4Y7G+MUulzK3eflm46+U9WE=
+
+Name: assets/iphone_social_btn_twitter.png
+SHA1-Digest: VtHhajPTZH64m15IAk7SXUee5a8=
+
+Name: assets/iphone_dig_choose_item_btn_active-hd.png
+SHA1-Digest: 9ffWe81+Eqz7OpN4sT0hIMlSfK4=
+
+Name: assets/iphone_event_leaderboard_filter_2_active.png
+SHA1-Digest: YT8VKQScrbtYKC+I8cM651I0+M8=
+
+Name: assets/Arial Rounded MT Bold White 23.fnt
+SHA1-Digest: BzqgBMOeuQ6welqRIH+FNX9BqOM=
+
+Name: assets/iphone_popup_ray-hd.png
+SHA1-Digest: mJJcWKS6AAcX8UadlG3ylBvjTbY=
+
+Name: assets/iphone_Swipe_TextColor-hd.png
+SHA1-Digest: fiMsb4+AP2mPiN2ApVPWWe0j4Rc=
+
+Name: assets/iphone_store_item_2_btn_active.png
+SHA1-Digest: 3GRWYLykd76eztM3LdxjLiy1dC0=
+

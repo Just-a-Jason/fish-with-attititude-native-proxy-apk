@@ -1,0 +1,676 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		
+		<key>HA_Effect_SurfaceSplash0.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{83, 14}, {26, 4}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 44}</string>
+			<key>spriteSize</key>
+			<string>{26, 4}</string>
+			<key>spriteSourceSize</key>
+			<string>{190, 120}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{92, 508}, {26, 4}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>HA_Effect_SurfaceSplash1.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{78, 13}, {36, 18}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 38}</string>
+			<key>spriteSize</key>
+			<string>{36, 18}</string>
+			<key>spriteSourceSize</key>
+			<string>{190, 120}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{162, 326}, {36, 18}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>HA_Effect_SurfaceSplash10.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{38, 7}, {116, 74}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 16}</string>
+			<key>spriteSize</key>
+			<string>{116, 74}</string>
+			<key>spriteSourceSize</key>
+			<string>{190, 120}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{352, 230}, {116, 74}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>HA_Effect_SurfaceSplash11.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{33, 6}, {124, 76}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 16}</string>
+			<key>spriteSize</key>
+			<string>{124, 76}</string>
+			<key>spriteSourceSize</key>
+			<string>{190, 120}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{170, 116}, {124, 76}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>HA_Effect_SurfaceSplash12.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{29, 5}, {134, 92}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 9}</string>
+			<key>spriteSize</key>
+			<string>{134, 92}</string>
+			<key>spriteSourceSize</key>
+			<string>{190, 120}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{366, 420}, {134, 92}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>HA_Effect_SurfaceSplash13.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{24, 5}, {142, 92}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 9}</string>
+			<key>spriteSize</key>
+			<string>{142, 92}</string>
+			<key>spriteSourceSize</key>
+			<string>{190, 120}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{346, 326}, {142, 92}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>HA_Effect_SurfaceSplash14.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{20, 4}, {152, 110}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 1}</string>
+			<key>spriteSize</key>
+			<string>{152, 110}</string>
+			<key>spriteSourceSize</key>
+			<string>{190, 120}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 346}, {152, 110}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>HA_Effect_SurfaceSplash15.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{15, 3}, {160, 112}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 1}</string>
+			<key>spriteSize</key>
+			<string>{160, 112}</string>
+			<key>spriteSourceSize</key>
+			<string>{190, 120}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 232}, {160, 112}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>HA_Effect_SurfaceSplash16.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{11, 2}, {168, 114}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 1}</string>
+			<key>spriteSize</key>
+			<string>{168, 114}</string>
+			<key>spriteSourceSize</key>
+			<string>{190, 120}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 116}, {168, 114}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>HA_Effect_SurfaceSplash17.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{6, 2}, {178, 114}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 1}</string>
+			<key>spriteSize</key>
+			<string>{178, 114}</string>
+			<key>spriteSourceSize</key>
+			<string>{190, 120}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 0}, {178, 114}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>HA_Effect_SurfaceSplash18.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{1, 1}, {188, 92}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 13}</string>
+			<key>spriteSize</key>
+			<string>{188, 92}</string>
+			<key>spriteSourceSize</key>
+			<string>{190, 120}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{162, 232}, {188, 92}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>HA_Effect_SurfaceSplash19.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {190, 92}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 14}</string>
+			<key>spriteSize</key>
+			<string>{190, 92}</string>
+			<key>spriteSourceSize</key>
+			<string>{190, 120}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{154, 346}, {190, 92}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>HA_Effect_SurfaceSplash2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{74, 12}, {44, 30}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 33}</string>
+			<key>spriteSize</key>
+			<string>{44, 30}</string>
+			<key>spriteSourceSize</key>
+			<string>{190, 120}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{406, 134}, {44, 30}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>HA_Effect_SurfaceSplash20.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {190, 70}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 25}</string>
+			<key>spriteSize</key>
+			<string>{190, 70}</string>
+			<key>spriteSourceSize</key>
+			<string>{190, 120}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{174, 440}, {190, 70}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>HA_Effect_SurfaceSplash21.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{12, 3}, {166, 66}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 24}</string>
+			<key>spriteSize</key>
+			<string>{166, 66}</string>
+			<key>spriteSourceSize</key>
+			<string>{190, 120}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{180, 0}, {166, 66}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>HA_Effect_SurfaceSplash22.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{6, 2}, {178, 60}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 28}</string>
+			<key>spriteSize</key>
+			<string>{178, 60}</string>
+			<key>spriteSourceSize</key>
+			<string>{190, 120}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{448, 0}, {178, 60}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>HA_Effect_SurfaceSplash23.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 1}, {190, 32}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 43}</string>
+			<key>spriteSize</key>
+			<string>{190, 32}</string>
+			<key>spriteSourceSize</key>
+			<string>{190, 120}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{362, 178}, {190, 32}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>HA_Effect_SurfaceSplash24.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {190, 34}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 43}</string>
+			<key>spriteSize</key>
+			<string>{190, 34}</string>
+			<key>spriteSourceSize</key>
+			<string>{190, 120}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{170, 194}, {190, 34}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>HA_Effect_SurfaceSplash25.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{15, 3}, {160, 28}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 43}</string>
+			<key>spriteSize</key>
+			<string>{160, 28}</string>
+			<key>spriteSourceSize</key>
+			<string>{190, 120}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{452, 134}, {160, 28}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>HA_Effect_SurfaceSplash26.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{8, 2}, {174, 30}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 43}</string>
+			<key>spriteSize</key>
+			<string>{174, 30}</string>
+			<key>spriteSourceSize</key>
+			<string>{190, 120}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{564, 62}, {174, 30}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>HA_Effect_SurfaceSplash27.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{1, 1}, {188, 32}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 43}</string>
+			<key>spriteSize</key>
+			<string>{188, 32}</string>
+			<key>spriteSourceSize</key>
+			<string>{190, 120}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{406, 100}, {188, 32}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>HA_Effect_SurfaceSplash28.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {190, 34}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 43}</string>
+			<key>spriteSize</key>
+			<string>{190, 34}</string>
+			<key>spriteSourceSize</key>
+			<string>{190, 120}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{372, 64}, {190, 34}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>HA_Effect_SurfaceSplash3.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{70, 12}, {52, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 29}</string>
+			<key>spriteSize</key>
+			<string>{52, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{190, 120}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{318, 68}, {52, 38}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>HA_Effect_SurfaceSplash4.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{65, 11}, {62, 44}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 27}</string>
+			<key>spriteSize</key>
+			<string>{62, 44}</string>
+			<key>spriteSourceSize</key>
+			<string>{190, 120}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{254, 68}, {62, 44}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>HA_Effect_SurfaceSplash5.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{60, 10}, {72, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 27}</string>
+			<key>spriteSize</key>
+			<string>{72, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{190, 120}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{180, 68}, {72, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>HA_Effect_SurfaceSplash6.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{56, 10}, {80, 48}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 26}</string>
+			<key>spriteSize</key>
+			<string>{80, 48}</string>
+			<key>spriteSourceSize</key>
+			<string>{190, 120}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{92, 458}, {80, 48}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>HA_Effect_SurfaceSplash7.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{51, 9}, {90, 52}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 25}</string>
+			<key>spriteSize</key>
+			<string>{90, 52}</string>
+			<key>spriteSourceSize</key>
+			<string>{190, 120}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 458}, {90, 52}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>HA_Effect_SurfaceSplash8.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{47, 8}, {98, 62}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 21}</string>
+			<key>spriteSize</key>
+			<string>{98, 62}</string>
+			<key>spriteSourceSize</key>
+			<string>{190, 120}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{348, 0}, {98, 62}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>HA_Effect_SurfaceSplash9.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{42, 8}, {108, 62}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 21}</string>
+			<key>spriteSize</key>
+			<string>{108, 62}</string>
+			<key>spriteSourceSize</key>
+			<string>{190, 120}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{296, 114}, {108, 62}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>version</key>
+		<string>1.5.2</string>
+		<key>format</key>
+		<integer>3</integer>
+		<key>size</key>
+		<string>{1024, 512}</string>
+		<key>name</key>
+		<string>surfaceSplash.zwd</string>
+		<key>premultipliedAlpha</key>
+		<false/>
+		<key>target</key>
+		<dict>
+			<key>name</key>
+			<string>default</string>
+			<key>textureFileName</key>
+			<string>surfaceSplash_default</string>
+			<key>textureFileExtension</key>
+			<string>.png</string>
+			<key>coordinatesFileName</key>
+			<string>surfaceSplash_default</string>
+			<key>coordinatesFileExtension</key>
+			<string>.plist</string>
+			<key>premultipliedAlpha</key>
+			<false/>
+		</dict>
+	</dict>
+</dict>
+</plist>

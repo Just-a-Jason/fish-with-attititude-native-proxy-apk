@@ -1,0 +1,253 @@
+{
+  "elements" : [
+    {
+      "name" : "event_fg_bitmap",
+      "w" : 480.5,
+      "h" : 320.1,
+      "x" : -0.25,
+      "y" : -0.05,
+      "layer" : 71,
+      "type" : "Bitmap",
+      "children" : [
+        
+      ],
+      "texture" : "popup_fg_event_a.png"
+    },
+    {
+      "name" : "common_close_button",
+      "w" : 42.5,
+      "h" : 42.5,
+      "x" : 429.25,
+      "y" : 4.75,
+      "layer" : 71,
+      "type" : "BaseButton",
+      "children" : [
+        
+      ],
+      "texture" : "btn_close_1.png"
+    },
+    {
+      "name" : "title_textfield",
+      "w" : 333.08,
+      "h" : 43,
+      "x" : 73.47,
+      "y" : 4,
+      "layer" : 71,
+      "type" : "BaseText",
+      "children" : [
+        
+      ],
+      "text" : "event_title_textfield",
+      "font" : "PumpkinJF",
+      "alignment" : "center",
+      "fontSize" : 34,
+      "color" : "0x394955"
+    },
+    {
+      "name" : "description_textfield",
+      "w" : 237.5,
+      "h" : 18.98,
+      "x" : 121.75,
+      "y" : 41.53,
+      "layer" : 71,
+      "type" : "BaseText",
+      "children" : [
+        
+      ],
+      "text" : "event_description_textfield",
+      "font" : "Arial Rounded MT Bold",
+      "alignment" : "center",
+      "fontSize" : 12,
+      "color" : "0x394955"
+    },
+    {
+      "name" : "common_btn_2_button",
+      "w" : 100.95,
+      "h" : 31.4,
+      "x" : 368.03,
+      "y" : 279.58,
+      "layer" : 71,
+      "type" : "BaseButton",
+      "children" : [
+        
+      ],
+      "texture" : "btn_2_small.png"
+    },
+    {
+      "name" : "breed_textfield",
+      "w" : 81.53,
+      "h" : 25,
+      "x" : 378.03,
+      "y" : 282.93,
+      "layer" : 71,
+      "type" : "BaseText",
+      "children" : [
+        
+      ],
+      "text" : "event_button_textfield",
+      "font" : "Arial Rounded MT Bold",
+      "alignment" : "center",
+      "fontSize" : 20,
+      "color" : "0xffffff"
+    },
+    {
+      "name" : "event_btn_1_button",
+      "w" : 80,
+      "h" : 28.33,
+      "x" : 9.65,
+      "y" : 281.1,
+      "layer" : 71,
+      "type" : "BaseButton",
+      "children" : [
+        
+      ],
+      "texture" : "event_filter_btn_1.png"
+    },
+    {
+      "name" : "event_btn_1_textfiled",
+      "w" : 75,
+      "h" : 17,
+      "x" : 12.15,
+      "y" : 286.75,
+      "layer" : 71,
+      "type" : "BaseText",
+      "children" : [
+        
+      ],
+      "text" : "event_event_btn_1_textfiled",
+      "font" : "Arial Rounded MT Bold",
+      "alignment" : "center",
+      "fontSize" : 13,
+      "color" : "0xffffff"
+    },
+    {
+      "name" : "event_btn_2_button",
+      "w" : 56.5,
+      "h" : 28.33,
+      "x" : 270.05,
+      "y" : 281.1,
+      "layer" : 71,
+      "type" : "BaseButton",
+      "children" : [
+        
+      ],
+      "texture" : "event_filter_btn_2.png"
+    },
+    {
+      "name" : "event_btn_2_textfiled",
+      "w" : 56.65,
+      "h" : 17,
+      "x" : 269.15,
+      "y" : 286.75,
+      "layer" : 71,
+      "type" : "BaseText",
+      "children" : [
+        
+      ],
+      "text" : "event_event_btn_2_textfiled",
+      "font" : "Arial Rounded MT Bold",
+      "alignment" : "center",
+      "fontSize" : 13,
+      "color" : "0xffffff"
+    },
+    {
+      "name" : "event_btn_3_button",
+      "w" : 94.98,
+      "h" : 28.33,
+      "x" : 173.75,
+      "y" : 281.1,
+      "layer" : 71,
+      "type" : "BaseButton",
+      "children" : [
+        
+      ],
+      "texture" : "event_filter_btn_3.png"
+    },
+    {
+      "name" : "event_btn_3_textfiled",
+      "w" : 88.8,
+      "h" : 17,
+      "x" : 176.5,
+      "y" : 286.75,
+      "layer" : 71,
+      "type" : "BaseText",
+      "children" : [
+        
+      ],
+      "text" : "event_event_btn_3_textfiled",
+      "font" : "Arial Rounded MT Bold",
+      "alignment" : "center",
+      "fontSize" : 13,
+      "color" : "0xffffff"
+    },
+    {
+      "name" : "event_btn_4_button",
+      "w" : 80,
+      "h" : 28.33,
+      "x" : 92.15000000000001,
+      "y" : 281.1,
+      "layer" : 71,
+      "type" : "BaseButton",
+      "children" : [
+        
+      ],
+      "texture" : "event_filter_btn_1.png"
+    },
+    {
+      "name" : "event_btn_4_textfiled",
+      "w" : 75,
+      "h" : 17,
+      "x" : 94.65000000000001,
+      "y" : 286.75,
+      "layer" : 71,
+      "type" : "BaseText",
+      "children" : [
+        
+      ],
+      "text" : "event_event_btn_4_textfiled",
+      "font" : "Arial Rounded MT Bold",
+      "alignment" : "center",
+      "fontSize" : 13,
+      "color" : "0xffffff"
+    },
+    {
+      "name" : "event_trophy_1_bitmap",
+      "w" : 33.92,
+      "h" : 37.98,
+      "x" : 98.05,
+      "y" : 1.02,
+      "layer" : 71,
+      "type" : "Bitmap",
+      "children" : [
+        
+      ],
+      "texture" : "event_trophy_icon_4.png"
+    },
+    {
+      "name" : "event_trophy_2_bitmap",
+      "w" : 33.92,
+      "h" : 37.98,
+      "x" : 348.05,
+      "y" : 1.02,
+      "layer" : 71,
+      "type" : "Bitmap",
+      "children" : [
+        
+      ],
+      "texture" : "event_trophy_icon_4.png"
+    },
+    {
+      "name" : "event_bg_bitmap",
+      "w" : 480,
+      "h" : 320,
+      "x" : 0,
+      "y" : 0,
+      "layer" : 66,
+      "type" : "Bitmap",
+      "children" : [
+        
+      ],
+      "texture" : "event_bg.png"
+    }
+  ]
+}

@@ -1,0 +1,218 @@
+{
+  "elements" : [
+    {
+      "name" : "newbaby_popup_bitmap",
+      "w" : 453.45,
+      "h" : 278.2,
+      "x" : 10.5,
+      "y" : 20.8,
+      "layer" : 83,
+      "type" : "Bitmap",
+      "children" : [
+        
+      ],
+      "texture" : "popup_bg_breed_new_fish_4.png"
+    },
+    {
+      "name" : "common_btn_2_small_button_place",
+      "w" : 99,
+      "h" : 31.4,
+      "x" : 340.5,
+      "y" : 253.3,
+      "layer" : 83,
+      "type" : "BaseButton",
+      "children" : [
+        
+      ],
+      "texture" : "btn_6_small.png"
+    },
+    {
+      "name" : "common_btn_2_small_button_sell",
+      "w" : 99,
+      "h" : 31.4,
+      "x" : 229.5,
+      "y" : 253.3,
+      "layer" : 83,
+      "type" : "BaseButton",
+      "children" : [
+        
+      ],
+      "texture" : "btn_6_small.png"
+    },
+    {
+      "name" : "common_close_button",
+      "w" : 42.5,
+      "h" : 42.5,
+      "x" : 428.75,
+      "y" : 18.75,
+      "layer" : 83,
+      "type" : "BaseButton",
+      "children" : [
+        
+      ],
+      "texture" : "btn_close_1.png"
+    },
+    {
+      "name" : "common_btn_label_place_textfield",
+      "w" : 100,
+      "h" : 22.25,
+      "x" : 340,
+      "y" : 256.95,
+      "layer" : 83,
+      "type" : "BaseText",
+      "children" : [
+        
+      ],
+      "text" : "new_baby_event_common_btn_label_place_textfield",
+      "font" : "Arial Rounded MT Bold",
+      "alignment" : "center",
+      "fontSize" : 20,
+      "color" : "0xffffff"
+    },
+    {
+      "name" : "newbaby_description_textfield",
+      "w" : 220,
+      "h" : 86,
+      "x" : 223.5,
+      "y" : 125.5,
+      "layer" : 83,
+      "type" : "BaseText",
+      "children" : [
+        
+      ],
+      "text" : "new_baby_event_newbaby_description_textfield",
+      "font" : "Arial Rounded MT Bold",
+      "alignment" : "center",
+      "fontSize" : 12,
+      "color" : "0x314453"
+    },
+    {
+      "name" : "newbaby_name_textfield",
+      "w" : 230,
+      "h" : 31,
+      "x" : 221,
+      "y" : 48.25,
+      "layer" : 83,
+      "type" : "BaseText",
+      "children" : [
+        
+      ],
+      "text" : "new_baby_event_newbaby_name_textfield",
+      "font" : "Arial Rounded MT Bold",
+      "alignment" : "center",
+      "fontSize" : 25,
+      "color" : "0xffffff"
+    },
+    {
+      "name" : "common_btn_label_textfield",
+      "w" : 100,
+      "h" : 22.13,
+      "x" : 229,
+      "y" : 256.95,
+      "layer" : 83,
+      "type" : "BaseText",
+      "children" : [
+        
+      ],
+      "text" : "new_baby_event_common_btn_label_textfield",
+      "font" : "Arial Rounded MT Bold",
+      "alignment" : "center",
+      "fontSize" : 20,
+      "color" : "0xffffff"
+    },
+    {
+      "name" : "newbaby_type_textfield",
+      "w" : 220.03,
+      "h" : 33.5,
+      "x" : 223.5,
+      "y" : 93.75,
+      "layer" : 83,
+      "type" : "BaseText",
+      "children" : [
+        
+      ],
+      "text" : "new_baby_event_newbaby_type_textfield",
+      "font" : "PumpkinJF",
+      "alignment" : "center",
+      "fontSize" : 25,
+      "color" : "0x304352"
+    },
+    {
+      "name" : "newbaby_name_breed",
+      "w" : 229.95,
+      "h" : 33.9,
+      "x" : 221.05,
+      "y" : 47.55,
+      "layer" : 83,
+      "type" : "BaseButton",
+      "children" : [
+        
+      ],
+      "texture" : "popup_bg_breed_new_fish_button.png"
+    },
+    {
+      "name" : "unique_fish_textfield",
+      "w" : 93.2,
+      "h" : 18.2,
+      "x" : 73.40000000000001,
+      "y" : 241,
+      "layer" : 83,
+      "type" : "BaseText",
+      "children" : [
+        
+      ],
+      "text" : "new_baby_event_unique_fish_textfield",
+      "font" : "Arial Rounded MT Bold",
+      "alignment" : "center",
+      "fontSize" : 14,
+      "color" : "0xffffff"
+    },
+    {
+      "name" : "newbaby_event_bg_bitmap",
+      "w" : 111.08,
+      "h" : 29.73,
+      "x" : 4.22,
+      "y" : 106.95,
+      "layer" : 83,
+      "type" : "Bitmap",
+      "children" : [
+        
+      ],
+      "texture" : "tab_event_1.png"
+    },
+    {
+      "name" : "newbaby_rare_textfield",
+      "w" : 94.3,
+      "h" : 16,
+      "x" : 10.73,
+      "y" : 110.5,
+      "layer" : 83,
+      "type" : "BaseText",
+      "children" : [
+        
+      ],
+      "text" : "new_baby_event_newbaby_rare_textfield",
+      "font" : "Arial Rounded MT Bold",
+      "alignment" : "left",
+      "fontSize" : 12,
+      "color" : "0xffffff"
+    },
+    {
+      "name" : "sell_fish_description_textfield",
+      "w" : 122.7,
+      "h" : 18.2,
+      "x" : 279.5,
+      "y" : 221.5,
+      "layer" : 83,
+      "type" : "BaseText",
+      "children" : [
+        
+      ],
+      "text" : "new_baby_event_sell_fish_description_textfield",
+      "font" : "Arial Rounded MT Bold",
+      "alignment" : "left",
+      "fontSize" : 14,
+      "color" : "0xffffff"
+    }
+  ]
+}

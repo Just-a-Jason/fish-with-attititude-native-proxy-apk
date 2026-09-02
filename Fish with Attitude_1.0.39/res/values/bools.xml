@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="debugDisableNotifications">true</bool>
+    <bool name="useAmazonIap">false</bool>
+    <bool name="debugUseAndroidTestPurchased">true</bool>
+</resources>

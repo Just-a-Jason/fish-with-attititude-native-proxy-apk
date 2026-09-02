@@ -1,0 +1,2046 @@
+game_common_ok,OK
+game_common_fish,Fish
+game_common_pearl,Pearl
+game_common_pearls,Pearls
+game_common_coins,Coins
+game_common_finish,Finish
+game_common_minute,Minute
+game_common_decor,decor
+game_common_prop,prop
+game_common_loading,Loading
+game_common_time_days_left,%i Days Left
+game_common_time_hours_left,%i Hours Left
+game_common_dig,Dig
+game_common_buy,Buy
+breedingTV_breeding_label,Breeding
+breedingTV_place_egg_label,Lay Egg
+breedingTV_breed_label,Breed
+breedingTV_locked_tank_title,Unlock Another Tank
+breedingTV_locked_tank_body,There's no room for this egg but you can unlock additional breeding tanks by swiping to the left.
+breedingTV_speedup_popup_title,Speed up?
+breedingTV_speedup_popup_body,Your fish will finish breeding in:
+breedingTV_more_pearls_popup_title,You need more treasure!
+breedingTV_more_pearls_popup_body,In order to rush your fish you need more pearls.
+breed_popup_no_breedable_title,No fish to breed!
+breed_popup_no_breedable_body,"Oh no!  You don't currently have any fish that you can breed.  Try again once you have two happy, well-fed adults."
+chest_speedup_popup_title,Speed up?
+chest_speedup_popup_body,Your chest will finish upgrading in:
+chest_upgrading_label,Upgrading
+cribInfo_hatch_button,Hatch
+cribInfo_unlock_button,Unlock
+cribInfo_done_label,Finished
+cribInfo_growing_label,Growing
+cribInfo_speedup_popup_title,Speed up?
+cribInfo_speedup_popup_body,Your fish will finish hatching in:
+spinning_wheel_loading_label,Loading
+fishInfo_friend_likeness_label,%s \ris just like this fish!
+fishInfo_speedup_training_title,Finish Training?
+fishInfo_speedup_training_body,Your fish will finish training in:
+fishInfo_speedup_growing_title,Finish Growing?
+fishInfo_speedup_growing_body,Your fish will finish growing in:
+fishInfo_adult_meter_label,Training
+fishInfo_meter_label,Hungry!
+fishInfo_baby_meter_label,Growing
+fishInfo_train_button,Train
+fishInfo_feed_me_label,Feed Me!
+fishInfo_adult_label,Adult
+fishInfo_hungry_label,Hungry
+fishInfo_hungry_in_label,Hungry In 
+fishInfo_popup_unable_train_title,Once you have a fully-fed adult fish you can promote it to make more coins!
+fishInfo_popup_unable_train_body,Not Yet!
+fishInfo_popup_unable_buy_title,"You can't purchase this fish yet, but keep an eye out for it!"
+fishInfo_popup_unable_buy_body,Not Yet!
+fishInfo_popup_dislike_title,Dislike Fish In Tank
+fishInfo_popup_dislike_body,Your %s is not helping because there is a %s Fish in your tank.
+fishInfo_popup_fish_name,%s Fish
+fish_levelup_popup_title,%s has gained a level!
+generic_popup_fb_free_title,Did you know you can earn FREE pearls?
+generic_popup_fb_free_body,Earn FREE Pearls!
+popup_breed_button,Breed
+purchase_popup_breeding_time_label,Breeding Time: %s
+purchase_popup_buy_now_label,BUY NOW FOR 
+purchase_popup_default_title,Confirm Purchase
+purchase_popup_default_body,You are about to purchase
+purchase_popup_no_room_title,No room for fish!
+purchase_popup_no_room_body,Oh no!  You ran out of room in your tank for fish!  Level up to unlock new tanks to hold more fish.
+purchase_popup_new_tank_title,No room for fish!
+purchase_popup_new_tank_body,Oh no!  You ran out of room in your tank for fish!  Let's drop by the tank store and buy a new tank
+levelup_popup_reward_title,You got a pearl!
+levelup_popup_tank_reward_title,Tank unlocked!
+levelup_popup_tank_reward_description,"Wow, nice!  You've just unlocked "
+levelup_popup_tank_reward_string,New Tank
+quest_popup_new_quest_label,NEW
+hud_profile_button,Profile
+hud_move_button,Move
+hud_sell_button,Sell
+hud_hungry_label,Hungry!
+hud_training_label,Training
+hud_flip_button,Flip
+hud_collect_button,Collect
+hud_growing_label,Growing
+hud_hungry_in_label,Hungry In 
+hud_upgrade_button,Upgrade
+hud_unhappy_label,Unhappy!
+hud_move_help_label,Tap and hold to move decorations.
+hud_tank_decor_label,%i% Tank Decor
+hud_breeding_decor_label,Breeding Tank Decor
+hud_upgrading_label,Upgrading
+hud_chest_title,Treasure Chest
+fish_model_upset,Upset
+fish_model_normal,Normal
+fish_model_pleased,Pleased
+fish_model_happy,Happy
+fish_model_ecstatic,Ecstatic
+facebook_baby_hatched_msg,I just hatched a baby %s fish in %s!
+facebook_baby_hatched_caption,Can you breed the rarest fish of them all?
+sand_paper_coin_cost_label,Free!
+sand_paper_screen_title,Sand & Wallpaper
+settings_popup_notifications_label,Notifications
+settings_popup_support_label,Community & Support
+settings_popup_notifications_sub_label1,Breeding
+settings_popup_notifications_sub_label2,Feeding
+settings_popup_notifications_sub_label3,Building
+settings_popup_support_sub_label1,Forums
+settings_popup_support_sub_label2,Facebook
+settings_popup_support_sub_label3,Twitter
+settings_popup_support_sub_label4,E-mail
+settings_popup_support_sub_label5,Report a Bug
+settings_popup_support_sub_label6,FAQ
+settings_popup_support_button_label1,Visit
+settings_popup_support_button_label2,Send
+settings_popup_support_button_label3,Read
+settings_popup_support_button_label4,Hide
+settings_popup_version_label,Version:%s:%s
+social_dig_title,Dig for Treasure
+social_dig_description,Select one of your fish to dig with
+social_cant_dig_popup_body,You can't dig with this fish because it's busy breeding.
+social_cant_dig_popup_title,Choose another fish
+social_dig_no_toy_label,NEEDS TOY
+social_popup_divider_label1,%s Friends
+social_popup_divider_label2,Facebook Friends
+social_popup_divider_label3,Other Friends
+social_popup_visit_button,Visit
+social_popup_gift_button,Gift
+social_popup_tag_button,Tag
+social_popup_invite_button,Invite
+social_popup_choose_button,Choose
+social_popup_send_button,Send
+social_popup_gifts_left_label,%i %s available to give today
+social_popup_gift_label,gift
+social_popup_gift_plural_label,gifts
+social_popup_next_page_label,Next Page
+social_popup_prev_page_label,Prev Page
+social_popup_cant_load_friend_tank_title,Sorry!
+social_popup_cant_load_friend_tank_body,Could not load your friend's tank.
+store_decor_descriptor_tag1,Animated
+store_decor_title,Decorations
+store_fish_locked_label,Locked
+store_fish_title,Baby Fish
+store_popup_new_button,New!
+store_screen_owned_label,Owned
+store_screen_limited_label,Limited
+store_screen_new_label,New!
+store_tank_waiting_label,Waiting
+store_tank_level_label,Level %d
+store_tank_title,Tanks
+store_tank_popup_locked_title,Higher Level Needed
+store_tank_popup_locked_body,In order to purchase this tank you need to be a higher level.
+store_tank_popup_more_coins_title,You need treasure!
+store_tank_popup_more_coins_body,In order to purchase this tank you need more coins.  Pick some up from the Treasure Store!
+store_tank_popup_prev_tank_title,Build the Previous Tank
+store_tank_popup_prev_tank_body,In order to start building this tank you need to build the previous one.
+tank_nav_you_are_here_label,YOU ARE HERE!
+treasure_hunt_decor_rarity_string1,Junk
+treasure_hunt_decor_rarity_string2,Common
+treasure_hunt_decor_rarity_string3,Uncommon
+treasure_hunt_decor_rarity_string4,Rare
+treasure_hunt_decor_rarity_string5,Ultra Rare
+treasure_hunt_item_descriptor_pearl,Pearl
+treasure_hunt_item_descriptor_decor,Decor
+treasure_hunt_item_descriptor_toy,Toy
+treasure_hunt_decor_label, +%i% Tank Decor
+treasure_hunt_no_room_popup_body,"Sorry, there's no room in that tank to add %s!  Try another with more room, or purchase a new tank."
+treasure_hunt_no_room_popup_title,No Room!
+treasure_store_free_label,FREE!
+treasure_store_earn_label,Earn Free Pearls
+twitter_default_message,I'm playing %s on my iPhone - Everyone should check it out! AppStore: http://bit.ly/%s
+iap_error_popup_title,Purchase Error!
+iap_error_popup_body,There was a problem completing your purchase. Please try again later.
+unopened_tank_locked_label,Locked
+unopened_tank_build_label,Build
+unopened_tank_finish_label,Finish
+unopened_tank_open_label,Open
+unopened_tank_building_label,Building
+unopened_tank_speedup_popup_title,Speed up?  
+unopened_tank_speedup_popup_body,Your tank will finish building in:
+unopened_tank_more_pearls_popup_title,You need more treasure!
+unopened_tank_more_pearls_popup_body,In order to rush your tank you need more pearls.  Let's drop by the treasure store!
+announcements_popup_default_headline,Announcements
+fish_dislikes_popup_title,Keep Your Fish Happy!
+fish_dislikes_popup_body,%s Fish doesn't get along with %s Fish.  Make sure they are in seperate tanks!
+fish_likes_fish_popup_title,%s Fish really likes the %s Fish.  Keep them in the same tank!
+fish_likes_toy_popup_title,%s Fish really likes their favorite %s Toy.  Keep them in the same tank!
+fish_profile_dislike_alert_title,%s Fish!
+fish_profile_dislike_alert_body,%s Fish doesn't get along with %s Fish.  Put them in seperate tanks!
+highscore_popup_description,"Your %s Fish, %s has broken a record!"
+highscore_popup_facebook_caption,Can you beat my record?
+highscore_popup_facebook_msg,"My %s Fish, %s, just broke a new fish flinging record in %s: %i Meters!"
+highscore_popup_highscore_meter_label,%i Meters
+internal_error_popup_title,Download Error!
+internal_error_popup_body,There was a downloading problem.  Please close the game and try again.
+internal_error_popup_error1,The download failed to complete.
+item_info_popup_default_title,New Tank
+item_info_popup_use_label,Use
+item_info_popup_no_room_toy_title,No Room For Toys!
+item_info_popup_no_room_toy_body,"Sorry, there's no room in this tank.  Let's buy another tank."
+item_info_popup_no_room_tank_title,No room for decorations!
+item_info_popup_no_room_tank_body,Oh no!  You ran out of room in your tank!  Let's drop by the tank store and see if you can expand the number of tanks you own.
+new_baby_unique_label,%i Unique
+out_of_treasure_popup_title,Out of %s!
+out_of_treasure_popup_body,You don't have enough %s for this.  Let's stop by the store and get more.
+out_of_treasure_free_pearls_body,Did you know you can earn FREE pearls?
+out_of_treasure_free_pearls_title,Earn FREE Pearls!
+tank_selection_title,Select a Tank
+tank_selection_no_room_prop,this prop
+tank_selection_no_room_decor,this decor
+tank_selection_no_room_fish,this fish
+tank_selection_cant_afford_new_tank_title,Can't afford tank!
+tank_selection_cant_afford_new_tank_coins_body,"Sorry, you don't have enough coins to buy this tank!"
+tank_selection_cant_afford_new_tank_pearls_body,"Sorry, you don't have enough pearls to buy this tank!"
+tank_selection_no_room_title,No Room!
+tank_selection_no_room_body1,"Sorry, there's no room in that tank to add %s!  Let's go buy a new Tank."
+tank_selection_no_room_body2,"Sorry, there's no room in that tank to add this prop!  You can try another tank or go back and sell the item."
+purchase_locked_popup_body,To buy this fish you need to be level %i
+purchase_locked_popup_current_level,Current level: %i
+quest_complete_popup_facebook_post,"I just completed the \""%s\"" quiest in %s!"
+quest_complete_popup_facebook_caption,Complete quests to help unlock the rarest fish of them all!
+sell_fish_popup_title,Sell Your Fish?
+sell_fish_popup_body,Sell %s the %s fish for:
+sell_item_popup_title,Sell Tank Item?
+sell_item_popup_body,Sell your %s for:
+social_gift_popup_thanks_title,Give thanks!
+social_gift_popup_thanks_default_friend,your friend
+social_gift_popup_thanks_button,Choose
+social_gift_popup_thanks_body,One Time offer for new users!  Send 10 free pearls to %s.  Share the love!
+social_gift_popup_fb_invite_title,Invite your friends!
+social_gift_popup_fb_invite_body,"When you invite your friends to play, you can send each other free pearls every day!  Share the love!"
+social_gift_popup_received_title,You got some gifts!
+social_gift_popup_received_body,%s sent you a %s %i %s!  Why don't you return the favor?
+social_gift_popup_received_body_sub1,combined gfit of
+social_gift_popup_received_body_sub2,gift of
+social_popup_fb_invite_button_pressed_label,Pending
+social_popup_fb_wall_post_message,"Play with me!  Breed awesome fish, find rare treasures, and create amazing tanks!  http://bit.ly/%s"
+social_popup_gift,gift
+social_popup_gifts,gifts
+social_popup_gifts_available_label,%i%s available to give today
+social_popup_send_button,Sent
+social_popup_gift_already_sent_title,Try again later
+social_popup_gift_already_sent_body,You've sent all the gifts to %s you can send for today. Come back again later to send more!
+social_popup_no_more_gifts_body,You've sent all the gifts you can send for today. Come back again later to send more!
+social_select_friend_title,Select a friend
+social_select_fb_message,%s thinks %s is just like the %s Fish in %s.
+social_select_fb_caption,"Which fish are you like""?"
+social_popup_fb_wall_post_description,"Play with me!  Breed awesome fish, find rare treasures, and create amazing tanks!  http://bit.ly/"
+social_popup_fb_wall_post_caption,Play today!
+speedup_popup_feed_preprend,"Once fed, %s"
+store_popup_title,Store
+store_prop_screen_title,Toys
+tank_info_popup_title,Tank %i
+tank_info_popup_decor_label,Tank Decor %s%
+tank_level_up_popup_title,Tank %i is now a %i Star Tank!
+tank_level_up_popup_3star_description,Your tank is in perfect harmony!!
+tank_level_up_popup_description,Your tank is closer to perfect harmony.
+tank_locked_popup_title,Tank %i
+tank_locked_popup_description,This tank unlocks at Level %i
+train_fish_popup_title,Train Fish?
+train_fish_popup_description,Train %s so they'll earn more coins.
+treasure_hunt_finish_title,No more digs!
+treasure_hunt_finish_description,Go on another Treasure Hunt in \r%s's tank in: 
+treasure_hunt_finish_popup_title,You need treasure!
+treasure_hunt_finish_popup_description,In order to dig for treasure you need more pearls.  Pick some up from the Treasure Store!
+treasure_hunt_start_popup_title,You can do %i more %s today!
+treasure_hunt_dig,dig
+treasure_hunt_digs,digs
+treasure_hunt_start_social_description,Send %s on a treasure hunt in your friend's tank?  They might just find something incredible...
+treasure_hunt_start_description,"Send %s on a treasure hunt?  In addition to searching for their favorite toy, they might find something incredible..."
+treasure_store_title,Treasure
+treasure_store_IAP_disabled_title,Purchase Error!
+treasure_store_IAP_disabled_body,Your device is currently not set to make purchases.
+facebook_gift_1_pearl_body,Here is a premium Pearl for your %s!  Log into Facebook from the game to receive your free gift!
+facebook_gift_10_pearl_body,Here are 10 premium Pearls for your %s!
+facebook_gift_default_body,Here are some premium Pearls for your %s!
+facebook_nudge_message,Your tank looks like it needs your help!  Here's a free pearl!
+facebook_invite_request_message,I'm playing %s on my iPhone - You should play it too! Gift me too :) Here is the link: http://bit.ly/%s
+facebook_gift_connect_to_fb_title,You got %i Pearls!
+facebook_gift_connect_to_fb_body,You've just received %i FREE Pearls for connecting with Facebook!  You can now visit your friends' tanks and send them gifts!
+facebook_message_sent_successfully_title,Success!
+facebook_message_sent_successfully_body,Your message was sent successfully.
+facebook_message_invite_success_body,Your invite was sent successfully.
+facebook_message_gift_success_body,Your gift was sent successfully.
+facebook_message_wall_post_description,"Whether they're Happy or Mean, Flirty or Nerdy, Pop Star or Paparazzi, pair up different fish to get even more unique personalities for your tank!"
+sms_default_message,I've started playing %s on the iPhone and I think you will like it too! Click here to start playing! http://bit.ly/%s
+haui_out_of_pearls_popup_title,Out of Pearls!
+haui_out_of_pearls_popup_body,You need more pearls!  Head over to the store to get more!
+haui_out_of_food_popup_title,Ouf of Food!
+haui_out_of_food_popup_body,You need more food to continue feeding your fish.  Head on over to the store to get some more!
+haui_out_of_coins_popup_title,Out of Coins!
+haui_out_of_coins_popup_body,You need more coins to continue.  Head over to the store to get more!
+nuf_buy_mean_fish_open_store_popup,Here's your first friend: a Nice Fish! Let's get them a buddy. Tap the store to begin!
+nuf_buy_mean_fish_open_fish_store_popup,Your collection starts here.  Tap to buy a baby fish!
+nuf_buy_mean_fish_open_fish_purchase_popup,Think Mean and Nice Fish will get along?  There's only one way to find out!
+nuf_buy_mean_fish_click_buy_button,This looks good to me!  Buy the Mean Fish.
+nuf_feed_mean_fish,The poor little fella's hungry!  See how sad they look?  Let's feed our new baby fish.
+nuf_mature_mean_fish,Delish!  Looks like they're ready for adulthood.  Tap them so they grow!
+nuf_breed_fish_visit_tank,Lovely!  Let's see what kinds of kids there two fish can create.  Swipe over to the Breeding Tank.
+nuf_breed_fish_click_breed_heart,Here's where the magic happens.\rTap 'Breed' to get started!
+nuf_breed_fish_select_mean_fish,Let's match these two up.\rTap the Mean Fish on the left side...
+nuf_breed_fish_select_nice_fish,...and the Nice Fish on the right side!
+nuf_breed_fish_click_breed_button,Great!  Let's see what we get!
+nuf_rush_breed_fish,What a match!  Let's hurry things up and find out what their kid is like!
+nuf_rush_breed_fish_confirm,Tap to get this done in record time.
+nuf_lay_egg,"Good work, an egg is ready!  Let's place it ever-so-carefully in the nest!"
+nuf_rush_hatch_crazy_fish,"Now we wait for it to hatch... but who likes waiting?  Let's speed this up, too."
+nuf_rush_hatch_crazy_fish_confirm,"Pearls can do anything, can't they?\rTap to finish!"
+nuf_place_crazy_fish,Tap here to hatch your new fish!
+nuf_place_crazy_fish_confirm,"A brand-new fish!  Looks a little Crazy, doesn't it?  Let's take 'em to the tank!"
+nuf_place_crazy_fish_choose_tank,"We only have one tank so far,\rso let's put your Crazy Fish there!"
+nuf_select_chest,Happy fish show their appreciation with coins. Collect them from the treasure chest with a tap!
+nuf_collect_from_chest,Just give the 'Collect' button a tap!
+nuf_select_happy_fish,Let's learn a little more about our fish.\rTap to check out our Nice friend.
+nuf_open_happy_fish_profile,Just give the 'Profile' button a tap!
+nuf_train_happy_fish,Not only can we learn about our fish here - we can also improve them! Click the 'Train' button!
+nuf_train_happy_fish_confirm,"Training will make your fish earn more coins, which means you get richer!\rClick to confirm!"
+nuf_train_happy_fish_rush,"They'll be busy training for a while, but we've got stuff to do! Let's hurry this up."
+nuf_train_happy_fish_finish_now_1_pearl,"Just a single pearl, and we're set!"
+nuf_train_happy_fish_finish_now_pearls,"Just %i pearls, and we're set!"
+nuf_train_happy_fish_tap_to_finish,Looking good! Just give your fish\ra tap to finish its training!
+nuf_train_happy_fish_waiting_for_level_up_popup,All done. Let's head back to the tank!
+nuf_select_mean_fish,"We saw our Nice Fish has a toy, but our Mean Fish isn't so lucky. Let's send them on a treasure hunt to find it!"
+nuf_select_dig,"With a little funding, our fishy friend can have an undersea adventure!\rTap 'Dig' to begin!"
+nuf_confirm_dig,Let's fund this expedition! Tap to start!
+nuf_place_treasure,"Yay, they found it! Let's place it in the tank and increase their happiness!"
+nuf_open_tank_info_popup,All this delightful decor has made your tank a little nicer. Check it out!
+nuf_close_tank_info_popup,Here's where you can learn about your tank's rating. Only the most magnificent tanks are three stars!
+nuf_buy_brave_fish_open_store,Getting a Brave Fish is one of our first quests! Let's head to the store to buy one!
+nuf_buy_brave_fish_open_fish_store,Tap 'Baby Fish' to continue!
+nuf_buy_brave_fish_open_fish_purchase_popup,There's our courageous friend! Tap them!
+nuf_buy_brave_fish_click_buy_button,I can't wait to see this fine fish in the tank! Click 'Buy' and they're yours!
+nuf_view_quests,Awesome! There's more fun and adventures always waiting for you.\rTap here to see your quests!
+nuf_close_quests,What marvelous missions! Check here often to find new quests and complete 'em for rich rewards!
+hud_no_digging_in_breed_tank_title,Oops!
+hud_no_digging_in_breed_tank_body,You can't dig for treasure in a Breeding Tank! Try going over to one of the other living tanks and giving it another shot.
+hud_no_fish_for_digging_title,No fish to dig!
+hud_no_fish_for_digging_body,"Oh no!  You don't currently have any fish that you can dig with.  Try again once you have a happy, well-fed adult."
+hud_speed_up_training_title,Speed up?
+hud_speed_up_training_body,Your fish will finish training in:
+hud_speed_up_growing_title,Speed up?
+hud_speed_up_growing_body,Your fish will finish growing in:
+hud_chest_already_max_title,Max Treasure Chest
+hud_chest_already_max_body,Your treasure chest is already the max level.
+hud_free_social_digging,Dig for free in your friend's tank.
+sand_wall_more_treasure_popup_title,You need treasure!
+sand_wall_more_treasure_popup_body,In order to make this purchase you need more treasure. Let's drop by the treasure store!
+prop_grow_speedup_popup_title,Speed up?
+prop_grow_speedup_popup_body,Your idol will finish building in:
+tank_daily_3star_bonus_popup_title,Pearl Bonus Collected
+tank_daily_3star_bonus_popup_body,You collected your daily pearl bonus for having a 3-star tank! Congrats!!
+unopened_breed_tank_speedup_build_popup_title,Speed up?
+unopened_breed_tank_speedup_build_popup_body,Your tank will finish building in:
+new_version_title,Update Notificaiton
+new_version_message,A New Version Has Been Released.
+new_version_alt_message,A New Version Has Been Released.\rPlease Update To The Latest Version To Continue Playing.
+new_version_button_title,Ok
+new_version_alt_button_title,Exit
+new_version_confirm_button_title,Update Now
+mail_friend_picker_title,Take the Plunge with %s!
+mail_invite_default_body,"Check out %s! It's in the AppStore! <a href='http://bit.ly/%s'>Click here to start playing! http://bit.ly/%s</a>.  <br><br><p><a href=\""http://www.crowdstar.com\""><img width=100 src=\""http://www.crowdstar.com/img/header_logo.png\""></a></p>"
+mail_feedback_picker_title,%s Feedback
+mail_not_setup_title,Mail not setup!
+mail_not_setup_body,"Sorry, we'd love to help you send us a message but it looks like your email isn't setup yet!"
+mail_external_subject,%sTake the Plunge with %s!
+mail_external_body,%sCheck out %s! It's in the AppStore! http://bit.ly/%s
+locked_fish_purchase_tank_locked_title_textfield,Fish Locked!
+locked_fish_purchase_common_btn_label_textfield,OK
+locked_fish_purchase_tank_locked_description_textfield,
+locked_fish_purchase_tank_locked_required_textfield,
+locked_fish_purchase_tank_locked_current_textfield,
+achievement_alert_achievement_title_textfield,
+achievement_alert_achievement_description_textfield,
+breed_choose_title_textfield,Select A Breeding Pair
+breed_choose_breed_cost_textfield,
+breeding_result_fail_tip_modal_textfield,The results of breeding aren't always guaranteed! You ended up with another parent this time - but keep trying for newer and better babies!
+breeding_tank_locked_breed_build_title_textfield,Tank Locked!
+breeding_tank_locked_common_btn_label_textfield,OK
+breeding_tank_locked_breed_build_description_textfield,To breed in this tank you need the following:
+breeding_tank_locked_breed_build_fish_textfield,Unique Fish
+breeding_tank_locked_breed_build_fish_count_textfield,
+breeding_tank_locked_breed_build_tanks_textfield,3 Star Tanks
+breeding_tank_locked_breed_build_tanks_count_textfield,
+breedspeedup_popup_timer_textfield,
+breedspeedup_btn_cost_textfield,
+breedspeedup_common_btn_label_textfield,Finish 
+breedspeedup_popup_title_textfield,Finish Now?
+breedspeedup_popup_description_textfield,Your egg will finish hatching in:
+buy_tank_tank_buy_textfield,Buy
+chest_chest_upgrade_hold_current_1_textfield,Currently holds:
+chest_chest_upgrade_hold_current_2_textfield,
+chest_chest_upgrade_title_textfield,Upgrade Chest!
+chest_chest_upgrade_progress_textfield,
+chest_chest_upgrade_hold_will_1_textfield,Will hold:
+chest_chest_upgrade_hold_will_2_textfield,
+chest_common_btn_label_textfield,Upgrade
+chest_btn_cost_textfield,
+fish_level_up_fish_levelup_description_textfield,Your fish has gained a level and earns more coins
+fish_level_up_fish_levelup_title_textfield,
+fish_level_up_fish_levelup_coins_textfield,
+fish_profile_decor_alert_fish_decor_title_textfield,Decorate your tank!
+fish_profile_decor_alert_fish_decor_description_textfield,Every fish deserves a beautiful home. Visit the store to beautify your tank!
+fish_profile_dislike_alert_fish_dislike_title_textfield,
+fish_profile_dislike_alert_fish_dislike_description_textfield,
+generic_generic_title_textfield,
+generic_common_btn_label_textfield,OK
+generic_generic_description_textfield,
+item_info_store_item_title_textfield,
+item_info_store_item_description_textfield,
+item_info_store_item_cost_textfield,
+item_info_store_item_toy_textfield,Digging for treasure is a great way to get toys and decorations!
+level_info_current_level_textfield,
+level_info_xp_to_next_level_textfield,
+main_fish_info_fish_profile_toy_textfield,Toy
+main_fish_info_fish_profile_likes_textfield,Likes
+main_fish_info_fish_profile_disikes_textfield,Dislikes
+main_fish_info_fish_profile_type_textfield,Fish Type
+main_fish_info_info_happy_textfield,Happiness
+main_fish_info_fish_profile_friend_description_textfield,Click the image to pick a friend
+main_fish_info_fish_profile_train_textfield,Train
+main_fish_info_fish_profile_meter_status_textfield,Training
+main_fish_info_fish_profile_decoration_textfield,Decor
+main_fish_info_fish_profile_friend_btn_textfield,Change
+main_fish_info_fish_profile_friend_textfield,Who is this fish like?
+move_item_to_tank_secondary_title_textfield,What tank would you like to drop it into?
+move_item_to_tank_navigation_title_textfield,Select A Tank
+new_baby_popup_rare_common_btn_label_textfield,Place
+new_baby_popup_rare_newbaby_description_textfield,
+new_baby_popup_rare_newbaby_name_textfield,
+new_baby_popup_rare_common_btn_label_textfield,Sell
+new_baby_popup_rare_newbaby_toy_textfield,Favorite Toy
+new_baby_popup_rare_newbaby_type_textfield,
+new_baby_popup_rare_newbaby_rare_textfield,RARE BREED!
+new_baby_common_btn_label_textfield,Place
+new_baby_newbaby_description_textfield,
+new_baby_common_btn_label_textfield,Sell
+new_baby_newbaby_toy_textfield,Favorite Toy
+new_baby_newbaby_type_textfield,
+new_baby_popup_unique_newbaby_description_textfield,
+new_baby_popup_unique_newbaby_name_textfield,
+new_baby_popup_unique_newbaby_toy_textfield,Favorite Toy
+new_baby_popup_unique_newbaby_type_textfield,
+new_baby_popup_unique_newbaby_rare_textfield,NEW FISH
+new_baby_popup_unique_common_btn_label_textfield,Place
+new_baby_popup_unique_common_btn_label_textfield,Sell
+new_baby_popup_unique_unique_fish_textfield,99 Unique
+nuf_complete_common_btn_label_textfield,Begin
+nuf_complete_nuf_complete_description_textfield,"Breed your fish to find new friends and personalities! Find the right fish, and you might be able to breed the rarest of them all..."
+out_of_treasure_alert_title_textfield,
+out_of_treasure_common_btn_label_textfield,OK
+out_of_treasure_alert_description_textfield,
+out_of_treasure_alert_require_1_textfield,You need:
+out_of_treasure_alert_require_2_textfield,
+rating_rating_title_textfield,Having a great time?
+rating_common_btn_label_textfield,Rate Now
+rating_rating_description_textfield,Rate us so we can keep making fun fish and great decorations for you!
+rating_common_btn_label_textfield,Rate Later
+sell_fish_common_btn_label_textfield,OK
+sell_fish_sell_fish_description_textfield,
+sell_fish_sell_fish_price_textfield,
+sell_fish_sell_fish_title_textfield,Sell Fish?
+sell_item_common_btn_label_textfield,OK
+sell_item_sell_item_description_textfield,
+sell_item_sell_item_price_textfield,
+sell_item_sell_item_title_textfield,
+sell_sell_textfield,Ok
+sell_sell_description_textfield,
+sell_sell_price_textfield,
+sell_sell_title_textfield,
+social_alert_social_alert_title_textfield,Connect With Facebook!
+social_alert_social_alert_sub_description_textfield,Claim your reward by connecting today!
+social_alert_btn_facebook_textfield,Facebook Login
+social_alert_social_alert_description_textfield,Send/receive gifts and dig for treasure in friends' tanks for free!
+social_alert_social_alert_reward_2_textfield,10
+social_alert_social_alert_reward_1_textfield,Reward:
+social_dig_fish_selector_dig_select_title_textfield,Dig for Treasure
+social_dig_fish_selector_dig_select_description_textfield,Select the fish you want to do go dig
+social_gift_social_gift_title_textfield,You got a gift!
+social_gift_social_gift_description_textfield,
+social_gift_common_btn_label_textfield,Ok
+social_gift_fish_selector_social_fish_title_textfield,Select a fish!
+social_gift_fish_selector_social_fish_description_textfield,
+social_gift_fish_selector_social_fish_btn_4_textfield,Nerdy
+social_gift_fish_selector_social_fish_btn_3_textfield,Crazy
+social_gift_fish_selector_social_fish_btn_2_textfield,Pretty
+social_gift_fish_selector_social_fish_btn_1_textfield,Evil
+social_social_alert_sub_description_textfield,Claim your reward by connecting today!
+social_btn_facebook_textfield,Facebook Login
+social_social_alert_description_textfield,"Socialize with your friends by inviting them, sending them gifts, and visiting thier unique tanks!"
+social_social_alert_reward_2_textfield,
+social_social_alert_reward_1_textfield,Reward:
+social_social_title_textfield,Social
+social_social_description_textfield,
+social_social_btn_twitter_textfield,Twitter
+social_social_btn_facebook_textfield,Facebook
+social_social_btn_email_textfield,Email
+social_social_btn_text_textfield,Text
+social_forum_btn_text_textfield,Forums
+speedup_popup_title_textfield,Finish Now?
+speedup_popup_timer_textfield,
+speedup_btn_cost_textfield,
+speedup_common_btn_label_textfield,Finish 
+speedup_popup_description_textfield,
+store_fish_info_cost_textfield,
+store_fish_info_title_textfield,
+store_fish_info_description_textfield,
+store_fish_info_store_status_textfield,
+store_title_textfield,
+store_pearls_amount_textfield,
+store_coin_amount_textfield,
+storescreen_title_textfield,
+storescreen_pearls_amount_textfield,
+storescreen_coin_amount_textfield,
+tank_info_tankinfo_decoration_textfield,
+tank_info_tank_profile_fish_3_textfield,
+tank_info_tank_profile_fish_4_textfield,
+tank_info_tank_profile_fish_5_textfield,
+tank_info_tank_profile_fish_6_textfield,
+tank_info_tank_profile_fish_2_textfield,
+tank_info_tank_profile_fish_1_textfield,
+tank_info_tank_profile_name_textfield,
+tank_info_tank_profile_legend_2_textfield,4 Ecstatic Fish
+tank_info_tank_profile_legend_3_textfield,6 Ecstatic Fish
+tank_info_tank_profile_legend_1_textfield,4 Happy Fish
+tank_level_up_tank_levelup_description_textfield,Your tank is closer to perfect harmony.
+tank_level_up_tank_levelup_title_textfield,
+tank_navigation_tank_navigation_title_textfield,My Tanks
+tank_selection_tank_title_textfield,Tank Placement
+train_fish_fish_train_title_textfield,
+train_fish_fish_train_description_textfield,Train your fish to earn more coins.
+train_fish_fish_train_cost_btn_textfield,
+train_fish_common_btn_label_textfield,Train
+train_fish_fish_train_earn_current_1_textfield,Currently earns:
+train_fish_fish_train_earn_current_2_textfield,
+train_fish_fish_train_earn_will_1_textfield,Will earn:
+train_fish_fish_train_earn_will_2_textfield,
+treasure_finish_treasure_speedup_title_textfield,Dig again!
+treasure_finish_treasure_speedup_timer_textfield,
+treasure_finish_treasure_speedup_cost_textfield,
+treasure_finish_common_btn_label_textfield,Dig Now!
+treasure_finish_treasure_speedup_description_textfield,You can dig for new treasure in:
+treasure_reward_btn_place_textfield,Place
+treasure_reward_treasure_reward_item_textfield,
+treasure_reward_treasure_reward__description_textfield,
+treasure_reward_treasure_reward_title_textfield,Treasure Found!
+treasure_reward_btn_sell_textfield,Sell
+treasure_reward_treasure_reward_rarity_textfield,
+treasure_start_treasure_title_textfield,Dig for Treasure!
+treasure_start_treasure_description_textfield,
+treasure_start_treasure_cost_textfield,
+treasure_start_common_btn_label_textfield,Dig
+treasure_start_treasure_subdescription_textfield,
+treasure_start_treasure_tag_free_textfield,FREE
+announcements_maintitle_textfield,Announcements
+breeding_tank_selection_tank_placement_breed_title_textfield,Select a Tank
+breeding_tank_selection_tank_placement_breed_btn_04_textfield,9 Harmony Tanks
+breeding_tank_selection_tank_placement_breed_btn_03_textfield,6 Harmony Tanks
+breeding_tank_selection_tank_placement_breed_btn_02_textfield,3 Harmony Tanks
+breeding_tank_selection_tank_placement_breed_btn_01_textfield,
+breeding_tank_unlock_common_btn_label_textfield,Visit
+breeding_tank_unlock_new_tank__description_textfield,You've unlocked another breeding tank.
+breeding_tank_unlock_new_tank__title_textfield,New Breeding Tank!
+cheating_error_popup_error_title_textfield,Error!
+cheating_error_popup_error_description_textfield,Unusual activity was detected and the incident has been reported.
+cheating_error_btn_label_textfield,OK
+fish_likes_fish_fish_like_title_textfield,Best Buddies!
+fish_likes_fish_fish_like_description_textfield,
+fish_likes_toy_fish_toy_title_textfield,Favorite Toy!
+fish_likes_toy_fish_toy_description_textfield,
+fish_purchase_store_item_fish_cost_textfield,
+fish_purchase_store_item_fish_title_textfield,
+fish_purchase_store_item_fish_description_textfield,
+fish_purchase_store_item_fish_status_textfield,
+fivestar_fivestar_title_textfield,Having a Great time?
+fivestar_fivestar_textfield,Rate us so we can continue making this game more awesome!
+fivestar_fivestar_sure_textfield,Sure!
+high_score_fish_fling_description_textfield,You've just set a new fish-flinging goal!
+high_score_fish_fling_title_textfield,
+high_score_common_btn_label_textfield,Share!
+high_score_fish_fling_record_textfield,
+internet_error_popup_error_title_textfield,Connection Lost!
+internet_error_popup_error_description_textfield,Fishies need the internet! Please check your connection and try again.
+internet_error_btn_label_textfield,OK
+level_up_levelup_description_textfield,"Wow, nice! Let's head to the store and celebrate!"
+level_up_levelup_title_textfield,You've earned some rewards!
+level_up_levelup_maintitle_textfield,Level Up!
+level_up_levelup_level_textfield,
+main_store_screen_babyfish_textfield,Baby Fish
+main_store_screen_idol_textfield,Toys
+main_store_screen_treasure_textfield,Treasure
+main_store_screen_tank_textfield,Tanks
+main_store_screen_decoration_textfield,Decorations
+main_store_screen_sand_textfield,Sand & Wallpaper
+main_store_screen_title_textfield,
+main_store_screen_coins_amount_textfield,
+main_store_screen_pearls_amount_textfield,
+main_store_screen_tapjoy_textfield,Earn Pearls
+quest_complete_quest_reward_title_textfield,
+quest_complete_quest_reward_maintitle_textfield,Quest Complete!
+quest_complete_quest_reward_description_textfield,
+quest_complete_quest_reward_count_1_textfield,
+quest_complete_quest_reward_textfield,Reward:
+quest_complete_quest_reward_count_2_textfield,
+quest_complete_common_btn_label_textfield,Share
+quests_quests_title_textfield,QUESTS
+ha_mobile_ui_sd_food_textfield,Feed
+ha_mobile_ui_sd_store_textfield,Store
+ha_mobile_ui_sd_social_textfield,Friends
+ha_mobile_ui_sd_quest_textfield,Quest
+ha_mobile_ui_sd_coins_amount_textfield,
+ha_mobile_ui_sd_pearls_amount_textfield,
+ha_mobile_ui_sd_tank_number_textfield,
+ha_mobile_ui_sd_xp_amount_textfield,
+ha_mobile_ui_sd_social_indicator_textfield,
+ha_mobile_ui_sd_nudge_button_textfield,Nudge
+ha_mobile_ui_sd_dig_textfield,Dig
+ha_mobile_ui_sd_home_textfield,Home
+settings_settings_title_textfield,Settings
+settings_settings_version_textfield,
+tank_decor_popup1_fish_decor_title_textfield,Decorate your tank!
+tank_decor_popup1_fish_decor_description_textfield,Every fish deserves a decorated tank!
+tank_decor_popup1_btn_label_textfield,Store
+tank_decor_popup1_tank_locked_current_textfield,Digging for treasure is a great way to get toys! You can also buy from the store.
+tank_decor_popup2_fish_decor_title_textfield,Nice tank!
+tank_decor_popup2_fish_decor_description_textfield,What a beautiful tank. Your fish will be happier in their nicely decorated home.
+tank_locked_tank_locked_title_textfield,Tank Locked!
+tank_locked_common_btn_label_textfield,Buy
+tank_locked_tank_locked_description_textfield,
+tank_locked_tank_locked_current_textfield,Start building now for only:
+tank_locked_tank_locked_unlock_cost_textfield,
+welcome_common_btn_label_textfield,Continue
+welcome_nuf_welcome_description_textfield,"Welcome to Fish with Attitude! Create beautiful tanks, breed amazing fish, and enjoy all their fun personalities."
+randomize_likesdislikes_popup_title_textfield,Randomize?
+randomize_likesdislikes_btn_cost_textfield,
+randomize_likesdislikes_common_btn_label_textfield,Randomize
+randomize_likesdislikes_generic_description_textfield,Want your fish to like other things? Change their likes and dislikes now!
+json_fish_info_name_nice,Nice
+json_fish_info_name_mean,Mean
+json_fish_info_name_brave,Brave
+json_fish_info_name_rare brave,Rare Brave
+json_fish_info_name_shy,Shy
+json_fish_info_name_smart,Smart
+json_fish_info_name_creative,Creative
+json_fish_info_name_crazy,Crazy
+json_fish_info_name_flirty,Flirty
+json_fish_info_name_tough,Tough
+json_fish_info_name_adventure,Adventure
+json_fish_info_name_pretty,Pretty
+json_fish_info_name_rebel,Rebel
+json_fish_info_name_dreamy,Dreamy
+json_fish_info_name_funny,Funny
+json_fish_info_name_greedy,Greedy
+json_fish_info_name_cool,Cool
+json_fish_info_name_nerdy,Nerdy
+json_fish_info_name_party,Party
+json_fish_info_name_evil,Evil
+json_fish_info_name_gossip,Gossip
+json_fish_info_name_clown,Clown
+json_fish_info_name_paparazzi ,Paparazzi 
+json_fish_info_name_cheerleader,Cheerleader
+json_fish_info_name_dancer,Dancer
+json_fish_info_name_artist,Artist
+json_fish_info_name_salesman,Salesman
+json_fish_info_name_president,President
+json_fish_info_name_secret agent,Secret Agent
+json_fish_info_name_robber,Robber
+json_fish_info_name_mad scientist,Mad Scientist
+json_fish_info_name_hobo,Hobo
+json_fish_info_name_movie star,Movie Star
+json_fish_info_name_rock star,Rock Star
+json_fish_info_name_model,Model
+json_fish_info_name_astronaut,Astronaut
+json_fish_info_name_pirate,Pirate
+json_fish_info_name_ninja,Ninja
+json_fish_info_name_pop star,Pop Star
+json_fish_info_name_wizard,Wizard
+json_fish_info_name_cowboy,Cowboy
+json_fish_info_name_designer,Designer
+json_fish_info_name_unicorn,Unicorn
+json_fish_info_name_fairy,Fairy
+json_fish_info_name_werewolf,Werewolf
+json_fish_info_name_vampire,Vampire
+json_fish_info_name_angel,Angel
+json_fish_info_name_ghost,Ghost
+json_fish_info_name_devil,Devil
+json_fish_info_name_diamond,Diamond
+json_fish_info_name_ruby,Ruby
+json_fish_info_name_galaxy,Galaxy
+json_fish_info_name_social,Social
+json_fish_info_name_independence,Independence
+json_fish_info_description_nice,"This fish's life is sunshine, rainbows, and possibly even lollipops. It's easy-going, ready to make friends, and sure to see the best of every situation."
+json_fish_info_description_mean,"Some fish might wake up on the wrong side of the tank; this one LIVES there. This is a low-down troublemaker, so keep your distance... and don't try to hug it. It hates hugs."
+json_fish_info_description_brave,No obstacle is too great for this fearless fish. It firmly believes it can tackle any challenge - all it needs is the chance.
+json_fish_info_description_rare brave,No obstacle is too great for this fearless fish. It firmly believes it can tackle any challenge - all it needs is the chance.
+json_fish_info_description_shy,"You might not think much of this timid fish, but don't count them out. They're kind at heart, and hey - sometimes it's the shy ones that surprise us most."
+json_fish_info_description_smart,"This little one's a born genius, but it's no show-off; all they really want is the chance to move into a nice tank that's full of friends!"
+json_fish_info_description_creative,"Incredible ideas float through this fish's mind like bubbles on a wave. Now if only they could focus, they'd be the most famous fish around!"
+json_fish_info_description_crazy,"A batty buddy for your tank, this straightjacketed swimmer can't be taken seriously. Let's at least hope it's happy. Maybe we'll find them a therapist fish one day!"
+json_fish_info_description_flirty,"Spunky and outgoing, this fish loves to make friends. It can be a little flaky, but it's a simple swimmer with a sweet smile who just wants to have fun."
+json_fish_info_description_tough,"Solid as a rock, this fish has been around the block a few times and has the scars to prove it. It may look scary, but don't worry - this is one fish who's got your back."
+json_fish_info_description_adventure,Fancy a swim to the North Pole? Maybe a hunt for Atlantis? Just your average day for this enterprising explorer. They'll always have amazing tales to tell their fishy friends!
+json_fish_info_description_pretty,"What a stunning little beauty! This fabulous fish is sure to be the talk of the tank. With all that attention, they'll have no trouble making friends."
+json_fish_info_description_rebel,"This fish plays by its own rules. It'll never let the man keep 'em down, and the only fins it'll trust are its own. A loner, sure, but isn't it just a bit cool, too?"
+json_fish_info_description_dreamy,"Content to float through life without a care, this fish is more focused on the fantastic world inside its head. What visions do you suppose it sees when it closes its eyes?"
+json_fish_info_description_funny,"This hilarious fish loves to laugh. It'll do what it can to put a smile on your face, and with its assortment of terrific tricks, that won't take very long!"
+json_fish_info_description_greedy,"Seems like this oversize swimmer is only happy when it's taking more than its fair share. A green-eyed monster with fins, they want it all - and they're not shy about it."
+json_fish_info_description_cool,"Laid-back and stylish, this fine fella's content to watch the world float past their slick shades. So relaxed!"
+json_fish_info_description_nerdy,"They may not be the life of a party, but this clever critter's got one of the biggest brains in the tank! All it's missing is the courage to stand up and be noticed. I hope they find it!"
+json_fish_info_description_party,Everyone wants to meet this fish! It's so sociable and always happy to hang out - but what do you suppose it does when it's not throwing parties?
+json_fish_info_description_evil,Dark and sinister thoughts swirl through the mind of this frightful fish. What vile plans could it be hatching now? Better keep a close eye on this one.
+json_fish_info_description_gossip,"Rumors are like delicious candy to this talkative fish. Don't tell it anything you'd want to stay secret, and make sure they have an unlimited phone plan!"
+json_fish_info_description_clown,"This is no ordinary clownfish - it went to Clown Academy! Armed with a wacky sense of humor and a bag full of silly props, it's sure to brighten up any tank."
+json_fish_info_description_paparazzi ,"Let's see your good side! This fish is an impossible shutterbug, always snapping photos of the other fish. It'd probably have more friends if it weren't so pushy about it."
+json_fish_info_description_cheerleader,"Rah, rah, fish are great! This fish is full of spunk and spirit - it's happy to cheer any occasion, and its boundless enthusiasm will bring new energy to the tank!"
+json_fish_info_description_dancer,"Hear that music? Then it's time to hit the dance floor with this lively lil' swimmer! This fish loves to shake its fins. When there's a good beat, it just can't help itself!"
+json_fish_info_description_artist,This paint-spattered creative has a vision it'll follow to the ends of the ocean. Nothing can stop them from putting brush to canvas and drawing their dreams.
+json_fish_info_description_salesman,"As seen on TV! This master salesfish is a fast-talking genius who can sell almost anything to anyone. Don't stick around too long, or you'll end up buying half the tank!"
+json_fish_info_description_president,"Not every fish gets up in the morning and decides to run for Tank Leader - but our presidential pal here is no ordinary fish. A smooth talker, they can get anyone on his side."
+json_fish_info_description_secret agent,"The most suave spy your tank will ever see, this fish's mission is to maintain peace and order under the waves. Evil beware - Agent Fish is here!"
+json_fish_info_description_robber,"This fish has a bad reputation, but you shouldn't judge of book by its- hey! HEY! Where's my wallet?! ROBBER FIIIIISH!"
+json_fish_info_description_mad scientist,What has science done?! This freaky fish will be meddling with the laws of nature in no time. Let's hope its discoveries don't blast the tank to bits!
+json_fish_info_description_hobo,"Down on your luck? Well, misery loves company, and the hobo fish will help share your sorrows. They'll even take care of any aluminum cans around your tank..."
+json_fish_info_description_movie star,Oh my - we have a celebrity here! This fish has already starred in all sorts of famous movies and plans to go for more! This is how you add star power to your tank! 
+json_fish_info_description_rock star,Rock on! This fish lives to blast its magnificent music from the center stage. It'll never go anywhere without its guitar and a school of groupies!
+json_fish_info_description_model,This fashion-obsessed fish is always at home on the runway! All they want to do is strut their stuff on the catwalk while wearing the best designs - and what's wrong with that?
+json_fish_info_description_astronaut,"Reach for the stars! When the tank manages to build its first rocket, this is the mighty fish who will ride it into the heavens. Houston, we are go for launch!"
+json_fish_info_description_pirate,"Arr! This fish is on an endless quest for stupendous treasure. It's following all the clues, and it'll do whatever it takes to get the gold..."
+json_fish_info_description_ninja,"Silent as shadow, deadly in darkness, swifter than the sea - watch out! This fighting fish has been trained in ancient arts and it's not afraid to use them."
+json_fish_info_description_pop star,Check the music charts and you'll find this fish floating at the top! It's got a true gift for song and can't wait to go global. Prepare yourself for some sweet sound!
+json_fish_info_description_wizard,Zounds! This spellslingin' swimmer has more mystic might in one little fin than most fish could hope to have in a lifetime! Let's just hope they'll use their powers for good...
+json_fish_info_description_cowboy,Yeehaw! Ride those seahorses! This rough n' tumble fish will wrangle a tankful of fun. Just don't let them ride off into the sunset. Yahoo!
+json_fish_info_description_designer,"Have you seen the latest styles? Aren't they beautiful? Well, there's a good chance they were made by the nimble fins of this very fish. Its designs are the height of fishion!"
+json_fish_info_description_unicorn,"Majestic beauties of the deep, unicorn seahorses are a magical and mysterious addition to any tank. They love to frolic in the sunlight, and rainbows follow in their wake."
+json_fish_info_description_fairy,"Hopes, dreams, and happiness follow in this fabled fish's wake. Watch your tank fill with joy - and sparkles! - after a wave of its wand and a pinch of fairy dust!"
+json_fish_info_description_werewolf,"AwooOOOooo! This fella loves flannel, full moons, and pretty - but clumsy - girls. Absolutely hates vampires for some reason, though. Especially if they're shirtless."
+json_fish_info_description_vampire,"It vants your blood! Dark and mysterious, this fish loves candlelight, brooding, and love triangles. Can't stand werewolves, though. I wonder why..."
+json_fish_info_description_angel,"An uplifting choir seems to follow this fish. Its halo shines with inner goodness, and its heart beats with truth and hope. This is a truly heavenly fish, and rarely seen."
+json_fish_info_description_ghost,"This fearsome fellow will set your skin crawling! No need to rush for the proton packs, though - it's a friendly ghost, ready to give you a ghoulishly good time!"
+json_fish_info_description_devil,"Something wicked this way comes. This devil ray casts a grim pall over the tank with its fiendish presence. Who are they, really? What do they want? No good will come of this."
+json_fish_info_description_diamond," This rare, radiant fish sparkles with an inner fire. Gentle and wise, this is a true ruler of the deep and certainly a girl's best friend!"
+json_fish_info_description_ruby,"This fish is a rare gem with a sparkling personality! It'll surely bring a sparkle to any tank, but watch out for thieves - they might just mistake it for jewelry!"
+json_fish_info_description_galaxy,Breathtaking - never has there been a more majestic fish! But how can our tanks contain such a creature of space and stars? Only our phishicists may know for sure...
+json_fish_info_description_social,"Socialite of the seas, this fish loves making friends and keeping everyone happy. They may be a bit of a gossip, but they're a sweetie at heart and a true ally."
+json_fish_info_description_independence,"This steadfast fish believes everyone has the right to freedom. The only question in its briny brain is which of these it likes more: Truth, justice, or liberty for all?"
+json_fish_info_ftraits_nice,Nice
+json_fish_info_ftraits_mean,Mean
+json_fish_info_ftraits_brave,Brave
+json_fish_info_ftraits_rare brave,"Brave,Rare"
+json_fish_info_ftraits_shy,Shy
+json_fish_info_ftraits_smart,Smart
+json_fish_info_ftraits_creative,Creative
+json_fish_info_ftraits_crazy,"Nice,Mean"
+json_fish_info_ftraits_flirty,"Nice,Brave"
+json_fish_info_ftraits_tough,"Mean,Brave"
+json_fish_info_ftraits_adventure,"Nice,Mean,Brave"
+json_fish_info_ftraits_pretty,"Nice,Shy"
+json_fish_info_ftraits_rebel,"Mean,Shy"
+json_fish_info_ftraits_dreamy,"Brave,Shy"
+json_fish_info_ftraits_funny,"Nice,Smart"
+json_fish_info_ftraits_greedy,"Mean,Smart"
+json_fish_info_ftraits_cool,"Brave,Smart"
+json_fish_info_ftraits_nerdy,"Shy,Smart"
+json_fish_info_ftraits_party,"Nice,Brave,Shy"
+json_fish_info_ftraits_evil,"Mean,Brave,Shy"
+json_fish_info_ftraits_gossip,"Nice,Mean,Shy"
+json_fish_info_ftraits_clown,"Nice,Creative"
+json_fish_info_ftraits_paparazzi ,"Mean,Creative"
+json_fish_info_ftraits_cheerleader,"Brave,Creative"
+json_fish_info_ftraits_dancer,"Shy,Creative"
+json_fish_info_ftraits_artist,"Smart,Creative"
+json_fish_info_ftraits_salesman,"Nice,Mean,Smart"
+json_fish_info_ftraits_president,"Nice,Brave,Smart"
+json_fish_info_ftraits_secret agent,"Nice,Shy,Smart"
+json_fish_info_ftraits_robber,"Mean,Brave,Smart"
+json_fish_info_ftraits_mad scientist,"Mean,Shy,Smart"
+json_fish_info_ftraits_hobo,"Brave,Shy,Smart"
+json_fish_info_ftraits_movie star,"Nice,Mean,Creative"
+json_fish_info_ftraits_rock star,"Nice,Brave,Creative"
+json_fish_info_ftraits_model,"Nice,Shy,Creative"
+json_fish_info_ftraits_astronaut,"Nice,Smart,Creative"
+json_fish_info_ftraits_pirate,"Mean,Brave,Creative"
+json_fish_info_ftraits_ninja,"Mean,Shy,Creative"
+json_fish_info_ftraits_pop star,"Mean,Smart,Creative"
+json_fish_info_ftraits_wizard,"Brave,Shy,Creative"
+json_fish_info_ftraits_cowboy,"Brave,Smart,Creative"
+json_fish_info_ftraits_designer,"Shy,Smart,Creative"
+json_fish_info_ftraits_unicorn,"Nice,Shy,Smart,Creative"
+json_fish_info_ftraits_fairy,"Nice,Shy,Smart,Creative"
+json_fish_info_ftraits_werewolf,"Mean,Shy,Smart,Creative"
+json_fish_info_ftraits_vampire,"Mean,Shy,Smart,Creative"
+json_fish_info_ftraits_angel,"Brave,Shy,Smart,Creative"
+json_fish_info_ftraits_ghost,"Brave,Shy,Smart,Creative"
+json_fish_info_ftraits_devil,"Brave,Shy,Smart,Creative"
+json_fish_info_ftraits_diamond,"Nice,Brave,Shy,Smart,Creative"
+json_fish_info_ftraits_ruby,"Nice,Brave,Shy,Smart,Creative"
+json_fish_info_ftraits_galaxy,"Nice,Mean,Brave,Shy,Smart,Creative"
+json_fish_info_ftraits_social,Nice
+json_fish_info_ftraits_independence,"Nice,Brave,Smart,LimitedEdition"
+json_fish_info_dtraits_nice,
+json_fish_info_dtraits_mean,
+json_fish_info_dtraits_brave,
+json_fish_info_dtraits_rare brave,Brave
+json_fish_info_dtraits_shy,
+json_fish_info_dtraits_smart,
+json_fish_info_dtraits_creative,
+json_fish_info_dtraits_crazy,
+json_fish_info_dtraits_flirty,
+json_fish_info_dtraits_tough,
+json_fish_info_dtraits_adventure,
+json_fish_info_dtraits_pretty,
+json_fish_info_dtraits_rebel,
+json_fish_info_dtraits_dreamy,
+json_fish_info_dtraits_funny,
+json_fish_info_dtraits_greedy,
+json_fish_info_dtraits_cool,
+json_fish_info_dtraits_nerdy,
+json_fish_info_dtraits_party,
+json_fish_info_dtraits_evil,
+json_fish_info_dtraits_gossip,
+json_fish_info_dtraits_clown,
+json_fish_info_dtraits_paparazzi ,
+json_fish_info_dtraits_cheerleader,
+json_fish_info_dtraits_dancer,
+json_fish_info_dtraits_artist,
+json_fish_info_dtraits_salesman,
+json_fish_info_dtraits_president,
+json_fish_info_dtraits_secret agent,
+json_fish_info_dtraits_robber,
+json_fish_info_dtraits_mad scientist,
+json_fish_info_dtraits_hobo,
+json_fish_info_dtraits_movie star,
+json_fish_info_dtraits_rock star,
+json_fish_info_dtraits_model,
+json_fish_info_dtraits_astronaut,
+json_fish_info_dtraits_pirate,
+json_fish_info_dtraits_ninja,
+json_fish_info_dtraits_pop star,
+json_fish_info_dtraits_wizard,
+json_fish_info_dtraits_cowboy,
+json_fish_info_dtraits_designer,
+json_fish_info_dtraits_unicorn,Magical
+json_fish_info_dtraits_fairy,Magical
+json_fish_info_dtraits_werewolf,Magical
+json_fish_info_dtraits_vampire,Magical
+json_fish_info_dtraits_angel,Celestial
+json_fish_info_dtraits_ghost,Celestial
+json_fish_info_dtraits_devil,Celestial
+json_fish_info_dtraits_diamond,Gem
+json_fish_info_dtraits_ruby,Gem
+json_fish_info_dtraits_galaxy,Galactical
+json_fish_info_dtraits_social,
+json_fish_info_dtraits_independence,LimitedEdition
+json_fish_info_proper_names_nice,"Harmony,Jellybean,Flo,Bonnie,Sweetie"
+json_fish_info_proper_names_mean,"Bitey,Grumbles,Nibbles,Rascal,Roughtail"
+json_fish_info_proper_names_brave,"Tiger,Hercules,Leo,Percival,Lancelot"
+json_fish_info_proper_names_rare brave,"Tiger,Hercules,Leo,Percival,Lancelot"
+json_fish_info_proper_names_shy,"Squishy,Minnie,Bubbles,Bitsy,Tulip"
+json_fish_info_proper_names_smart,"Isaac,Newton,Leonardo,Darwin,Albert"
+json_fish_info_proper_names_creative,"Vision,Fancy,Pixel,Figment,Wonder"
+json_fish_info_proper_names_crazy,"Madfin,Loonygill,Wackyscale,Battytail,Seaflake"
+json_fish_info_proper_names_flirty,"Roxie,Elle,Sassyfins,Rose,Violet"
+json_fish_info_proper_names_tough,"Lou,Beefsteak,Brute,Atlas,Tyson"
+json_fish_info_proper_names_adventure,"Phoenix,Indiana,Raleigh,Locke,Magellan"
+json_fish_info_proper_names_pretty,"Angelina,Marilyn,Cleopatra,Bonita,Belle"
+json_fish_info_proper_names_rebel,"Elvis,Dean,Romeo,Torque,Tyler,Luther"
+json_fish_info_proper_names_dreamy,"Starry,Misty,Fantasy,Moongill,Glowfin"
+json_fish_info_proper_names_funny,"Giggles,Grintail,Smiley,Merrygill,Chuckles"
+json_fish_info_proper_names_greedy,"Mondo,Goliath,Hungerfin,Scrooge,Piggy"
+json_fish_info_proper_names_cool,"Adonis,Alpha,Chief,Ferrari,Magnum"
+json_fish_info_proper_names_nerdy,"Flanders,Melvin,Leopold,Linus,Pascal"
+json_fish_info_proper_names_party,"Glinda,Hope,Sophia,Chloe,Mia,Madison"
+json_fish_info_proper_names_evil,"Snidely,Grimfin,Snags,Bane,Dastard"
+json_fish_info_proper_names_gossip,"Trixie,Babs,Lulu,Pinky,Holly"
+json_fish_info_proper_names_clown,"Bubbles,Blinky,Bozo,Confetti,Bumpkin,Gonzo"
+json_fish_info_proper_names_paparazzi ,"Scoop,Bumper,Badger,Snapshot,Quickfin"
+json_fish_info_proper_names_cheerleader,"Candi,Ashli,Susi,Tootsi,Bambi,Daisi,Betsi"
+json_fish_info_proper_names_dancer,"Pavlova,Flora,Grace,Anna,Marie"
+json_fish_info_proper_names_artist,"Aqua,Azure,Cobalt,Cerulean,Indigo"
+json_fish_info_proper_names_salesman,"Jaws,Hoaxy,Snaketail,Cheatygill,Swindlefin"
+json_fish_info_proper_names_president,"Abe,George,Jefferson,Bill,Teddy"
+json_fish_info_proper_names_secret agent,"Ace,Steele,Maxwell,James,Danger,Austin"
+json_fish_info_proper_names_robber,"Theftfin,Black Bart,Sneakygill,Bandit,Desperado"
+json_fish_info_proper_names_mad scientist,"Fearstein,Jekyll,Moreau,Dr. Boom,Brainiac,Destructo"
+json_fish_info_proper_names_hobo,"Sad Petey,Old Bill,Lucky Jim,Stinkfin,Drifty Ted"
+json_fish_info_proper_names_movie star,"Goldie,Paris,Lucille,Vivien,Ginger"
+json_fish_info_proper_names_rock star,"Thrum,Spike,Blaze,Axel,Shred"
+json_fish_info_proper_names_model,"Queenie,Isadore,Rosalind,Camelia,Fleur,Persephone"
+json_fish_info_proper_names_astronaut,"Buzz,Cosmo,Armstrong,Sagan,Yuri"
+json_fish_info_proper_names_pirate,"Cap'n,Pegleg Pat,Bloody Ben,Cannonball,Scalebeard"
+json_fish_info_proper_names_ninja,"Nigiri,Sashimi,Ryu,Hanzo,Goemon,Shadow"
+json_fish_info_proper_names_pop star,"Jessica,Britney,Mariah,Christina,Kylie"
+json_fish_info_proper_names_wizard,"Gandalf,Merlin,Harry,Rincewind,Elminster"
+json_fish_info_proper_names_cowboy,"Clint,Pistol Pete,Dusty,Wild Bill,Wyatt"
+json_fish_info_proper_names_designer,"Vera,Chiffon,Stella,Winters,Kate,Donna"
+json_fish_info_proper_names_unicorn,"Majesty,Mr. Pointy,Serenity,Xanadu,Charlie,Uno"
+json_fish_info_proper_names_fairy,"Princess,Cupcake,Sparkle,Glitter,Pixie"
+json_fish_info_proper_names_werewolf,"Jacob,Lupin,Wulfric,Mongrel,Fenrir"
+json_fish_info_proper_names_vampire,"Edward,Nyx,Orlok,Lestat,Vladimir"
+json_fish_info_proper_names_angel,"Serapha,Cherubi,Choira,Paragon,Iridesca"
+json_fish_info_proper_names_ghost,"Casper,Boo,Alma,Alastor,Marley"
+json_fish_info_proper_names_devil,"Beelzebub,Dante,Lucifer,Mephisto,Scratch"
+json_fish_info_proper_names_diamond,"Crystal,Bianca,Bijou,Ice,Tiara"
+json_fish_info_proper_names_ruby,"Rosie,Ruby,Cherry,Scarlet,Cameo,Gem"
+json_fish_info_proper_names_galaxy,"Celestia,Luna,Andromeda,Solara,Glimmer"
+json_fish_info_proper_names_social,"Bestie,Charma,Glee,Heartfin,Seahug"
+json_fish_info_proper_names_independence,"Abe,George,Jefferson,Bill,Teddy"
+json_decor_info_name_coral_blueanemone,Bulb Anemone
+json_decor_info_name_coral_brain,Brain Coral
+json_decor_info_name_coral_closedbrain,Closed Coral
+json_decor_info_name_coral_coil,Coil Coral
+json_decor_info_name_coral_crinoid,Crinoid
+json_decor_info_name_coral_fan,Coral Fan
+json_decor_info_name_coral_fanlarge,Big-Fan Coral
+json_decor_info_name_coral_fire,Fire Coral
+json_decor_info_name_coral_montipora,Montipora Coral
+json_decor_info_name_coral_mushroom,Mushroom Coral
+json_decor_info_name_coral_panel,Panel Coral
+json_decor_info_name_coral_pillar,Pillar Coral
+json_decor_info_name_coral_pinkanemone,Condy Anemone
+json_decor_info_name_coral_pipe,Pipe Coral
+json_decor_info_name_coral_plate,Sea Anemone
+json_decor_info_name_coral_plume,Sponge Coral
+json_decor_info_name_coral_purpleurchin,Purple Urchin
+json_decor_info_name_coral_stripedmushroom,Striped Mushroom
+json_decor_info_name_coral_suncoral,Sun Coral
+json_decor_info_name_coral_tree,Coral Tree
+json_decor_info_name_coral_urchinshell,Urchin Shell
+json_decor_info_name_plant_bamboo,Bamboo
+json_decor_info_name_plant_bluedragonweed,Blue Dragonweed
+json_decor_info_name_plant_drifttreestump,Drift Stump
+json_decor_info_name_plant_kelpa,Swaying Kelp
+json_decor_info_name_plant_kelpb,Leafy Kelp
+json_decor_info_name_plant_purplemushroom,Purple Mushrooms
+json_decor_info_name_plant_ricciagrass,Bubble Grass
+json_decor_info_name_plant_sealavender,Sea Lavender
+json_decor_info_name_plant_seaweedpetals,Leafy Seaweed
+json_decor_info_name_plant_shavingbrush,Frilly Brushes
+json_decor_info_name_rock_algaeslabrock,Algae Rocks
+json_decor_info_name_rock_basalt,Basalt Blocks
+json_decor_info_name_rock_crystal,Crystals
+json_decor_info_name_rock_greypumice,Gray Pumice
+json_decor_info_name_rock_platerock,Rocky Plate
+json_decor_info_name_rock_redpumice,Red Pumice
+json_decor_info_name_rock_riverstones,River Stones
+json_decor_info_name_rock_slabrock,Rocky Slabs
+json_decor_info_name_rock_stonecave,Stone Cave
+json_decor_info_name_rock_stonestair,Stone Stair
+json_decor_info_name_rock_whitepumice,White Pumice
+json_decor_info_name_plant_tallseaweed,Tall Seaweed
+json_decor_info_name_anchor,Anchor
+json_decor_info_name_toxicwaste,Toxic Waste
+json_decor_info_name_fork,Fork
+json_decor_info_name_tire,Tire
+json_decor_info_name_pearl_1,A Pearl
+json_decor_info_name_pearl_2,Two Pearls
+json_decor_info_name_pearl_5,Five Pearls
+json_decor_info_name_pearl_10,Ten Pearls
+json_decor_info_name_shell_cockle,Cockle Shell
+json_decor_info_name_shell_cowrie,Cowrie Shell
+json_decor_info_name_pillow_disccushion,Cushion Pillow
+json_decor_info_name_shell_tulip,Tulip Shell
+json_decor_info_name_plant_fanwort,Fanwort
+json_decor_info_name_coral_spongepods,Sponge Pods
+json_decor_info_name_pillow_tassel,Tassel Pillow
+json_decor_info_name_plant_podkelp,Pod Kelp
+json_decor_info_name_plant_lilypad,LilyPad
+json_decor_info_name_pillow_tube,Tube Pillow
+json_decor_info_name_coral_branched,Branched Coral
+json_decor_info_name_chocolates,Box of Chocolates
+json_decor_info_name_champagne,Champagne Bottle
+json_decor_info_name_diamondring,Diamond Ring
+json_decor_info_name_applecore,Apple Core
+json_decor_info_name_beercan,Can
+json_decor_info_name_bikewheel,Bike Wheel
+json_decor_info_name_boot,Boot
+json_decor_info_name_fishhook,Fish Hook
+json_decor_info_name_gascan,Gas Can
+json_decor_info_name_golfballs,Golf Balls
+json_decor_info_name_signs,Road Sign
+json_decor_info_name_sink,Kitchen Sink
+json_decor_info_name_trashcanlid,Trashcan Lid
+json_decor_info_name_wallet,Wallet
+json_decor_info_name_treasure_beachball,Beach Ball
+json_decor_info_name_treasure_bucket,Bucket
+json_decor_info_name_treasure_teacup,Tea Cup
+json_decor_info_name_treasure_clams,Clams
+json_decor_info_name_treasure_sanddollar,Sand Dollars
+json_decor_info_name_treasure_starfish,Starfish
+json_decor_info_name_treasure_flute,Flute
+json_decor_info_name_treasure_pillar,Pillar
+json_decor_info_name_treasure_bomb,Bomb
+json_decor_info_name_treasure_necklace,Necklace
+json_decor_info_name_treasure_globe,Globe
+json_decor_info_name_treasure_shells,Shells
+json_decor_info_name_treasure_pocketwatch,Pocket Watch
+json_decor_info_name_treasure_sword,Sword
+json_decor_info_name_treasure_trident,Trident
+json_decor_info_name_treasure_divershelmet,Divers Helmet
+json_decor_info_name_treasure_painting,Famous Painting
+json_decor_info_name_treasure_watermill,Watermill
+json_decor_info_name_treasure_castle,Castle
+json_decor_info_name_treasure_monolith,Monolith
+json_decor_info_name_treasure_tiki,Tiki
+json_decor_info_name_treasure_pagoda,Pagoda
+json_decor_info_name_treasure_submarine,Submarine
+json_decor_info_name_treasure_sunkenship,Sunken Ship
+json_decor_info_name_treasure_windmill,Windmill
+json_decor_info_name_treasure_goldidol,Gold Idol
+json_decor_info_name_treasure_moai,Moai
+json_decor_info_name_treasure_sculpture,Sculpture
+json_decor_info_name_treasure_volcano,Volcano
+json_decor_info_name_treasure_grail,Grail
+json_decor_info_name_treasure_stem,Gems
+json_decor_info_name_treasure_tiara,Tiara
+json_decor_info_description_coral_blueanemone,"A blue beauty for only the most transcendent tanks, this brilliant bulb will bring a seductive sway to your realm. Fine fish of all flavors are sure to appreciate its majestic movements!"
+json_decor_info_description_coral_brain,"What a magnificent mind! This coral may not be any smarter than the next batch, but don't you think it looks rather intelligent?"
+json_decor_info_description_coral_closedbrain,"Shh, they're tired! This coral's closed after a hard day of catching plankton, but don't despair - it's still quite pretty. Let's let the poor little fellas sleep, shall we?"
+json_decor_info_description_coral_coil,The sinuous shape of this curled coral will keep your fish fascinated for untold hours. Take it to your tank today!
+json_decor_info_description_coral_crinoid,"This interesting item may LOOK like a plant, but it's actually a living critter that just likes to stay in one place! These ancient creatures will give your tank a prehistoric pop!"
+json_decor_info_description_coral_fan,"Fan the flames of fashion with this flattened fin of coral! An oceanic classic, it'll look simply smashing sitting on the seabed of your tank."
+json_decor_info_description_coral_fanlarge,"Your biggest fan happens to be one of many - this delicate frond is the home of thousands of tiny critters, and I bet they'd all love to live in your tank!"
+json_decor_info_description_coral_fire,"Sure, it says 'coral' on the label, but watch out! These are more like jellyfish colonies, and they'll give you a nasty sting if you're not careful! Sure do look pretty, though..."
+json_decor_info_description_coral_montipora,"These corals spread out nice and flat, pushing colorful plateaus in all directions. They're beautiful, fragile, and fashionable - get yours today!"
+json_decor_info_description_coral_mushroom,"Sometimes, you want to decorate your tank with elegance AND efficiency. Of course you could buy mushrooms and coral separately - but why not get BOTH in one handy package? Act now! Supplies are limited!"
+json_decor_info_description_coral_panel,"Sure, coral of any sort will bring glory to your tank and gratitude from your fish, but there's just something so refined about this one in particular. Don't you want to see the effects of its style on your little swimmers?                                                                                                    "
+json_decor_info_description_coral_pillar,"These lovely pink pillars may look like rocks, but they're actually living creatures! A beautiful addition to any tank, coral is a sign of refinement and elegance in a watery world."
+json_decor_info_description_coral_pinkanemone,"This delicate creature looks sort of like an animated plate of pasta, but it's no meal! This anemone can deliver a surprising sting to the unwary, so hungry hunters had best give it a wide berth."
+json_decor_info_description_coral_pipe,"It's like a little underwater town of living towers! This elegant assortment of immobile animals will provide your fishy friends with a helpful hiding spot - and doesn't it just look gorgeous, to boot?"
+json_decor_info_description_coral_plate,"So elegant! Don't get too close, though; this anemone might look soft and squishy, but it can deliver a sharp sting to the unwary."
+json_decor_info_description_coral_plume,"Such a classic coral! This plume stretches up to the light, giving your tank a terrific tone and your fish a fun hiding spot!"
+json_decor_info_description_coral_purpleurchin,"Ouch! Best to look - and not touch - this stylishly-spined submariner. Pointy he may be, but isn't he perfectly pretty, too? Sharp and sublime, you'd better act fast to snag this deep sea deal."
+json_decor_info_description_coral_stripedmushroom,"This phenomenal fungi has the striped style struggle settled. In terms of undersea mushrooms, its take on the lined look is utterly unequaled. Let's see how it fares in your tank!"
+json_decor_info_description_coral_suncoral,"A rising star in the deep, this captivating coral blooms brilliantly, shining with a style that's all its own. Warm and inviting, your fish will be happy to see it, day or night."
+json_decor_info_description_coral_tree,"Incredibly rare and fragile, this tree of coral is a wonder to behold. Just be very, verrrrry careful around it..."
+json_decor_info_description_coral_urchinshell,Not so pointy now! This de-spined delight is an ideal art object for your tank. Take it home today!
+json_decor_info_description_plant_bamboo,"One of the fastest-growing plants in the world, this evergreen will spring right up to give your tank a unique sense of style."
+json_decor_info_description_plant_bluedragonweed,What fantastic seagoing style would be complete without a draconic dressing? This aquatic accessory is sure to be the perfect complement to any tank. Your fish will love its wavy wonders - why not indulge?
+json_decor_info_description_plant_drifttreestump,"Where do you think this weathered wood washed up? Twisted by time and tides, this gnarled stump has copious amounts of character. I'm sure your fish will love its many nooks and crannies, too!"
+json_decor_info_description_plant_kelpa,Don't weed these plants! Fish love the relaxing sway of this seaweed - it makes them feel like they're on a little aquatic vacation every time they're near.
+json_decor_info_description_plant_kelpb,It's like a little lawn! The scruffly foliage of these plants will fill your tank with delight and tickle the bellies of nearby fishes!
+json_decor_info_description_plant_purplemushroom,"Far out, man. These odd entities will bring an unreal sense of the fantastic to your tank - and they're also delicious with pasta."
+json_decor_info_description_plant_ricciagrass,"Pristine and sweetly sea-swept, this grass will give your tank the tidal touch it's been missing! Work this whimsical weed into your saltwater stylings and achieve an appearance to astonish!"
+json_decor_info_description_plant_sealavender,"So cute and delicate! Landlocked lavender is a true floral delight, so I can only assume its seaborne sibling is equally enjoyable. Why not take some to your tank today and find out?"
+json_decor_info_description_plant_seaweedpetals,"Mmm, what delicious-looking leafy greens! I'll bet you could whip up a rather delicious deep sea salad with this appetizing algae. I suppose it would look pretty nice in your tank, too."
+json_decor_info_description_plant_shavingbrush,"Why, they're like underwater dandelions! These glorious balls of green will add a touch of whimsy to your tank, delighting even the most finicky fish."
+json_decor_info_description_rock_algaeslabrock,"Look at all that algae! These rocks have been here for a while. They could probably use a good cleaning, but I have to admit they look pretty good as they are. So natural!"
+json_decor_info_description_rock_basalt,"This old volcanic rock slowly cooled to form these oddly unnatural shapes - but there's nothing mystic about plate tectonics! It's just good 'ol geology at work. They sure do look pretty, though..."
+json_decor_info_description_rock_crystal,"Talk about the Age of Aquarius! These mystic crystals shimmer in the dark, and I don't know about you, but I think holistic hunks of multi-faceted fun are just what's needed to spruce up a simple seabed."
+json_decor_info_description_rock_greypumice,"From the heart of the volcano to you! This chunk of pumice may be a bit rough around the edges, but that just makes it perfect for scratching a pesky itch!"
+json_decor_info_description_rock_platerock,"It's more than just a rock! Fish can relax in this stone's shade, hide here when they're scared, and have races around it for fun. It's like a little underwater playground."
+json_decor_info_description_rock_redpumice,"Seeing red isn't always a bad thing! This shaded stone is just like its gray cousin, but with a little visual flair to let you step your style up a notch!"
+json_decor_info_description_rock_riverstones,"Perfect for skipping from bank to bank, these stones once tumbled along a babbling brook. I'm not sure how they got this far from shore, but as soon as your fish see them, they'll be grateful they did."
+json_decor_info_description_rock_slabrock,"Sure, tossing a few rocks together might not sound impressive, but wait until you see how these look in your tank! Fish of all descriptions will flock to see such splendid stones!"
+json_decor_info_description_rock_stonecave,"A dark and delightful hiding spot for all sorts of shy swimmers, this stone cave provides security and sanctuary in an uncertain sea."
+json_decor_info_description_rock_stonestair,"A terrific tower of rocks, these slabs climb upward into an impressive monument to you, your fish, and your shared sense of style!"
+json_decor_info_description_rock_whitepumice,"It's like the lava you know and love, but in a shocking albino hue. This white rock might be just what your tank needs to have a matching color scheme - so don't delay!"
+json_decor_info_description_plant_tallseaweed,"We all know seaweed comes with a sublime sway, but none can stand against the stupendous size of this superb specimen. Tall and tempting, it'll take your tank to another level."
+json_decor_info_description_anchor,"That's kinda cool. I wonder what happened to the rest of the ship, though..."
+json_decor_info_description_toxicwaste,"Yikes! Look at that gruesome glow! Fishie, why would you bring THIS back?! It's probably still radioactive!"
+json_decor_info_description_fork,"Ooh, a dinglehopper! Finally, something your fish can use to comb their hair."
+json_decor_info_description_tire,"Hey, great! Just three more, and we're on our way to a sweet underwater ride. Talk about your sea cruises, eh?"
+json_decor_info_description_pearl_1,"Ooh, a pearl! Think of all the things we can do with this! Good fish!"
+json_decor_info_description_pearl_2,Double the delight! Your fish obviously wasn't content with finding you just one pearl. You've got a real go-getter on your hands!
+json_decor_info_description_pearl_5,Nice - it's a whole cluster of pearls! That's one overachiever of a fish you have there. Make sure to reward them with extra food and attention!
+json_decor_info_description_pearl_10,Pure pearlfection! You clearly picked the right fish for this job; they've brought you back TEN pearls! Wow!
+json_decor_info_description_shell_cockle,You don't get more classic than this superb shell; it's a charming sight for any fish on a fairy-tale adventure!
+json_decor_info_description_shell_cowrie,"Moovelous! These shells may take their name from landlocked livestock, but they're far more appealing to undersea suitors - get some soon!"
+json_decor_info_description_pillow_disccushion,This comfy cushion  provides pleasing padding upon which passionate fish may frolic!
+json_decor_info_description_shell_tulip,"Real flowers wouldn't do so well down here, but this tulip shell is absolutely at home in this sentimental sweet spot!"
+json_decor_info_description_plant_fanwort,What fun frilly fans! These pretty plants are sure to liven up your tank and set the mood for romance!
+json_decor_info_description_coral_spongepods,These sweet sponges are all set to dot the domain of your tank's most frolicsome fish!
+json_decor_info_description_pillow_tassel,This terrifically-tasseled accessory is sure to leave your lovebirds breathless - get it today!
+json_decor_info_description_plant_podkelp,Superb! The seductive sway of this kelp will lull your lovers into a state of benthic bliss!
+json_decor_info_description_plant_lilypad,"Lillies and love go together so well - these pretty pads have a place near any passionate embrace, so why not add them to your tank, too?"
+json_decor_info_description_pillow_tube,These totally tubular sponges have a style that's all set to make a splash in your breeding tank - buy 'em now!
+json_decor_info_description_coral_branched,"Much like love has many branches, this coral curls in countless directions. Isn't it just delightful? I'm sure your fish will think so!"
+json_decor_info_description_chocolates,"Mmm, mm! Dark and delicious, this chocolate is the perfect snack for your breeding tank's cute couples."
+json_decor_info_description_champagne,Pop the cork! What kind of love nest leaves its lovers without a bit of bubbly?
+json_decor_info_description_diamondring,"Will she say 'yes'? There's only one way to find out, and you'll need this ring to get things started!"
+json_decor_info_description_applecore,I wonder if this started off as a whole apple and your fish just got a little hungry on the way back...
+json_decor_info_description_beercan,"I guess we should be glad to get anything, but come on - couldn't that fish have brought us something a little nicer?"
+json_decor_info_description_bikewheel,"What do you think it came from: Regular bike or unicycle? It's kind of a zen question, isn't it?"
+json_decor_info_description_boot,Kind of old and smelly. I hope there's nothing hiding inside...
+json_decor_info_description_fishhook,Ouch! Careful with this. Wouldn't want to snag a poor fish by accident.
+json_decor_info_description_gascan,"Darn, empty. With today's prices, just think how many fish a full can of gas would get us!"
+json_decor_info_description_golfballs,How did these get down here? Someone is putting WAY off the green.
+json_decor_info_description_signs,I really hope there aren't any accidents happening now that this sign is gone...
+json_decor_info_description_sink,"For tanks that have everything else, well, there's always this..."
+json_decor_info_description_trashcanlid,"Well, this is just silly. Where's the rest of the trashcan?"
+json_decor_info_description_wallet,Now this is how you catch a Greedy Fish! Who needs a breeding tank?
+json_decor_info_description_treasure_beachball,"Anyone up for some underwater volleyball? It plays pretty much like normal, 'cept it's really hard to spike."
+json_decor_info_description_treasure_bucket,"I bet someone's missing this! Well, at least we can build undersea sand castles now!"
+json_decor_info_description_treasure_teacup,"Fine, pristine porcelain. There's no storm in this teacup, but perhaps it was lost in one..."
+json_decor_info_description_treasure_clams,"Ooh, these look delicious. Anyone have some butter and garlic around?"
+json_decor_info_description_treasure_sanddollar,"Not quite an acceptable form of currency, but it sure looks nice."
+json_decor_info_description_treasure_starfish,"Your fish will always be the stars of your tank, but it couldn't hurt to have a backup or two..."
+json_decor_info_description_treasure_flute,I think your fish might have trouble playing this. For a number of reasons.
+json_decor_info_description_treasure_pillar,"I think it's from an old Grecian temple. Seriously, how are your fish finding these things?!"
+json_decor_info_description_treasure_bomb,Oh geez- careful! Why did your fish bring THIS back?! Let's just hope it's a dud!
+json_decor_info_description_treasure_necklace,This is absolutely gorgeous - it's a shame fish don't have necks!
+json_decor_info_description_treasure_globe,"I can show you the world! Shining, shimmering, splendid!"
+json_decor_info_description_treasure_shells,What aquatic environment would be complete without a few shells?
+json_decor_info_description_treasure_pocketwatch,What a lovely pocketwatch! Say... I hope your fish didn't just steal a precious heirloom.
+json_decor_info_description_treasure_sword,Good thing your fish can't swing this; otherwise it'd be a dangerous addition to the tank!
+json_decor_info_description_treasure_trident,Neptune's gonna be maaaad.
+json_decor_info_description_treasure_divershelmet,"Very nice, but... but what happened to the diver?!"
+json_decor_info_description_treasure_painting,"I really hope this is just a copy. Otherwise, your fish might be an extremely clever thief..."
+json_decor_info_description_treasure_watermill,"Bringing this thing underwater is just a bit silly, don't you think?"
+json_decor_info_description_treasure_castle,"Somewhere, somehow, a tiiiiny king is very sad now."
+json_decor_info_description_treasure_monolith,"Ancient and inscrutable, this monolith is priceless - and I bet it'll look great next to the kelp!"
+json_decor_info_description_treasure_tiki,"Ooh, this'll be perfect for my luau! Now I just need to get tiki torches to work underwater..."
+json_decor_info_description_treasure_pagoda,Make your tank an official sister city to a far-off land with this oriental arch.
+json_decor_info_description_treasure_submarine,Very nice - but I guarantee someone in the military is not pleased about it being here.
+json_decor_info_description_treasure_sunkenship,"Once, it sailed the oceans blue. Now here it rests, manned anew by a fishy crew."
+json_decor_info_description_treasure_windmill,"If the Dutch weren't so good at building dikes, there would be a LOT more of these underwater."
+json_decor_info_description_treasure_goldidol,It belongs in a museum! I wonder if your fish had to outswim a giant boulder after they took this...
+json_decor_info_description_treasure_moai,"Wait, these were built on land! How in the world did your fish manage to drag this thing back?!"
+json_decor_info_description_treasure_sculpture,What a beautiful piece! Surely any fish who appreciates fine art will enjoy this.
+json_decor_info_description_treasure_volcano,"Yikes, it's still hot! How does that even work?!"
+json_decor_info_description_treasure_grail,Perhaps it holds the secret to eternal life... but perhaps not. Only one way to find out!
+json_decor_info_description_treasure_stem,"Glittering prizes! These stones are probably priceless. Good job, little fish!"
+json_decor_info_description_treasure_tiara,Royalty beware! Even your lovely crowns are no match for our feisty fish!
+json_tank_info_description_general,"Split up feuding fish, try out new decorations, and make room for even more friends! Just add this additional tank, and you'll have space aplenty!"
+json_tank_info_description_breeding_general,Adding an additional breeding tank lets you breed even more fish!
+json_sand_name_bg_sand_tan,Tan
+json_sand_name_bg_sand_orange,Orange
+json_sand_name_bg_sand_green,Green
+json_sand_name_bg_sand_blue,Blue
+json_sand_name_bg_sand_pink,Pink
+json_sand_name_bg_sand_white,White
+json_sand_name_bg_sand_hearts,Hearts
+json_sand_name_bg_sand_purple,Purple
+json_sand_name_bg_sand_black,Black
+json_sand_name_bg_sand_rockstan,Tan Rocks
+json_sand_name_bg_sand_boulders,Boulders
+json_sand_name_bg_sand_rocksred,Red Rocks
+json_sand_name_bg_sand_glass,Sea Glass
+json_sand_name_bg_sand_gravel,Gravel
+json_sand_name_bg_sand_rockssmall,Pebbles
+json_sand_name_bg_sand_rockspurple,Purple Rocks
+json_sand_name_bg_sand_grass,Grass
+json_sand_name_bg_sand_glow,Glow in the Dark
+,
+json_sand_description_bg_sand_tan,Tan can tangle with any color and end up on top! Select this sand and set yourself up for success!
+json_sand_description_bg_sand_orange,"If you want to be the talk of the town, then orange sands are IT. Set some fins down on these glorious grains and find fashion felicity."
+json_sand_description_bg_sand_green,"This sea of green will turn your neighbors a similar shade with envy, and for good reason - they're the most sublime sands you could choose."
+json_sand_description_bg_sand_blue,"No other color can hold a candle to the beauty of blue. The second they sight these sands, your fish will smile and sing."
+json_sand_description_bg_sand_pink,Push your palette into paradise with these pink sands.
+json_sand_description_bg_sand_white,Pure white perfection. These classic sands can't be beat.
+json_sand_description_bg_sand_hearts,Romance isn't just for the breeding tank! Litter the landscape with these hearts and let the most marvelous of emotions fill your fishy friends.
+json_sand_description_bg_sand_purple,"Other colors might be nice, but purple sands are the silica of royalty - only the finest fins may tread here."
+json_sand_description_bg_sand_black,"Got the tank fashion blues? Then maybe you should make a change to the most striking sand of all! Black is where it's at, with a sharp sense of beauty that can't be beat."
+json_sand_description_bg_sand_rockstan,No need for unreal rocks - tan gravel adds a certain gravitas to your tank that just can't be found in the more colorful crags.
+json_sand_description_bg_sand_boulders,Who needs sand? Bring some boulders into your tank and turn the floor into a flawless field!
+json_sand_description_bg_sand_rocksred,Revel in the redder side of the spectrum with these bright and brilliant rocks!
+json_sand_description_bg_sand_glass,"Smooth and sublime, these tumbled traces of glass provide a colorful bed for your fish without the grit of sand or the worries of rocks!"
+json_sand_description_bg_sand_gravel,This mix has it all - the best of sand mixed with the wonders of rocks! Your fish will be highly grateful for a chance at a tankful of gravel.
+json_sand_description_bg_sand_rockssmall,"These skipping stones will have your fish galloping with glee - each rock is handpicked for its size, shape, and color. What a luxurious mix!"
+json_sand_description_bg_sand_rockspurple,"Even if sand isn't your thing, you can still add a splash of color to the tank with these perfectly purple pieces of rock!"
+json_sand_description_bg_sand_grass,"It's like something out of a storybook! With this fine foliage underfin, your fish will feel like they're in an enchanted forest."
+json_sand_description_bg_sand_glow,Turn off the lights and turn on the fun with the glorious glow of this goo! There's no substitute for this shining selection!
+json_prop_info_name_prop_ground_book,Big Book
+json_prop_info_name_prop_ground_sign,Angry Sign
+json_prop_info_name_prop_ground_lollipop,Joyful Lollipop
+json_prop_info_name_prop_ground_flower,Timid Flower
+json_prop_info_name_prop_ground_shield,Stout Shield
+json_prop_info_name_prop_ground_comb,Defiant Comb
+json_prop_info_name_prop_ground_phone,Hot Phone
+json_prop_info_name_prop_ground_pillow,Soft Pillow
+json_prop_info_name_prop_ground_glasses,Slick Shades
+json_prop_info_name_prop_ground_roses,Lush Roses
+json_prop_info_name_prop_ground_loveletter,Lovely Letter
+json_prop_info_name_prop_ground_musicalnote,Marvelous Note
+json_prop_info_name_prop_ground_pills,Crazy Pills
+json_prop_info_name_prop_ground_whoopiecushion,Whoopie Cushion
+json_prop_info_name_prop_ground_bat,Solid Bat
+json_prop_info_name_prop_ground_donut,Tasty Donut
+json_prop_info_name_prop_ground_bullwhip,Wild Whip
+json_prop_info_name_prop_ground_lipstick,Deluxe Lipstick
+json_prop_info_name_prop_ground_bowtie,Vintage Bowtie
+json_prop_info_name_prop_ground_ring,Ring of Power
+json_prop_info_name_prop_ground_beaker,Bubbly Beaker
+json_prop_info_name_prop_ground_ninjastar,Ninja Star
+json_prop_info_name_prop_ground_moneybag,Money Bag
+json_prop_info_name_prop_ground_treasuremap,Treasure Map
+json_prop_info_name_prop_ground_pincushion,Cute Pincushion
+json_prop_info_name_prop_ground_paintpallet,Paint Palette
+json_prop_info_name_prop_ground_balloonanimal,Balloon Animal
+json_prop_info_name_prop_ground_cowboyhat,Cowboy Hat
+json_prop_info_name_prop_ground_pompom,Rah-Rah Pom-Pom
+json_prop_info_name_prop_ground_binoculars,Spy Binoculars
+json_prop_info_name_prop_ground_camera,Flashy Camera
+json_prop_info_name_prop_ground_votepin,Voting Pin
+json_prop_info_name_prop_ground_spotlight,Sweet Spotlight
+json_prop_info_name_prop_ground_mic,Power Mic
+json_prop_info_name_prop_ground_perfume,Rich Perfume
+json_prop_info_name_prop_ground_bindlestick,Bindle Stick
+json_prop_info_name_prop_ground_guitar,Electric Guitar
+json_prop_info_name_prop_ground_ballerinaslipper,Ballerina Slipper
+json_prop_info_name_prop_ground_rocket,Rocket Ship
+json_prop_info_name_prop_ground_moneystack,Money Stack
+json_prop_info_name_prop_ground_skull,Dark Skull
+json_prop_info_name_prop_ground_fairywand,Mystic Wand
+json_prop_info_name_prop_air_unicorn,Magic Rainbow
+json_prop_info_name_prop_air_angelcloud,Fluffy Cloud
+json_prop_info_name_prop_air_moon,Bad Moon
+json_prop_info_name_prop_ground_coffin,Ancient Coffin
+json_prop_info_name_prop_ground_rubypile,Ruby Pile
+json_prop_info_name_prop_air_galaxy,Swirling Galaxy
+json_prop_info_name_prop_ground_gravestone,Gravestone
+json_prop_info_name_prop_ground_giantdiamond,Giant Diamond
+json_prop_info_name_toy_ground_partyhat,Party Hat
+json_prop_info_name_toy_ground_crystalball,Crystal Ball
+json_prop_info_description_prop_ground_book,The pages of this terrific tome hide knowledge and wisdom galore.
+json_prop_info_description_prop_ground_sign,"Nothing says, 'I don't want you around' like a big, cranky sign."
+json_prop_info_description_prop_ground_lollipop,"A sweet surprise for a most delightful sea-dweller, this candy can't be beat!"
+json_prop_info_description_prop_ground_flower,"An ideal hiding place, this pleasing plant will shield even the wariest fish from the woes of the world. Aww, it's okay, little fellas - don't be scared!"
+json_prop_info_description_prop_ground_shield,Fend off the vile villains of this watery world with a shield for the purest of hearts. Also makes a dashing hat.
+json_prop_info_description_prop_ground_comb,How daring! This mighty comb will tame even the most messy mane.
+json_prop_info_description_prop_ground_phone,Stay connected! No self-respecting gossip would be complete without a way to spread juicy secrets at the press of a button.
+json_prop_info_description_prop_ground_pillow,"Sweet dreams, sleepy fishies! This soft, downy pillow will whisk anyone into a state of instant slumber. Zzz..."
+json_prop_info_description_prop_ground_glasses,Need to impress your fellow fish? Then complete your look with this second-to-none pair of sunglasses and start livin' large!
+json_prop_info_description_prop_ground_roses,These roses will let your fish know they're loved and add a burst of color to your tank! For me?! You shouldn't have! 
+json_prop_info_description_prop_ground_loveletter,"So many suitors, so little time. This note is but one of many, but I'm certain our most sought-after swimmers will cherish every one!"
+json_prop_info_description_prop_ground_musicalnote,"A tone of talent, this note will bring insight and illumination to your tank's artistes!"
+json_prop_info_description_prop_ground_pills,"Medication for the many maladies that afflict our finned friends, these pills may be enough to set them on the road to recovery - or at least keep 'em from going REALLY nuts."
+json_prop_info_description_prop_ground_whoopiecushion,"Even the best comedians need a little assistance every now and then, and this classic is here to help! A perfect prop for those who love to laugh."
+json_prop_info_description_prop_ground_bat,"You might have the mightiest fish around, but that doesn't mean they can't use some backup. This weighty weapon will do nicely."
+json_prop_info_description_prop_ground_donut,Delicious! This sweet is sure to draw the attention of all your tank's dessert-minded denizens. Do you think they'll be willing to share?
+json_prop_info_description_prop_ground_bullwhip,No self-respecting swimmer would brave the wilds of the open sea without a trusty whip at their side! ...but how do they hold it?
+json_prop_info_description_prop_ground_lipstick,"Being the most beautiful fish in the tank isn't easy! You need some high-quality help to accomplish such a feat, and this lipstick is a fine beginning!"
+json_prop_info_description_prop_ground_bowtie,"Sure, it's a little outdated - but who has the time to worry about fashion when there's learning to be done?"
+json_prop_info_description_prop_ground_ring,Preciousss... This corrupt jewelry glints with an unsettling light. Let's just hope it doesn't go to its foul owner's fishy head.
+json_prop_info_description_prop_ground_beaker,The perfect place to brew the next world-shaking step forward in SCIENCE!
+json_prop_info_description_prop_ground_ninjastar,A true master of martial arts always sleeps with a weapon close at hand.
+json_prop_info_description_prop_ground_moneybag,Ah-ha! Here's where our sneakiest fish stash their ill-gotten gains.
+json_prop_info_description_prop_ground_treasuremap,"Yarr, gold aplenty awaits those with the wits to decipher this map!"
+json_prop_info_description_prop_ground_pincushion,Even the most fashionable fish needs a plush place to rest.
+json_prop_info_description_prop_ground_paintpallet,A true artist wouldn't go anywhere without a superb supply of paints close by!
+json_prop_info_description_prop_ground_balloonanimal,A squeaky setup for the young at heart and any discerning clowns who like to take their work home with them.
+json_prop_info_description_prop_ground_cowboyhat,Keeps the sun out of your eyes and adds incalculable levels of coolness to your head.
+json_prop_info_description_prop_ground_pompom,How else can our tank's most cheerful fish hope to raise their finned fellows' spirits?
+json_prop_info_description_prop_ground_binoculars,Super-strong spy specs for snooping on all sorts of secret shenanigans.
+json_prop_info_description_prop_ground_camera,"Essential for capturing those notable natural moments, or nabbing that perfect tabloid cover photo."
+json_prop_info_description_prop_ground_votepin,"This pin may promote some fishy policies, but around here, that's okay."
+json_prop_info_description_prop_ground_spotlight,The best actors keep their spotlight close at hand - makes it harder for someone to steal it!
+json_prop_info_description_prop_ground_mic,"Be ready for a microphone check, day or night, with this powerful prop."
+json_prop_info_description_prop_ground_perfume,There's something wonderful in the water! Applying this briny scent is a surefire way to find love. One spritz will increase finned fondness tenfold! 
+json_prop_info_description_prop_ground_bindlestick,Get set to ride the rails out of town with this homeless haversack.
+json_prop_info_description_prop_ground_guitar,"Whatever you do, don't plug this in underwater."
+json_prop_info_description_prop_ground_ballerinaslipper,Maintain the fleetest set of fins around with this sublime slipper.
+json_prop_info_description_prop_ground_rocket,Prepare yourself for an extraplanetary expedition in this relaxing rocket.
+json_prop_info_description_prop_ground_moneystack,Stacks of cash are the sign of any successful businessfish - make sure you have enough!
+json_prop_info_description_prop_ground_skull,"A dark and scary place for a dark and scary fish. Trespassers beware, or you might become their new home."
+json_prop_info_description_prop_ground_fairywand,A touch of magic to set the tank tinkling with the sounds of success and delightful dreams.
+json_prop_info_description_prop_air_unicorn,"Color and beauty in one appealing arc. A shining home for majestic creatures of legend, or perhaps a highly fashionable fish."
+json_prop_info_description_prop_air_angelcloud,"This fluffy foundation floated down from heaven, all for one very special fish."
+json_prop_info_description_prop_air_moon,"This moon's always on the rise, keeping our frightful fish in a rather furry form."
+json_prop_info_description_prop_ground_coffin,Creaking wood and a hint of the grave to make any creature of the night feel at home. 
+json_prop_info_description_prop_ground_rubypile,"Glittering gems for a jewel of a fish, this pricey pile can't be beat."
+json_prop_info_description_prop_air_galaxy,Whirling stars and streaking comets bring the universe to life in the ultimate home for a denizen of deep space.
+json_prop_info_description_prop_ground_gravestone,"Set on the border between life and death, this supernatural stone soothes its ghostly guests."
+json_prop_info_description_prop_ground_giantdiamond,A jaw-dropping gem for a most fantastic fish! Just keep a close eye on it - others might be jealous of such a jewel...
+json_prop_info_description_toy_ground_partyhat,Get any party started with this hip hat! Anyone who dares to don this dynamite dome will be ready to rock!
+json_prop_info_description_toy_ground_crystalball,"Gaze into the future with this mystic orb. Fine, fishy fortunes to you, my friend."
+json_prop_info_short_description_prop_ground_book,Smart Fish's Favorite Toy
+json_prop_info_short_description_prop_ground_sign,Mean Fish's Favorite Toy
+json_prop_info_short_description_prop_ground_lollipop,Nice Fish's Favorite Toy
+json_prop_info_short_description_prop_ground_flower,Shy Fish's Favorite Toy
+json_prop_info_short_description_prop_ground_shield,Brave Fish's Favorite Toy
+json_prop_info_short_description_prop_ground_comb,Rebel Fish's Favorite Toy
+json_prop_info_short_description_prop_ground_phone,Gossip Fish's Favorite Toy
+json_prop_info_short_description_prop_ground_pillow,Dreamy Fish's Favorite Toy
+json_prop_info_short_description_prop_ground_glasses,Cool Fish's Favorite Toy
+json_prop_info_short_description_prop_ground_roses,Popular Fish's Favorite Toy
+json_prop_info_short_description_prop_ground_loveletter,Flirty Fish's Favorite Toy
+json_prop_info_short_description_prop_ground_musicalnote,Creative Fish's Favorite Toy
+json_prop_info_short_description_prop_ground_pills,Crazy Fish's Favorite Toy
+json_prop_info_short_description_prop_ground_whoopiecushion,Funny Fish's Favorite Toy
+json_prop_info_short_description_prop_ground_bat,Tough Fish's Favorite Toy
+json_prop_info_short_description_prop_ground_donut,Greedy Fish's Favorite Toy
+json_prop_info_short_description_prop_ground_bullwhip,Adventurous Fish's Favorite Toy
+json_prop_info_short_description_prop_ground_lipstick,Pretty Fish's Favorite Toy
+json_prop_info_short_description_prop_ground_bowtie,Nerdy Fish's Favorite Toy
+json_prop_info_short_description_prop_ground_ring,Evil Fish's Favorite Toy
+json_prop_info_short_description_prop_ground_beaker,Mad Scientist Fish's Favorite Toy
+json_prop_info_short_description_prop_ground_ninjastar,Ninja Fish's Favorite Toy
+json_prop_info_short_description_prop_ground_moneybag,Robber Fish's Favorite Toy
+json_prop_info_short_description_prop_ground_treasuremap,Pirate Fish's Favorite Toy
+json_prop_info_short_description_prop_ground_pincushion,Fashion Designer Fish's Favorite Toy
+json_prop_info_short_description_prop_ground_paintpallet,Artist Fish's Favorite Toy
+json_prop_info_short_description_prop_ground_balloonanimal,Clown Fish's Favorite Toy
+json_prop_info_short_description_prop_ground_cowboyhat,Cowboy Fish's Favorite Toy
+json_prop_info_short_description_prop_ground_pompom,Cheerleader Fish's Favorite Toy
+json_prop_info_short_description_prop_ground_binoculars,Secret Agent Fish's Favorite Toy
+json_prop_info_short_description_prop_ground_camera,Paparazzi Fish's Favorite Toy
+json_prop_info_short_description_prop_ground_votepin,Presidential Fish's Favorite Toy
+json_prop_info_short_description_prop_ground_spotlight,Movie Star Fish's Favorite Toy
+json_prop_info_short_description_prop_ground_mic,Pop Star Fish's Favorite Toy
+json_prop_info_short_description_prop_ground_perfume,Model Fish's Favorite Toy
+json_prop_info_short_description_prop_ground_bindlestick,Hobo Fish's Favorite Toy
+json_prop_info_short_description_prop_ground_guitar,Rock Star Fish's Favorite Toy
+json_prop_info_short_description_prop_ground_ballerinaslipper,Dancer Fish's Favorite Toy
+json_prop_info_short_description_prop_ground_rocket,Astronaut Fish's Favorite Toy
+json_prop_info_short_description_prop_ground_moneystack,Salesman Fish's Favorite Toy
+json_prop_info_short_description_prop_ground_skull,Devil Fish's Favorite Toy
+json_prop_info_short_description_prop_ground_fairywand,Fairy Fish's Favorite Toy
+json_prop_info_short_description_prop_air_unicorn,Unicorn Fish's Favorite Toy
+json_prop_info_short_description_prop_air_angelcloud,Angel Fish's Favorite Toy
+json_prop_info_short_description_prop_air_moon,Werewolf Fish's Favorite Toy
+json_prop_info_short_description_prop_ground_coffin,Vampire Fish's Favorite Toy
+json_prop_info_short_description_prop_ground_rubypile,Ruby Fish's Favorite Toy
+json_prop_info_short_description_prop_air_galaxy,Galaxy Fish's Favorite Toy
+json_prop_info_short_description_prop_ground_gravestone,Ghost Fish's Favorite Toy
+json_prop_info_short_description_prop_ground_giantdiamond,Diamond Fish's Favorite Toy
+json_prop_info_short_description_toy_ground_partyhat,Party Fish's Favorite Toy
+json_prop_info_short_description_toy_ground_crystalball,Wizard Fish's Favorite Toy
+json_treasure_info_description_pearl_bundle6,Chest of Pearls
+json_treasure_info_description_pearl_bundle5,Crate of Pearls
+json_treasure_info_description_pearl_bundle4,Bed of Pearls
+json_treasure_info_description_pearl_bundle3,Mound of Pearls
+json_treasure_info_description_pearl_bundle2,Cluster of Pearls
+json_treasure_info_description_pearl_bundle1,Pile of Pearls
+json_treasure_info_description_coin_bundle6,Trunk of Coins
+json_treasure_info_description_coin_bundle5,Chest of Coins
+json_treasure_info_description_coin_bundle4,Crate of Coins
+json_treasure_info_description_coin_bundle3,Pile of Coins
+json_treasure_info_description_coin_bundle2,Bag of Coins
+json_treasure_info_description_coin_bundle1,Fin Full of Coins
+json_background_name_bg_wallpaper_basic,Basic
+json_background_name_bg_wallpaper_breeding_basic,Basic Breeding
+json_background_name_bg_wallpaper_basic_yellow,Basic Yellow
+json_background_name_bg_wallpaper_basic_red,Basic Red
+json_background_name_bg_wallpaper_basic_dark,Basic Dark
+json_background_name_bg_wallpaper_breeding_hearts,Hearts
+json_background_name_bg_wallpaper_silouhette_canyon,Silhouette Canyon
+json_background_name_bg_wallpaper_silouhette_grassy,Silhouette Grassy
+json_background_name_bg_wallpaper_clouds_stormy,Stormy Clouds
+json_background_name_bg_wallpaper_basic_5,Circles
+json_background_name_bg_wallpaper_basic_2,Burst
+json_background_name_bg_wallpaper_silouhette_hill,Silhouette Hill
+json_background_name_bg_wallpaper_basic_3,Arc
+json_background_name_bg_wallpaper_basic_4,Wave
+json_background_name_bg_wallpaper_lights,Lights
+json_background_name_bg_wallpaper_water_sunrays,Sunray
+json_background_name_bg_wallpaper_swirl,Swirl
+json_background_name_bg_wallpaper_stars_midnight,Midnight
+json_background_name_bg_wallpaper_bubbles,Bubbles
+json_background_name_bg_wallpaper_bamboo,Bamboo
+json_background_name_bg_wallpaper_roots,Roots
+json_background_name_bg_wallpaper_seaweed,Seaweed
+json_background_name_bg_wallpaper_rock,Lone Rock
+json_background_name_bg_wallpaper_mossy_branch,Mossy Branch
+json_background_name_bg_wallpaper_coral_1,Morning Coral
+json_background_name_bg_wallpaper_coral_3,Evening Coral
+json_background_name_bg_wallpaper_coral_2,Night Coral
+json_background_name_bg_wallpaper_coral,Shadowy Seabed
+json_background_name_bg_wallpaper_mountains,Mountains
+json_background_name_bg_wallpaper_hills,Wispy Hills
+json_background_name_bg_wallpaper_stalagmites,Stalagmites
+json_background_name_bg_wallpaper_stones,Stones
+json_background_name_bg_wallpaper_sanctuary,Sanctuary
+json_background_name_bg_wallpaper_arch,Arch
+json_background_name_bg_wallpaper_west,Western
+json_background_name_bg_wallpaper_spooky_forest,Spooky Forest
+json_background_name_bg_wallpaper_trench,Trench
+json_background_name_bg_wallpaper_volcano,Volcanic
+json_background_name_bg_wallpaper_yellow_river,Ruins
+json_background_name_bg_wallpaper_fairy_castle,Fairy Castle
+json_background_name_bg_wallpaper_dino_bones,Dino Bones
+json_background_name_bg_wallpaper_egypt,Egypt
+json_background_name_bg_wallpaper_spaceship,Spaceship
+json_background_name_bg_wallpaper_submarine,Submarine
+json_background_name_bg_wallpaper_mayan,Mayan Ruins
+json_background_name_bg_wallpaper_geodome,Geodome
+json_background_name_bg_wallpaper_pirate_wreck,Wreck
+json_background_name_bg_wallpaper_bathtub,Bath
+json_background_name_bg_wallpaper_junkyard,Junkyard
+json_background_name_bg_wallpaper_castle,Castle
+json_background_name_bg_wallpaper_candy,Candy Land
+json_background_name_bg_wallpaper_character_angel,Clouds
+json_background_name_bg_wallpaper_character_devil,Volcano Cave
+json_background_name_bg_wallpaper_character_diamond,Diamond
+json_background_name_bg_wallpaper_character_fairy,Fantasy
+json_background_name_bg_wallpaper_character_galaxy,Space
+json_background_name_bg_wallpaper_character_ghost,Graveyard
+json_background_name_bg_wallpaper_character_ruby,Ruby Mine
+json_background_name_bg_wallpaper_character_unicorn,Rainbow Clouds
+json_background_name_bg_wallpaper_character_vampire,Foggy Streets
+json_background_name_bg_wallpaper_character_werewolf,Dark Forest
+json_background_description_bg_wallpaper_basic,"Sweet blue simplicity. Sometimes, monochromatic can be marvelous."
+json_background_description_bg_wallpaper_breeding_basic,"Pink passion! Sure, it's a little blank, but I think fish in this room will have more on their minds than the color of the wallpaper..."
+json_background_description_bg_wallpaper_basic_yellow,"This is one yellow display that certainly isn't a sign of cowardice! This bright, brilliant shade will sharpen your tank's style in an instant."
+json_background_description_bg_wallpaper_basic_red,How striking! Splash a blast of beauty onto your background with this vibrant blaze of red.
+json_background_description_bg_wallpaper_basic_dark,"Make things a little moody with this delightfully dark background. It hits just the right tones to bring your tank a soothing, secret style."
+json_background_description_bg_wallpaper_breeding_hearts,Love is in the air! This explosion of wholesome hearts will kindle even the most minor of romances!
+json_background_description_bg_wallpaper_silouhette_canyon,A clandestine canyon looms on the horizon! Your fish will wonder what lies beyond this most mysterious background!
+json_background_description_bg_wallpaper_silouhette_grassy,"Grasses sway in the distance of this bucolic background, casting their stylish shadows on your tank's delightful denizens."
+json_background_description_bg_wallpaper_clouds_stormy,A storm approaches! This background will bring a pleasing patter of rain and wonderful rumbles of thunder to your tank.
+json_background_description_bg_wallpaper_basic_5,What sweet circles! This superb shapes will beautify your tank's background with their geometric grace.
+json_background_description_bg_wallpaper_basic_2,Boom! It's like an artistic firework exploding forever beyond your tank's terrain. How captivating!
+json_background_description_bg_wallpaper_silouhette_hill,"A rolling hill in relief, this background brings enticing terrain to thrill your tank's inhabitants!"
+json_background_description_bg_wallpaper_basic_3,"Style knows no set shape, but this artful arc is sure to turn a head or two!"
+json_background_description_bg_wallpaper_basic_4,"Waves roll so wonderfully on the surface of the sea - so why not in the background of your tank, as well?"
+json_background_description_bg_wallpaper_lights,"Lights, camera, action! These beautiful beams will shine with style on all your tank's tip-top antics!"
+json_background_description_bg_wallpaper_water_sunrays,"Even in the ocean depths, a bit of sunlight is a welcome sight. Shine happiness on your tank with this bright background."
+json_background_description_bg_wallpaper_swirl,"Ocean currents swirl with style, and now your background can, too! This slick swirl is sure to surprise even the most jaded judge."
+json_background_description_bg_wallpaper_stars_midnight,It's always the witching hour with this eerie background! Take your tank to an unceasing state of shadow with this magnificent midnight marquee.
+json_background_description_bg_wallpaper_bubbles,What deep-sea diorama would be complete without a burst of bubbles? These airy circles are waiting to make your tank tremendous!
+json_background_description_bg_wallpaper_bamboo,"A sea of green! Ocean currents whisper around these majestic plants, bringing zen serenity to your tank's inhabitants. "
+json_background_description_bg_wallpaper_roots,"Wooden wonders! For those craving an undersea arboreal experience, these twisting roots provide a majestic forest without all that pesky air. "
+json_background_description_bg_wallpaper_seaweed,A glorious sunken garden! These delightfully drifting strands of seaweed will calm the most frantic fish. They're also delicious.
+json_background_description_bg_wallpaper_rock,"Sometimes, solitude can be sublime. This ancient rock stands alone on the seabed, a source of wonder and speculation. How did it get there? How old can it be?"
+json_background_description_bg_wallpaper_mossy_branch,"How did this branch get so mossy under the sea? It must be magic! I'd get it now, if I were you - how can you resist a brilliant old branch with a hint of hocus-pocus?"
+json_background_description_bg_wallpaper_coral_1,"Rise and shine, my fishy friends! This coral creates a marvelous morning for all who see it!"
+json_background_description_bg_wallpaper_coral_3,"The day is done, my oceanic allies! This coral composes an extraordinary evening for all who see it!"
+json_background_description_bg_wallpaper_coral_2,"Time to rest, my seafaring sidekicks! This coral concocts a nonchalant night for all who see it!"
+json_background_description_bg_wallpaper_coral,"Dark mysteries! Ancient undersea vents shroud this backdrop in shadow, but don't be scared - this is a place of peace and quiet, hidden away from the noise and light of brighter realms."
+json_background_description_bg_wallpaper_mountains,Soaring peaks! The skies seem to split in the face of these fantastic mountains! How high do you think they go? They've left the clouds behind!
+json_background_description_bg_wallpaper_hills,Fanciful freedom! These rolling hills are topped with wonderful wisps of fish-approved foliage. Your fish will have no trouble relaxing in the presence of such gorgeous grasses.
+json_background_description_bg_wallpaper_stalagmites,"Rising from the floor of a colossal cavern, these aspiring slabs of stone are a sublime subterranean addition to your tank!"
+json_background_description_bg_wallpaper_stones,"A rocky forest under the waters! Meticulously arranged to enhance your tank's feng shui, this sea of stones will comfort your fish and provide hiding places aplenty."
+json_background_description_bg_wallpaper_sanctuary,"How peaceful! This hidden alcove is safe from the many dangers of the deep, filled with calm waters and soothing sunlight."
+json_background_description_bg_wallpaper_arch,"Lights in the night! This arch glows like a fairytale, the twinkle of its lights adding a whimsical atmosphere to any tank!"
+json_background_description_bg_wallpaper_west,"Saddle up, little fishies! This antique setting's sure to rustle up a top-notch time for any tank. It's the perfect backdrop for a sweeping tale of romance, revenge, and reefs."
+json_background_description_bg_wallpaper_spooky_forest,Oh dear! What dark and dangerous things lurk behind the writhing roots of this frightening forest? Only your most intrepid fish will dare to discover its secrets...
+json_background_description_bg_wallpaper_trench,"Fascinating! An ancient deep-sea depression, this trench might hold incredible secrets from a forgotten age... or perhaps it'll just look cool behind your fish!"
+json_background_description_bg_wallpaper_volcano,Tectonically terrific! The soothing glow of molten rock oozing down these undersea slopes will provide an epic backdrop for your fishy friends.
+json_background_description_bg_wallpaper_yellow_river,What happened here? This ransacked remains are only a pale shadow of what was surely a superb structure. What do you suppose it once was?
+json_background_description_bg_wallpaper_fairy_castle,"Dreams do come true, and here's where it happens! Your fish will start lining up at this fairytale palace in the hopes of having all their wishes granted!"
+json_background_description_bg_wallpaper_dino_bones,"Take a trip back to a bygone time, when far less friendly fish ruled the seas. These bones are all that's left of incredible creatures that once roamed our world!"
+json_background_description_bg_wallpaper_egypt,Welcome to a land of desert sands and ancient artifacts! This backdrop will bring your fish to a place of wonder and relaxation.
+json_background_description_bg_wallpaper_spaceship,How strange! A crashed craft from beyond the stars! Just don't let your Mad Scientist fish into this one! He'll have an army of alien robots whipped up in no time!
+json_background_description_bg_wallpaper_submarine,A daring device lost to the depths! This strange sundered submersible holds mysteries aplenty. Surely your curious fish will enjoy pondering its many secrets...
+json_background_description_bg_wallpaper_mayan,What Mesoamerican mysteries might be hiding in these ancient Mayan structures? Your Adventurer fish is sure to have a field day with this fascinating find!
+json_background_description_bg_wallpaper_geodome,"What a geodesic delight! This dome has been carefully crafted with only the finest materials, sure to stay strong in the face of any threat and provide a happy home for your fish."
+json_background_description_bg_wallpaper_pirate_wreck,"Ouch! This ship has seen better days. Once a proud, pristine craft, now it's just junk on the ocean floor. Oh, well - at least your fish can still enjoy it!"
+json_background_description_bg_wallpaper_bathtub,Just because we're underwater doesn't mean you can't stay clean! This beautiful bath will keep your fish fresh and flawless.
+json_background_description_bg_wallpaper_junkyard,"Look at all this junk. Why, here's an old tire. And there's a traffic cone! Ooh, look, an ancient computer. And- wow, you know, I bet your fish would love searching through here. Let's get it for them!"
+json_background_description_bg_wallpaper_castle,An ancient citadel of the seas! Could that be Neptune's palace? Or a lost outpost of Atlantis? Only diligent (and fishy) explorers can hope to uncover its secrets.
+json_background_description_bg_wallpaper_candy,A delicious downtown! Reward your fish with these sweet structures - they'll get a sugar high just swimming around!
+json_background_description_bg_wallpaper_character_angel,"Such a heavenly vista! Sunlight filters through the sweet, fluffy clouds of this gorgeous skyscape. Your fish will feel like they're flying!"
+json_background_description_bg_wallpaper_character_devil,"A sinister setting! Magma bubbles and sharp stalactites glow in the dire light of this fearful place. It may be dangerous, but it has a strange beauty, don't you think?"
+json_background_description_bg_wallpaper_character_diamond,Pristine in every way! This priceless wall of diamond will make your fish feel like they're living the high life!
+json_background_description_bg_wallpaper_character_fairy,Where all your dreams come true! Take your fish on a trip to a fantastic land of magic and mirth. Follow the road and find your happily-ever-after!
+json_background_description_bg_wallpaper_character_galaxy,A celestial seascape like no other! Your fish will be awed as billions and billions of stars twinkle in the infinite majesty of the cosmos. A truly incredible sight.
+json_background_description_bg_wallpaper_character_ghost,"A harrowing glimpse at the other side! This spectral scenery isn't for the faint of heart, but for those with the will to brave its ghoulish glamor, an adventure to die for awaits!"
+json_background_description_bg_wallpaper_character_ruby,Glittering riches ahead! This sprawling labyrinth of luxury will have even the greediest of fishes struggling to think of how they could spend it all.
+json_background_description_bg_wallpaper_character_unicorn,Where rainbows are made! Bridges of light and magic leap from cloud to cloud in the fluffy fields of this airy playground. Just don't fall off!
+json_background_description_bg_wallpaper_character_vampire,"What darkness stirs in the shadows of these sinister streets? Keep your wits about you as make your way through the mists, and you might just live to see the dawn."
+json_background_description_bg_wallpaper_character_werewolf,"Harrowing howls echo in the distance! This is no friendly forest; a dire tangle of roots and rocks, it'll make quick work of the unwary. Be on your guard..."
+json_quest_name_quest_t45,Make Room for Baby!
+json_quest_name_quest_t46,Room to Grow
+json_quest_name_quest_t47,Fish Farmin' Festival
+json_quest_name_quest_b1,No Fear
+json_quest_name_quest_b5,Meek n' Mild
+json_quest_name_quest_b9,Off the Charts
+json_quest_name_quest_b17,Brilliant Mind
+json_quest_name_quest_b2,"Tee-hee! Oh, you."
+json_quest_name_quest_b3,Built Fish Tough
+json_quest_name_quest_b4,Adventure is out there!
+json_quest_name_quest_b6,Pretty in Pink
+json_quest_name_quest_b7,Born To Be Wild
+json_quest_name_quest_b8,Dream Come True
+json_quest_name_quest_b10,Silly Swimmer
+json_quest_name_quest_b11,Gimme Gimme!
+json_quest_name_quest_b12,Too Cool for School
+json_quest_name_quest_b13,Geeky Gills
+json_quest_name_quest_b14,Til the Break of Dawn
+json_quest_name_quest_b15,Heart of Darkness
+json_quest_name_quest_b16,Did you hear?!
+json_quest_name_quest_b18,Clowning Around
+json_quest_name_quest_b19,The Inside Scoop
+json_quest_name_quest_b20,Goooo TEAM!
+json_quest_name_quest_b21,Fancy Fins
+json_quest_name_quest_b22,I have a vision!
+json_quest_name_quest_b23,What a Bargain
+json_quest_name_quest_b24,Vote for me!
+json_quest_name_quest_b25,For Your Eyes Only
+json_quest_name_quest_b26,Catch Me If You Can
+json_quest_name_quest_b27,SCIENCE!
+json_quest_name_quest_b28,Spare some change?
+json_quest_name_quest_b29,"Lights, Camera, Action!"
+json_quest_name_quest_b30,Guitar Solo!
+json_quest_name_quest_b31,Walk this way!
+json_quest_name_quest_b32,Shoot for the Stars
+json_quest_name_quest_b33,"Arr, matey!"
+json_quest_name_quest_b34,One With the Shadows
+json_quest_name_quest_b35,Next Big Thing
+json_quest_name_quest_b36,Enchanted to Meet You
+json_quest_name_quest_b37,Yee-HAW!
+json_quest_name_quest_b38,It's fabulous!
+json_quest_name_quest_b39,End of the Rainbow
+json_quest_name_quest_b40,Magic Pixie Dust
+json_quest_name_quest_b41,Bad moon rising...
+json_quest_name_quest_b42,A child of the night awakens!
+json_quest_name_quest_b43,It's a miracle!
+json_quest_name_quest_b44,The Friendly Ghost
+json_quest_name_quest_b45,Lil' Devil
+json_quest_name_quest_b46,Bling Bling!
+json_quest_name_quest_b47,Crimson Luxury
+json_quest_name_quest_b48,Out of This World
+json_quest_name_quest_t1,Two Peas in a Pod
+json_quest_name_quest_t2,"Up, up, and away!"
+json_quest_name_quest_t25,Let's Get Some Booty
+json_quest_name_quest_t26,A Parcel of Prizes
+json_quest_name_quest_t27,A Boatful of Booty
+json_quest_name_quest_t28,A Castle of Capital
+json_quest_name_quest_t29,An Ocean of Opulence
+json_quest_name_quest_t3,Dress the place up!
+json_quest_name_quest_t5,Rocky waters!
+json_quest_name_quest_t4,Plentiful plants!
+json_quest_name_quest_t8,Up-and-Coming
+json_quest_name_quest_t10,Piggy Bank Ain't Big Enough
+json_quest_name_quest_t6,Needs a little touch-up...
+json_quest_name_quest_t30,A little to the left...
+json_quest_name_quest_t31,New Angle
+json_quest_name_quest_t32,Feisty Fins
+json_quest_name_quest_t33,Super Scales
+json_quest_name_quest_t34,Pack of Power
+json_quest_name_quest_t35,Stupendous School
+json_quest_name_quest_t36,All-Powerful Pals
+json_quest_name_quest_t7,Time to Expand!
+json_quest_name_quest_t11,Fishy Fashionista
+json_quest_name_quest_t37,Doubly Delighted
+json_quest_name_quest_t38,Terrific Triple
+json_quest_name_quest_t39,Phenomenal Foursome
+json_quest_name_quest_t16,Quality Quintuple
+json_quest_name_quest_t41,Superb Sixth
+json_quest_name_quest_t42,Seventh Heaven
+json_quest_name_quest_t43,Great Eight
+json_quest_name_quest_t44,Fine Nine
+json_quest_name_quest_t22,Tip-Top Tenth
+json_quest_name_quest_t9,Focused Affection
+json_quest_name_quest_t12,Deep Sea Delight
+json_quest_name_quest_t13,Tip-Top Tank
+json_quest_name_quest_t48,Who's a Good Fish?
+json_quest_name_quest_t49,It Belongs In a Museum!
+json_quest_name_quest_t50,Riches Beyond Counting
+json_quest_name_quest_t14,Spreading Glee
+json_quest_name_quest_t15,Crowd-Pleaser
+json_quest_name_quest_t17,Success is Spreading
+json_quest_name_quest_t18,A Solid Foundation
+json_quest_name_quest_t19,Happy Day
+json_quest_name_quest_t20,So Much Room for Activities
+json_quest_name_quest_t21,Fish Favorite
+json_quest_name_quest_t23,Gotta Catch 'Em All
+json_quest_name_quest_t24,Perfection Achieved
+json_quest_name_quest_t60,Spread Your Fins
+json_quest_name_quest_t61,Swimming Space
+json_quest_name_quest_t62,Olympic-Sized
+json_quest_name_quest_t63,Massive Marina
+json_quest_name_quest_t64,Spacious Seas
+json_quest_name_quest_t65,Wide Open Waves
+json_quest_name_quest_t66,"Big, Beautiful Ocean"
+json_quest_name_quest_t67,Connect with Facebook
+json_quest_name_quest_t70,Foreign Riches
+json_quest_name_quest_t71,Benevolent Buddy
+json_quest_objective_quest_t45,Unlock the second breeding shell by having THREE three-star tanks.
+json_quest_objective_quest_t46,Unlock the third breeding shell by having SIX three-star tanks.
+json_quest_objective_quest_t47,Unlock the fourth breeding shell by having NINE three-star tanks.
+json_quest_objective_quest_b1,Buy a Brave Fish
+json_quest_objective_quest_b5,Buy a Shy Fish
+json_quest_objective_quest_b9,Buy a Smart Fish
+json_quest_objective_quest_b17,Buy a Creative Fish
+json_quest_objective_quest_b2,Breed a Flirty Fish
+json_quest_objective_quest_b3,Breed a Tough Fish
+json_quest_objective_quest_b4,Breed an Adventurous Fish
+json_quest_objective_quest_b6,Breed a Pretty Fish
+json_quest_objective_quest_b7,Breed a Rebel Fish
+json_quest_objective_quest_b8,Breed a Dreamy Fish
+json_quest_objective_quest_b10,Breed a Funny Fish
+json_quest_objective_quest_b11,Breed a Greedy Fish
+json_quest_objective_quest_b12,Breed a Cool Fish
+json_quest_objective_quest_b13,Breed a Nerdy Fish
+json_quest_objective_quest_b14,Breed a Party Fish
+json_quest_objective_quest_b15,Breed an Evil Fish
+json_quest_objective_quest_b16,Breed a Gossip Fish
+json_quest_objective_quest_b18,Breed a Clown Fish
+json_quest_objective_quest_b19,Breed a Paparazzi Fish
+json_quest_objective_quest_b20,Breed a Cheerleader Fish
+json_quest_objective_quest_b21,Breed a Dancer Fish
+json_quest_objective_quest_b22,Breed an Artist Fish
+json_quest_objective_quest_b23,Breed a Salesman Fish
+json_quest_objective_quest_b24,Breed a President Fish
+json_quest_objective_quest_b25,Breed a Secret Agent Fish
+json_quest_objective_quest_b26,Breed a Robber Fish
+json_quest_objective_quest_b27,Breed a Mad Scientist Fish
+json_quest_objective_quest_b28,Breed a Hobo Fish
+json_quest_objective_quest_b29,Breed a Movie Star Fish
+json_quest_objective_quest_b30,Breed a Rock Star Fish
+json_quest_objective_quest_b31,Breed a Model Fish
+json_quest_objective_quest_b32,Breed an Astronaut Fish
+json_quest_objective_quest_b33,Breed a Pirate Fish
+json_quest_objective_quest_b34,Breed a Ninja Fish
+json_quest_objective_quest_b35,Breed a Pop Star Fish
+json_quest_objective_quest_b36,Breed a Wizard Fish
+json_quest_objective_quest_b37,Breed a Cowboy Fish
+json_quest_objective_quest_b38,Breed a Fashion Designer Fish
+json_quest_objective_quest_b39,Breed a Unicorn Seahorse
+json_quest_objective_quest_b40,Breed a Fairy Fish
+json_quest_objective_quest_b41,Breed a Werewolf Fish
+json_quest_objective_quest_b42,Breed a Vampire Fish
+json_quest_objective_quest_b43,Breed an Angel Fish
+json_quest_objective_quest_b44,Breed a Ghost Fish
+json_quest_objective_quest_b45,Breed a Devil Manta Ray
+json_quest_objective_quest_b46,Breed a Diamond Fish
+json_quest_objective_quest_b47,Breed a Ruby Fish
+json_quest_objective_quest_b48,Breed a Galaxy Fish
+json_quest_objective_quest_t1,Breed a second fish.
+json_quest_objective_quest_t2,Fling a fish out of the tank.
+json_quest_objective_quest_t25,Send a fish on a treasure hunt.
+json_quest_objective_quest_t26,Send fish on 50 treasure hunts.
+json_quest_objective_quest_t27,Send fish on 100 treasure hunts.
+json_quest_objective_quest_t28,Send fish on 250 treasure hunts.
+json_quest_objective_quest_t29,Spend fish on 500 treasure hunts.
+json_quest_objective_quest_t3,Buy a Coral
+json_quest_objective_quest_t5,Buy a Rock
+json_quest_objective_quest_t4,Buy a Plant
+json_quest_objective_quest_t8,Achieve a one-star tank.
+json_quest_objective_quest_t10,Upgrade your treasure chest size.
+json_quest_objective_quest_t6,Buy a background for a tank.
+json_quest_objective_quest_t30,Move a prop.
+json_quest_objective_quest_t31,Scale a prop.
+json_quest_objective_quest_t32,Train a fish to Level Two.
+json_quest_objective_quest_t33,Train a fish to Level Three.
+json_quest_objective_quest_t34,Train 10 fish to Level Three.
+json_quest_objective_quest_t35,Train 30 fish to Level Three.
+json_quest_objective_quest_t36,Train 60 fish to Level Three.
+json_quest_objective_quest_t7,Open the second tank.
+json_quest_objective_quest_t11,Get one tank's Decor Meter to 100%.
+json_quest_objective_quest_t37,"Achieve 2 beautiful, 100%-decorated tanks."
+json_quest_objective_quest_t38,"Achieve 3 beautiful, 100%-decorated tanks."
+json_quest_objective_quest_t39,"Achieve 4 beautiful, 100%-decorated tanks."
+json_quest_objective_quest_t16,"Achieve 5 beautiful, 100%-decorated tanks."
+json_quest_objective_quest_t41,"Achieve 6 beautiful, 100%-decorated tanks."
+json_quest_objective_quest_t42,"Achieve 7 beautiful, 100%-decorated tanks."
+json_quest_objective_quest_t43,"Achieve 8 beautiful, 100%-decorated tanks."
+json_quest_objective_quest_t44,"Achieve 9 beautiful, 100%-decorated tanks."
+json_quest_objective_quest_t22,"Achieve 10 beautiful, 100%-decorated tanks."
+json_quest_objective_quest_t9,Make a fish ecstatic.
+json_quest_objective_quest_t12,Achieve a two-star tank.
+json_quest_objective_quest_t13,Achieve a three-star tank.
+json_quest_objective_quest_t48,Find an Uncommon item on a treasure hunt.
+json_quest_objective_quest_t49,Have a fish bring back a Rare item from a treasure hunt.
+json_quest_objective_quest_t50,Have a fish bring back an Ultra Rare item from a treasure hunt.
+json_quest_objective_quest_t14,Make 10 fish happy.
+json_quest_objective_quest_t15,Make 10 fish ecstatic.
+json_quest_objective_quest_t17,Achieve five three-star tanks.
+json_quest_objective_quest_t18,Have enough fish in your tank to encompass all six traits.
+json_quest_objective_quest_t19,Make 25 fish happy.
+json_quest_objective_quest_t20,Unlock all 10 tanks.
+json_quest_objective_quest_t21,Make 25 fish ecstatic.
+json_quest_objective_quest_t23,Acquire one of every type of fish.
+json_quest_objective_quest_t24,Achieve ten three-star tanks.
+json_quest_objective_quest_t60,Open the third tank.
+json_quest_objective_quest_t61,Open the fourth tank.
+json_quest_objective_quest_t62,Open the fifth tank.
+json_quest_objective_quest_t63,Open the sixth tank.
+json_quest_objective_quest_t64,Open the seventh tank.
+json_quest_objective_quest_t65,Open the eighth tank.
+json_quest_objective_quest_t66,Open the ninth tank.
+json_quest_objective_quest_t67,Log into Facebook for the first time.
+json_quest_objective_quest_t70,Dig for treasure in a friend's tank.
+json_quest_objective_quest_t71,Send a gift to a friend.
+json_quest_description_quest_t45,A fine accomplishment! Enjoying your new breeding shell - you've earned it.
+json_quest_description_quest_t46,Those are some REALLY happy fish! Consider this breeding shell a token of their appreciation!
+json_quest_description_quest_t47,Absolutely incredible! Get ready for the best breeding setup under the waves!
+json_quest_description_quest_b1,Your tank just got a little more courageous! Nicely done!
+json_quest_description_quest_b5,"Aww, it's okay... Don't be scared, little fella! "
+json_quest_description_quest_b9,Things just got a little brighter in here! Nice work!
+json_quest_description_quest_b17,This fish already has all kinds of amazing ideas for how you can improve the tank. Think of the possibilities!
+json_quest_description_quest_b2,"My, what a forward fish! They're sure to make a lot of friends here!"
+json_quest_description_quest_b3,Nobody's gonna tell this fish what to do! Great job!
+json_quest_description_quest_b4,It's time for action - and this fish will lead the charge!
+json_quest_description_quest_b6,Ooh la la! What a looker! They're sure to impress!
+json_quest_description_quest_b7,Don't try to keep this fish down - it plays by its own rules!
+json_quest_description_quest_b8,Looks like you've just added some sweet dreams to your tank! Nifty!
+json_quest_description_quest_b10,"Ha, great! This one's sure to add some smiles to your tank!"
+json_quest_description_quest_b11,"Careful - you might think this is your fish, but this little glutton believes the world belongs to them!"
+json_quest_description_quest_b12,"Ooh, wow - I wasn't sure our tank was cool enough for this fish, but apparently we're good!"
+json_quest_description_quest_b13,Ready for discoveries? This fish is already hard at work on new equations and ideas!
+json_quest_description_quest_b14,"Woohoo! Everyone get out your party hats, because things are gonna be off the hook!"
+json_quest_description_quest_b15,Mwahahaha! True villainy has a home now! *mustache twirl*
+json_quest_description_quest_b16,"This fish is too busy texting its friends to thank you, but it's super-excited to join your tank!"
+json_quest_description_quest_b18,*honk!* *honk!* The circus is here to stay! This fish can't wait to entertain its new friends.
+json_quest_description_quest_b19,It's time for the inside scoop! This fish won't rest until it gets the dirt on your tank!
+json_quest_description_quest_b20,Yay! Sea spirit is certain to soar now that this cheerful fish has arrived!
+json_quest_description_quest_b21,Grace and beauty just swam onto the scene. What a sight!
+json_quest_description_quest_b22,Perfection! This visionary fish is sure to make your tank the talk of the town!
+json_quest_description_quest_b23,Have we got a deal for you! This slick fish will bring bargains aplenty to your tank!
+json_quest_description_quest_b24,Let the campaign begin! This highly honorable fish is here to serve. For the fish!
+json_quest_description_quest_b25,"There's a crisis brewing, and this daring fish is on the case. Your tank has just become its greatest mission yet."
+json_quest_description_quest_b26,Better keep a close eye on your valuables! This fish just can't stop helping itself to things that aren't theirs.
+json_quest_description_quest_b27,Let the experimentation BEGIN! Are your tank's inhabitants ready for the work of a mad genius?!
+json_quest_description_quest_b28,"Aw, looks like someone's a little down on their luck. Well, this tank doesn't judge - it's a good place to get back on your feet. Welcome!"
+json_quest_description_quest_b29,This star's come to your tank to prepare for their newest role! I hope it doesn't bring too many fan fish along for the ride...
+json_quest_description_quest_b30,"MRRRROWWWN! Get ready, little fishies! It's time to ROCK!"
+json_quest_description_quest_b31,Elegance is here! The fine fins of this fish will bring class and glamor to your tank!
+json_quest_description_quest_b32,"Launch confirmed! Your tank is now the home of a famous space-traveller, and the sky's the limit!"
+json_quest_description_quest_b33,Shiver me timbers! This scoundrel has sailed the high seas and decided to settle in your tank!
+json_quest_description_quest_b34,"*poof!* A cloud of smoke, and a deadly warrior appears in your tank!"
+json_quest_description_quest_b35,"Ooh, is there a concert coming? This famous fish is sure to bring the house down if it decides to take the stage!"
+json_quest_description_quest_b36,Spells and enchantments are yours for the taking - if you can befriend this wily wizard fish!
+json_quest_description_quest_b37,Time to rustle up some fun with this gallopin' guppy! It's tumbled into town for high adventure!
+json_quest_description_quest_b38,"Haven't you noticed your fish aren't as well-dressed as they could be? Well, that ends now - you've got a true apparel-oriented artiste on your hands!"
+json_quest_description_quest_b39,"Magnificent! This superb seahorse is a one-of-a-kind treat for your tank, sure to make a splash at every fishy festivity!"
+json_quest_description_quest_b40,What's this? It seems a mystic fish has graced the tank with its presence. I'm sure it'll make all your dreams come true!
+json_quest_description_quest_b41,Careful now - there's something dangerous in your tank now; the light of the full moon will send this furry fish into a frenzy!
+json_quest_description_quest_b42,"A fanged threat has entered your realm, and when night falls, your tank's terrified fish had best watch out! Say, you're looking a little pale..."
+json_quest_description_quest_b43,What new wonder do we have here? The clouds have parted and this fish has descended from on high to uplift your tank!
+json_quest_description_quest_b44,Did you just feel a chill? The void between life and death seems slim indeed now that this freaky fish has drifted over from the other side...
+json_quest_description_quest_b45,Does anyone smell sulfur? There's a bit of brimstone in the air now that this macabre manta has arrived. Let's hope things don't go downhill from here!
+json_quest_description_quest_b46,Oh my goodness. That's one pristine pal you've got there! What's the street value on a vixen like that? I'm not even sure you CAN put a price on such perfection...
+json_quest_description_quest_b47,"Seeing red? Well, for once that's a good thing - this brightly-colored buddy has made your tank their new home, and it's sure to impress!"
+json_quest_description_quest_b48,"I can't believe it - I've only heard rumors of such majesty. You've accomplished the impossible, my friend. All glory to you and your tank for finding this galactic fish!"
+json_quest_description_quest_t1,"Two are better than one, wouldn't you say? Now keep that collection climbing!"
+json_quest_description_quest_t2,"Wow, look at them go! I wonder how high you can get them..."
+json_quest_description_quest_t25,Wasn't that a fun little adventure? Be sure to have your fish go treasure hunting often - you never know what they might find!
+json_quest_description_quest_t26,Your fish are getting really good at treasure hunting! I wonder what else they'll find?
+json_quest_description_quest_t27,Aren't those fish incredible treasure hunters? I bet your tank's just swimming in riches!
+json_quest_description_quest_t28,Amazing - what dedication to adventure! Your fish are clearly the sea's most talented explorers.
+json_quest_description_quest_t29,You are the grand adventurer - your fish have scoured the globe for wealth!
+json_quest_description_quest_t3,Looking sharp! Ow! I mean REALLY sharp! Careful with that coral!
+json_quest_description_quest_t5,Every tank needs some rocks - and this is an excellent start! Your fish will love these hiding places!
+json_quest_description_quest_t4,Beautiful! You're well on your way to creating a forest beneath the waves!
+json_quest_description_quest_t8,You certainly know your way around a tank! Look how nice things are now!
+json_quest_description_quest_t10,"That's what I'm talking about! Now you can collect even more of that sweet, sweet gold."
+json_quest_description_quest_t6,"Ooh, snazzy. I love how it changes the whole tank. I bet the others look just as good, too!"
+json_quest_description_quest_t30,"Ooh, I like it there! Nice choice!"
+json_quest_description_quest_t31,"My, that DOES look a bit better, doesn't it?"
+json_quest_description_quest_t32,Looking good! You just set this fish onto the next step in undersea superiority!
+json_quest_description_quest_t33,"Perfection achieved! Nobody's gonna mess with this fine friend of yours now, that's for sure."
+json_quest_description_quest_t34,Success is certainly spreading - I've never seen so many phenomenal fish before!
+json_quest_description_quest_t35,"You've got some real power in your corner now, don't you? Check out those super swimmers!"
+json_quest_description_quest_t36,Look at all those fantastic fish! Every last one of them is a hearty contributor to your cause!
+json_quest_description_quest_t7,"Got a bit of breathing room, now! You can fit even more of everything in here!"
+json_quest_description_quest_t11,"Wow, that's quite the look you've put together! I'm sure your fish appreciate it - I know I do!"
+json_quest_description_quest_t37,Swell! Your deepsea style is spreading!
+json_quest_description_quest_t38,Smashing! These tanks look incredible - great work!
+json_quest_description_quest_t39,Striking! Four fantastic tanks! What a streak of success!
+json_quest_description_quest_t16,Superlative! You really know what you're doing down here.
+json_quest_description_quest_t41,Sublime! I don't think there's been a better decorator than you.
+json_quest_description_quest_t42,Scintillating! How do you do it?!
+json_quest_description_quest_t43,Stupendous! There's no sign your style's slowing down!
+json_quest_description_quest_t44,Staggering! You're almost there! Can you get ALL TEN TANKS?
+json_quest_description_quest_t22,Superior! This is just too much - you really are the best decorator beneath the waves.
+json_quest_description_quest_t9,"You're a true friend to fish - well, at least one fish! Look how overjoyed you've made 'em!"
+json_quest_description_quest_t12,Well done! Fish are lining up to get into your top-of-the-line tank!
+json_quest_description_quest_t13,"Amazing work! You don't see a perfect tank very often. Take a bow, you deep sea genius!"
+json_quest_description_quest_t48,"Wow, look what they managed to bring back! These treasure hunts are the real deal!"
+json_quest_description_quest_t49,What a find! Your fish must have searched long and hard for this beautiful bauble!
+json_quest_description_quest_t50,Unbelievable! Who would've thought the bottom of this tank had so much good stuff in it?!
+json_quest_description_quest_t14,"You know just what those finicky fish want, don't you? Look how happy they are!"
+json_quest_description_quest_t15,"My goodness, those are some blissful fish! How do you do it?"
+json_quest_description_quest_t17,"It takes a certain sort of genius to be successful not once, not twice, but FIVE times - and that genius is you!"
+json_quest_description_quest_t18,Nice job - you've got a fish for every trait. Now all you need to do is get one of every fish...
+json_quest_description_quest_t19,"They say you can't please all the people all the time, but apparently that's not true for fish - or you! Well done!"
+json_quest_description_quest_t20,Incredible! Every tank is open to you! You should have enough room to do whatever you like now - use it wisely!
+json_quest_description_quest_t21,What an amazing accomplishment! Never before has there been a greater concentration of gleeful fish!
+json_quest_description_quest_t23,"You did it! You've collected EVERY SINGLE FISH. You're a master of the marine, my friend - kudos to you, and congratulations!"
+json_quest_description_quest_t24,"I don't think anyone expected this! Ten top-notch tanks of pure perfection? What a feat! You've just gotten yourself into the record books, my friend. Well done."
+json_quest_description_quest_t60,"Great work - you've got more room than ever, now!"
+json_quest_description_quest_t61,Way to go! Your fish are loving all this extra space! 
+json_quest_description_quest_t62,Halfway done! You already have so much space now - can you imagine what it'll be like to have all ten tanks?
+json_quest_description_quest_t63,"Ooh, another one! Look at all the room you've given your fine fishies! You're the best tankmaster ever."
+json_quest_description_quest_t64,"Wow, nice! You're well on your way to ten tanks. Just think of how many amazing fish you'll have when you get there!"
+json_quest_description_quest_t65,Even your biggest fish can't complain about space - there's so much room for them to stretch out and swim now!
+json_quest_description_quest_t66,"Such space! You're almost there, now - just one tank to go! Can you make it?"
+json_quest_description_quest_t67,"Now you can socialize with your friends by inviting them, sending them gifts, and visiting their unique tanks!"
+json_quest_description_quest_t70,"Great! Keep searching your friends' tanks for buried booty! It's fun and, more importantly, it's FREE!"
+json_quest_description_quest_t71,"Awesome! I'm sure they'll appreciate it and maybe they'll send you somethin' nice, too!"
+json_achievement_name_achievement_1,Out of This World
+json_achievement_name_achievement_2,Covered in Corals
+json_achievement_name_achievement_3,Plentiful Plants!
+json_achievement_name_achievement_4,Rock This City
+json_achievement_name_achievement_5,Needs a few touch-ups...
+json_achievement_name_achievement_6,Time to Expand!
+json_achievement_name_achievement_7,Up-and-Coming
+json_achievement_name_achievement_8,Focused Affection
+json_achievement_name_achievement_9,Piggy Bank Ain't Big Enough
+json_achievement_name_achievement_10,Fishy Fashionista
+json_achievement_name_achievement_11,Deep Sea Delight
+json_achievement_name_achievement_12,Tip-Top Tank
+json_achievement_name_achievement_13,Spreading Glee
+json_achievement_name_achievement_14,Crowd-Pleaser
+json_achievement_name_achievement_15,Makeover Specialist
+json_achievement_name_achievement_16,Success is Spreading
+json_achievement_name_achievement_17,A Solid Foundation
+json_achievement_name_achievement_18,Happy Day
+json_achievement_name_achievement_19,So Much Room for Activities
+json_achievement_name_achievement_20,Fish Favorite
+json_achievement_name_achievement_21,Style Star
+json_achievement_name_achievement_22,Gotta Catch 'Em All
+json_achievement_name_achievement_23,Perfection Achieved
+json_achievement_name_achievement_24,Let's Get Some Booty
+json_achievement_name_achievement_25,Welcome back! Again!
+json_achievement_name_achievement_26,Aquarium Aficionado 
+json_achievement_name_achievement_27,Fish Fanatic
+json_achievement_name_achievement_28,Denizen of the Depths
+json_achievement_name_achievement_29,Synchronized Re-Entry
+json_achievement_name_achievement_30,One giant leap for fishkind!
+json_achievement_name_achievement_31,Where'd they go?
+json_achievement_name_achievement_32,Rollin' in it!
+json_achievement_name_achievement_33,A Shocking Conclusion
+json_achievement_name_achievement_34,Enforced Extroversion
+json_achievement_name_achievement_35,Take Your Cut
+json_achievement_name_achievement_36,Pay Evil Unto Evil
+json_achievement_name_achievement_37,Slippery Slope
+json_achievement_name_achievement_38,"Houston, We Have a Problem"
+json_achievement_name_achievement_39,Beyond the Impossible
+json_achievement_name_achievement_40,Ten Fins of Fun!
+json_achievement_name_achievement_41,Double the Delight!
+json_achievement_name_achievement_42,Thirty's the New Twenty
+json_achievement_name_achievement_43,Forty Friends
+json_achievement_name_achievement_44,Fifty's Nifty
+json_achievement_name_achievement_45,Full House
+json_achievement_name_achievement_46,Terrific Tanks!
+json_achievement_name_achievement_47,Benevolent Deity
+json_achievement_name_achievement_48,Mystic Matchmaker
+json_achievement_name_achievement_49,Heavenly Hearts
+json_achievement_name_achievement_50,Priceless Pairs
+json_achievement_name_achievement_51,Double Up
+json_achievement_name_achievement_52,Triple Trial
+json_achievement_name_achievement_53,Misery Loves Company
+json_achievement_name_achievement_54,Deep Sea Daycare
+json_achievement_name_achievement_55,Send in the Clones
+json_achievement_name_achievement_56,Trouble Brewing
+json_achievement_name_achievement_57,"Justice Team, Assemble!"
+json_achievement_name_achievement_58,Fantasy Fish Force
+json_achievement_name_achievement_59,No Business Like Show Business
+json_achievement_name_achievement_63,Interior Redecoration
+json_achievement_name_achievement_64,Dress the place up!
+json_achievement_name_achievement_65,Pleasing plants!
+json_achievement_name_achievement_66,Rocky waters!
+json_achievement_name_achievement_68,A Pirate's Life
+json_achievement_name_achievement_69,Fish Flippin' Fiend
+json_achievement_name_achievement_70,Tanks for the Memories
+json_achievement_name_achievement_71,Rearranging Ranger
+json_achievement_name_achievement_72,Shrink Ray! Shrink Ray!
+json_achievement_name_achievement_73,Decoration Nation
+json_achievement_name_achievement_74,The Toys Are Back in Town
+json_achievement_name_achievement_75,Tip-Top Backdrops
+json_achievement_name_achievement_76,Floored
+json_achievement_name_achievement_77,Nice Ones Finish First
+json_achievement_name_achievement_78,Mean Team
+json_achievement_name_achievement_79,Fearless Fish
+json_achievement_name_achievement_80,Hidden Heroes
+json_achievement_name_achievement_81,Briny Brains
+json_achievement_name_achievement_82,Inspirational Ichthyoids
+json_achievement_name_achievement_83,Mystical Maestro
+json_achievement_name_achievement_84,Heavenly Heartthrob
+json_achievement_name_achievement_85,Priceless Promoter
+json_achievement_name_achievement_86,Double Down
+json_achievement_name_achievement_87,Triple Threat
+json_achievement_description_achievement_1,Breed a Galaxy Fish
+json_achievement_description_achievement_2,Have ten corals.
+json_achievement_description_achievement_3,Have ten plants.
+json_achievement_description_achievement_4,Have ten rocks.
+json_achievement_description_achievement_5,Buy ten backgrounds
+json_achievement_description_achievement_6,Buy another tank.
+json_achievement_description_achievement_7,Achieve a one-star tank.
+json_achievement_description_achievement_8,Make a fish ecstatic.
+json_achievement_description_achievement_9,Upgrade your treasure chest size.
+json_achievement_description_achievement_10,Make one tank beautiful.
+json_achievement_description_achievement_11,Achieve a two-star tank.
+json_achievement_description_achievement_12,Achieve a three-star tank.
+json_achievement_description_achievement_13,Make 10 fish happy.
+json_achievement_description_achievement_14,Make 10 fish ecstatic.
+json_achievement_description_achievement_15,Make five tanks beautiful.
+json_achievement_description_achievement_16,Achieve five three-star tanks.
+json_achievement_description_achievement_17,Have enough fish in your tanks to encompass all six traits.
+json_achievement_description_achievement_18,Make 25 fish happy.
+json_achievement_description_achievement_19,Unlock all 10 tanks.
+json_achievement_description_achievement_20,Make 25 fish ecstatic.
+json_achievement_description_achievement_21,Make ten tanks beautiful.
+json_achievement_description_achievement_22,Acquire one of every type of fish.
+json_achievement_description_achievement_23,Achieve ten three-star tanks.
+json_achievement_description_achievement_24,Send a fish on a treasure hunt.
+json_achievement_description_achievement_25,Log in every day for 5 consecutive days
+json_achievement_description_achievement_26,Log in every day for 15 consecutive days
+json_achievement_description_achievement_27,Log in every day for a month
+json_achievement_description_achievement_28,Log in every day for a year
+json_achievement_description_achievement_29,Have two fish re-enter the tank at once.
+json_achievement_description_achievement_30,Fling a fish 100 meters out of the tank.
+json_achievement_description_achievement_31,Fling six fish out of the tank at once.
+json_achievement_description_achievement_32,Get the largest treasure chest upgrade.
+json_achievement_description_achievement_33,Toss the Mad Scientist fish out of the tank when he's in the middle of zapping someone.
+json_achievement_description_achievement_34,Drag the Shy fish out from behind a hiding place.
+json_achievement_description_achievement_35,Shake a Robber fish to make him give up his ill-gotten loot.
+json_achievement_description_achievement_36,Toss an Evil fish out of the tank shortly after one of his dynamite sticks hits another fish.
+json_achievement_description_achievement_37,Toss a Clown fish out of the tank shortly after another fish slips on one of his peels.
+json_achievement_description_achievement_38,Grab an Astronaut fish and interrupt his launch sequence.
+json_achievement_description_achievement_39,Acquire a second Galaxy Fish.
+json_achievement_description_achievement_40,Acquire 10 fish.
+json_achievement_description_achievement_41,Acquire 20 fish.
+json_achievement_description_achievement_42,Acquire 30 fish.
+json_achievement_description_achievement_43,Acquire 40 fish.
+json_achievement_description_achievement_44,Acquire 50 fish.
+json_achievement_description_achievement_45,Acquire 60 fish.
+json_achievement_description_achievement_46,Make every breed of fish happy.
+json_achievement_description_achievement_47,Make every breed of fish ecstatic.
+json_achievement_description_achievement_48,Breed a Magical fish!
+json_achievement_description_achievement_49,Breed a Celestial fish!
+json_achievement_description_achievement_50,Breed a Gem fish!
+json_achievement_description_achievement_51,Breed a fish with two traits.
+json_achievement_description_achievement_52,Breed a fish with three traits.
+json_achievement_description_achievement_53,Have a tank with six unhappy fish.
+json_achievement_description_achievement_54,Have a tank with six baby fish.
+json_achievement_description_achievement_55,Have a tank with six fish of a single breed.
+json_achievement_description_achievement_56,"Put a Mean, Greedy, Evil, Mad Scientist, Robber, and Devil fish in one tank together."
+json_achievement_description_achievement_57,"Put a Nice, Brave, Adventurous, Secret Agent, Astronaut, and Angel fish in one tank together."
+json_achievement_description_achievement_58,"Put a Ninja, Fairy, Unicorn, Werewolf, Vampire, and Ghost fish in one tank together."
+json_achievement_description_achievement_59,"Put a Fashion Designer, Artist, Paparazzi, Movie Star, Rock Star, and Pop Star fish in one tank together."
+json_achievement_description_achievement_63,Have a different background in all ten tanks.
+json_achievement_description_achievement_64,Place a coral in all ten tanks.
+json_achievement_description_achievement_65,Place a plant in all ten tanks.
+json_achievement_description_achievement_66,Place a rock in all ten tanks.
+json_achievement_description_achievement_68,Send fish on 100 treasure hunts.
+json_achievement_description_achievement_69,Toss every breed of fish out of the tank at least once.
+json_achievement_description_achievement_70,Get the largest treasure chest upgrade in every tank.
+json_achievement_description_achievement_71,Move any number of props 100 times.
+json_achievement_description_achievement_72,Change the size of props 100 times.
+json_achievement_description_achievement_73,Acquire every decoration.
+json_achievement_description_achievement_74,Acquire every toy.
+json_achievement_description_achievement_75,Acquire every background.
+json_achievement_description_achievement_76,Acquire every kind of flooring.
+json_achievement_description_achievement_77,Acquire one of every fish with a Nice trait.
+json_achievement_description_achievement_78,Acquire one of every fish with a Mean trait.
+json_achievement_description_achievement_79,Acquire one of every fish with a Brave trait.
+json_achievement_description_achievement_80,Acquire one of every fish with a Shy trait.
+json_achievement_description_achievement_81,Acquire one of every fish with a Smart trait.
+json_achievement_description_achievement_82,Acquire one of every fish with a Creative trait.
+json_achievement_description_achievement_83,Acquire all the Magical fish!
+json_achievement_description_achievement_84,Acquire all the Celestial fish!
+json_achievement_description_achievement_85,Acquire both of the Gem fish!
+json_achievement_description_achievement_86,Acquire every fish with two traits.
+json_achievement_description_achievement_87,Acquire every fish with three traits.
+json_achievement_completed_achievement_1,You bred a Galaxy Fish!
+json_achievement_completed_achievement_2,You have ten corals!
+json_achievement_completed_achievement_3,You have ten plants!
+json_achievement_completed_achievement_4,You have ten rocks!
+json_achievement_completed_achievement_5,You bought ten backgrounds!
+json_achievement_completed_achievement_6,You bought a new tank!
+json_achievement_completed_achievement_7,You created a one-star tank!
+json_achievement_completed_achievement_8,You made a fish ecstatic!
+json_achievement_completed_achievement_9,You upgraded your treasure chest size!
+json_achievement_completed_achievement_10,You created a beautiful tank!
+json_achievement_completed_achievement_11,You created a two-star tank!
+json_achievement_completed_achievement_12,You created a three-star tank!
+json_achievement_completed_achievement_13,You made 10 fish happy!
+json_achievement_completed_achievement_14,You made 10 fish ecstatic!
+json_achievement_completed_achievement_15,You made five tanks beautiful!
+json_achievement_completed_achievement_16,You made five three-star tanks!
+json_achievement_completed_achievement_17,You have a fish for every trait!
+json_achievement_completed_achievement_18,You made 25 fish happy!
+json_achievement_completed_achievement_19,You unlocked all 10 tanks!
+json_achievement_completed_achievement_20,You made 25 fish ecstatic!
+json_achievement_completed_achievement_21,You made 10 tanks beautiful!
+json_achievement_completed_achievement_22,You acquired one of every type of fish!
+json_achievement_completed_achievement_23,You have TEN three-star tanks!
+json_achievement_completed_achievement_24,You sent a fish on a treasure hunt!
+json_achievement_completed_achievement_25,You logged in every day for 5 days!
+json_achievement_completed_achievement_26,You logged in every day for 15 days!
+json_achievement_completed_achievement_27,You logged in every day for a month!
+json_achievement_completed_achievement_28,You logged in every day for a YEAR!
+json_achievement_completed_achievement_29,You had two fish re-enter the tank at once!
+json_achievement_completed_achievement_30,You flung a fish over 100 meters out of the tank!
+json_achievement_completed_achievement_31,You flung six fish out of the tank at once!
+json_achievement_completed_achievement_32,You got the largest treasure chest upgrade!
+json_achievement_completed_achievement_33,You tossed a Mad Scientist out when he was being mean!
+json_achievement_completed_achievement_34,You dragged a Shy Fish into the light!
+json_achievement_completed_achievement_35,You gave your Robber Fish a shakedown!
+json_achievement_completed_achievement_36,You tossed an Evil Fish out when he was being mean!
+json_achievement_completed_achievement_37,You tossed a Clown Fish out in the middle of his act!
+json_achievement_completed_achievement_38,You interrupted an Astronaut Fish's launch!
+json_achievement_completed_achievement_39,You got a SECOND Galaxy Fish!
+json_achievement_completed_achievement_40,You got 10 fish!
+json_achievement_completed_achievement_41,You got 20 fish!
+json_achievement_completed_achievement_42,You got 30 fish!
+json_achievement_completed_achievement_43,You got 40 fish!
+json_achievement_completed_achievement_44,You got 50 fish!
+json_achievement_completed_achievement_45,You got 60 fish!
+json_achievement_completed_achievement_46,You made every breed of fish happy!
+json_achievement_completed_achievement_47,You made every breed of fish ecstatic!
+json_achievement_completed_achievement_48,You bred a Magical fish!
+json_achievement_completed_achievement_49,You bred a Celestial fish!
+json_achievement_completed_achievement_50,You bred a Gem fish!
+json_achievement_completed_achievement_51,You bred a fish with two traits!
+json_achievement_completed_achievement_52,You bred a fish with THREE traits!
+json_achievement_completed_achievement_53,You created a tank with six unhappy fish!
+json_achievement_completed_achievement_54,You created a tank with six baby fish!
+json_achievement_completed_achievement_55,You created a tank with six of the same fish!
+json_achievement_completed_achievement_56,You created a tank full of danger!
+json_achievement_completed_achievement_57,You created a tank full of goodness!
+json_achievement_completed_achievement_58,You created a tank full of magic!
+json_achievement_completed_achievement_59,You created a tank full of star power!
+json_achievement_completed_achievement_63,You got a background for every tank!
+json_achievement_completed_achievement_64,You got a coral for every tank!
+json_achievement_completed_achievement_65,You got a plant for every tank!
+json_achievement_completed_achievement_66,You got a rock for every tank!
+json_achievement_completed_achievement_68,You sent fish on 100 treasure hunts!
+json_achievement_completed_achievement_69,You've tossed every fish out of the tank!
+json_achievement_completed_achievement_70,You got the largest treasure chest upgrade in every tank!
+json_achievement_completed_achievement_71,You moved props 100 times!
+json_achievement_completed_achievement_72,You scaled props 100 times!
+json_achievement_completed_achievement_73,You got every decoration!
+json_achievement_completed_achievement_74,You got every toy!
+json_achievement_completed_achievement_75,You got every background!
+json_achievement_completed_achievement_76,You got every piece of flooring!
+json_achievement_completed_achievement_77,You got one of every Nice-trait fish!
+json_achievement_completed_achievement_78,You got one of every Mean-trait fish!
+json_achievement_completed_achievement_79,You got one of every Brave-trait fish!
+json_achievement_completed_achievement_80,You got one of every Shy-trait fish!
+json_achievement_completed_achievement_81,You got one of every Smart-trait fish!
+json_achievement_completed_achievement_82,You got one of every Creative-trait fish!
+json_achievement_completed_achievement_83,You got all the Magical fish!
+json_achievement_completed_achievement_84,You got all the Celestial fish!
+json_achievement_completed_achievement_85,You got both of the Gem fish!
+json_achievement_completed_achievement_86,You got every fish with two traits!
+json_achievement_completed_achievement_87,You got every fish with THREE traits!
+json_faq_question_1,How do I earn coins?
+json_faq_question_2,How do I get more pearls?
+json_faq_question_3,How do I level up?
+json_faq_question_4,How do I breed my fish?
+json_faq_question_5,How do I score a high score in the fish tossing game?
+json_faq_question_6,How do I decorate my tank?
+json_faq_question_7,How do I move items in my tank?
+json_faq_question_8,How can I know more about a fish I'm buying?
+json_faq_question_9,How do I move a fish or item to another tank?
+json_faq_question_10,Why is the Buy button unavailable for the fish I want?
+json_faq_question_11,How can I adjust settings for the game?
+json_faq_question_12,How do I purchase more space for my fish?
+json_faq_question_13,How do I change between tanks?
+json_faq_question_14,How does a fish grow?
+json_faq_question_15,Why do my fish look sad? :(
+Baby fish, hungry fish, and fish in your breeding tank will not generate coins. You have to raise the baby fish to adulthood, and hungry fish have to be be fed first :)"
+You can also purchase Pearls, and they can be sent to you by a friend, as a gift."
+json_faq_answer_3,"Your level is determined by how much XP (Experience Points) you have. You can earn more XP in the game by feeding fish, building props, training fish and completing quests."
+To make sure you can breed a fish, it has to be adult, and it has to be fed first."
+Some fish can be tossed higher than others, so make sure to try out different types of fish."
+To make an item larger or smaller, tap on it and then use the plus and minus symbols to adjust the size."
+json_faq_answer_7,"To move an item like an idol or coral, hold your finger on the item, and then you can move it around in the tank."
+It will also show what type of fish it is (Brave, Cool, Creative, etc) and how many coins it generates."
+json_faq_answer_9,"If you tap on a fish or item you  will have a ""Move"" button, if you tap on this you can select which tank you wish to place your fish in."
+If your fish has a ""Dislike"", then you will also know that fish is not compatible with certain fish or items."
+json_faq_answer_11,"By tapping on the cog/settings icon in the top right corner of the game, you can adjust a few options for the game, such as your audio settings and notification options."
+json_faq_answer_12,"If you tap on Store, and then on Tanks, you can purchase more tanks to add fish to. Note the price will increase with each tank purchase you make."
+json_faq_answer_13,"Swipe left or right to move between tanks, as though you're flicking through the pages of a book. To select a specific tank manually, tap on the tank icon at the top of the game, for the tank selection menu."
+If you want to speed it up, you can tap on the fish and then on ""Actions"", to get the ""Speed Up"" option, where you can pay extra to make the fish adult instantly."
+json_faq_answer_15,"If your fish look sad, it's because they're hungry! :) Tap on the Feed icon to feed them, until they're full and happy again."

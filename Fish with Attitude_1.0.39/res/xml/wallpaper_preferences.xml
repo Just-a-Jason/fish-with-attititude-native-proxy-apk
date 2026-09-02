@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ListPreference android:entries="@array/wallpaper_settings_background_labels" android:title="@string/wallpaper_settings_background_title" android:key="@string/wallpaper_settings_background_key" android:entryValues="@array/wallpaper_settings_background_values" />
+</PreferenceScreen>

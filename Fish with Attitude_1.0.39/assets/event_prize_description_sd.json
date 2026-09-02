@@ -1,0 +1,64 @@
+{
+  "elements" : [
+    {
+      "name" : "event_alert_popup_bitmap",
+      "w" : 397.5,
+      "h" : 240,
+      "x" : 41,
+      "y" : 39.78,
+      "layer" : 72,
+      "type" : "Bitmap",
+      "children" : [
+        
+      ],
+      "texture" : "popup_bg_event_alert.png"
+    },
+    {
+      "name" : "common_close_button",
+      "w" : 42.5,
+      "h" : 42.5,
+      "x" : 404,
+      "y" : 32.03,
+      "layer" : 72,
+      "type" : "BaseButton",
+      "children" : [
+        
+      ],
+      "texture" : "btn_close_1.png"
+    },
+    {
+      "name" : "event_alert_title_textfield",
+      "w" : 400,
+      "h" : 46,
+      "x" : 39.75,
+      "y" : 63.28,
+      "layer" : 72,
+      "type" : "BaseText",
+      "children" : [
+        
+      ],
+      "text" : "json_event_ended_lost_title",
+      "font" : "PumpkinJF",
+      "alignment" : "center",
+      "fontSize" : 35,
+      "color" : "0xffffff"
+    },
+    {
+      "name" : "event_alert_description_textfield",
+      "w" : 201,
+      "h" : 144.98,
+      "x" : 210.5,
+      "y" : 116,
+      "layer" : 72,
+      "type" : "BaseText",
+      "children" : [
+        
+      ],
+      "text" : "json_event_ended_lost_body",
+      "font" : "Arial Rounded MT Bold",
+      "alignment" : "left",
+      "fontSize" : 15,
+      "color" : "0x424c65"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{"elements":[
+             {"name":"newbaby_popup_bitmap","w":453.45,"h":278.2,"x":10.5,"y":20.8,"layer":67,"type":"Bitmap","children":[],"texture":"popup_bg_breed_new_fish_1.png"},
+             {"name":"common_btn_2_small_button_place","w":100.95,"h":31.4,"x":338.93,"y":248.63,"layer":67,"type":"BaseButton","children":[],"texture":"btn_1_small.png"},
+             {"name":"common_btn_2_small_button_sell","w":100.95,"h":31.4,"x":227.93,"y":248.63,"layer":67,"type":"BaseButton","children":[],"texture":"btn_1_small.png"},
+             {"name":"common_close_button","w":42.5,"h":42.5,"x":428.75,"y":18.75,"layer":67,"type":"BaseButton","children":[],"texture":"btn_close_1.png"},
+             {"name":"common_btn_label_place_textfield","w":100,"h":22.13,"x":340,"y":252.95,"layer":67,"type":"BaseText","children":[],"text":"new_baby_common_btn_label_place_textfield","font":"Arial Rounded MT Bold","alignment":"center","fontSize":20,"color":"0xffffff"},
+             {"name":"newbaby_description_textfield","w":230,"h":114,"x":220,"y":125.5,"layer":67,"type":"BaseText","children":[],"text":"new_baby_newbaby_description_textfield","font":"Arial Rounded MT Bold","alignment":"center","fontSize":12,"color":"0x424c65"},
+             {"name":"common_btn_label_textfield","w":100,"h":22.13,"x":229,"y":252.95,"layer":67,"type":"BaseText","children":[],"text":"new_baby_common_btn_label_textfield","font":"Arial Rounded MT Bold","alignment":"center","fontSize":20,"color":"0xffffff"},
+             {"name":"newbaby_toy_textfield","w":86.48,"h":15.5,"x":91.78,"y":243.75,"layer":67,"type":"BaseText","children":[],"text":"new_baby_newbaby_toy_textfield","font":"PumpkinJF","alignment":"center","fontSize":13,"color":"0xffffff"},
+             {"name":"newbaby_type_textfield","w":230,"h":33.5,"x":220,"y":93.75,"layer":67,"type":"BaseText","children":[],"text":"new_baby_newbaby_type_textfield","font":"PumpkinJF","alignment":"center","fontSize":25,"color":"0x434d66"},
+             {"name":"newbaby_name_breed","w":229.95,"h":33.9,"x":221.23,"y":48.05,"layer":67,"type":"BaseButton","children":[],"texture":"popup_bg_breed_new_fish_button.png"}]}

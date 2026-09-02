@@ -1,0 +1,336 @@
+{
+  "elements": [
+    {
+      "name": "babyfish_button",
+      "w": 137.85,
+      "h": 99.08,
+      "x": 168.58,
+      "y": 57.65,
+      "layer": 16,
+      "type": "BaseButton",
+      "children": [
+      ],
+      "texture": "store_main_babyfish_button.png"
+    },
+    {
+      "name": "decoration_button",
+      "w": 137.85,
+      "h": 107.45,
+      "x": 168.58,
+      "y": 160.28,
+      "layer": 16,
+      "type": "BaseButton",
+      "children": [
+      ],
+      "texture": "store_main_decoration_button.png"
+    },
+    {
+      "name": "idol_button",
+      "w": 137.85,
+      "h": 107.45,
+      "x": 322.58,
+      "y": 49.28,
+      "layer": 16,
+      "type": "BaseButton",
+      "children": [
+      ],
+      "texture": "store_main_idol_button.png"
+    },
+    {
+      "name": "sand_button",
+      "w": 137.85,
+      "h": 108.4,
+      "x": 324.08,
+      "y": 159.32,
+      "layer": 16,
+      "type": "BaseButton",
+      "children": [
+      ],
+      "texture": "store_main_sand_button.png"
+    },
+    {
+      "name": "tank_button",
+      "w": 137.85,
+      "h": 102.15,
+      "x": 18.08,
+      "y": 165.08,
+      "layer": 16,
+      "type": "BaseButton",
+      "children": [
+      ],
+      "texture": "store_main_tank_button.png"
+    },
+    {
+      "name": "treasure_button",
+      "w": 137.85,
+      "h": 105.98,
+      "x": 18.08,
+      "y": 50.75,
+      "layer": 16,
+      "type": "BaseButton",
+      "children": [
+      ],
+      "texture": "store_main_treasure_button.png"
+    },
+    {
+      "name": "babyfish_textfield",
+      "w": 123.53,
+      "h": 19,
+      "x": 175.75,
+      "y": 128.48,
+      "layer": 16,
+      "type": "BaseText",
+      "children": [
+      ],
+      "text": "main_store_screen_babyfish_textfield",
+      "font": "Arial Rounded MT Bold",
+      "alignment": "center",
+      "fontSize": 15,
+      "color": "0xffffff"
+    },
+    {
+      "name": "idol_textfield",
+      "w": 123.53,
+      "h": 19,
+      "x": 329.75,
+      "y": 128.48,
+      "layer": 16,
+      "type": "BaseText",
+      "children": [
+      ],
+      "text": "main_store_screen_idol_textfield",
+      "font": "Arial Rounded MT Bold",
+      "alignment": "center",
+      "fontSize": 15,
+      "color": "0xffffff"
+    },
+    {
+      "name": "treasure_textfield",
+      "w": 123.53,
+      "h": 19,
+      "x": 25.25,
+      "y": 128.48,
+      "layer": 16,
+      "type": "BaseText",
+      "children": [
+      ],
+      "text": "main_store_screen_treasure_textfield",
+      "font": "Arial Rounded MT Bold",
+      "alignment": "center",
+      "fontSize": 15,
+      "color": "0xffffff"
+    },
+    {
+      "name": "tank_textfield",
+      "w": 123.53,
+      "h": 19,
+      "x": 25.25,
+      "y": 239.98,
+      "layer": 16,
+      "type": "BaseText",
+      "children": [
+      ],
+      "text": "main_store_screen_tank_textfield",
+      "font": "Arial Rounded MT Bold",
+      "alignment": "center",
+      "fontSize": 15,
+      "color": "0xffffff"
+    },
+    {
+      "name": "decoration_breed_button",
+      "w": 137.85,
+      "h": 105.83,
+      "x": 168.58,
+      "y": 161.9,
+      "layer": 16,
+      "type": "BaseButton",
+      "children": [
+      ],
+      "texture": "store_main_breed_decoration_button.png"
+    },
+    {
+      "name": "decoration_textfield",
+      "w": 123.53,
+      "h": 19,
+      "x": 175.75,
+      "y": 239.98,
+      "layer": 16,
+      "type": "BaseText",
+      "children": [
+      ],
+      "text": "main_store_screen_decoration_textfield",
+      "font": "Arial Rounded MT Bold",
+      "alignment": "center",
+      "fontSize": 15,
+      "color": "0xffffff"
+    },
+    {
+      "name": "sand_textfield",
+      "w": 135.23,
+      "h": 18,
+      "x": 325.4,
+      "y": 239.98,
+      "layer": 16,
+      "type": "BaseText",
+      "children": [
+      ],
+      "text": "main_store_screen_sand_textfield",
+      "font": "Arial Rounded MT Bold",
+      "alignment": "center",
+      "fontSize": 14,
+      "color": "0xffffff"
+    },
+    {
+      "name": "bg_bitmap",
+      "w": 480,
+      "h": 320,
+      "x": 0,
+      "y": 0,
+      "layer": 15,
+      "type": "Bitmap",
+      "children": [
+      ],
+      "texture": "store_bg_bitmap.png"
+    },
+    {
+      "name": "pearls_indicator_button",
+      "w": 97.5,
+      "h": 40.7,
+      "x": 10.28,
+      "y": 276.5,
+      "layer": 15,
+      "type": "BaseButton",
+      "children": [
+      ],
+      "texture": "hud_indicator_pearls.png"
+    },
+    {
+      "name": "coins_indicator_button",
+      "w": 97.5,
+      "h": 40.67,
+      "x": 111.28,
+      "y": 276.52,
+      "layer": 15,
+      "type": "BaseButton",
+      "children": [
+      ],
+      "texture": "hud_indicator_coins.png"
+    },
+    {
+      "name": "common_close_button",
+      "w": 42.5,
+      "h": 42.5,
+      "x": 429.25,
+      "y": 4.75,
+      "layer": 15,
+      "type": "BaseButton",
+      "children": [
+      ],
+      "texture": "btn_close_1.png"
+    },
+    {
+      "name": "title_textfield",
+      "w": 333.08,
+      "h": 52,
+      "x": 73.47,
+      "y": 5.5,
+      "layer": 15,
+      "type": "BaseText",
+      "children": [
+      ],
+      "text": "main_store_screen_title_textfield",
+      "font": "PumpkinJF",
+      "alignment": "center",
+      "fontSize": 40,
+      "color": "0xffffff"
+    },
+    {
+      "name": "coins_amount_textfield",
+      "w": 57.5,
+      "h": 19,
+      "x": 141.25,
+      "y": 286.5,
+      "layer": 15,
+      "type": "BaseText",
+      "children": [
+      ],
+      "text": "main_store_screen_coins_amount_textfield",
+      "font": "Arial Rounded MT Bold",
+      "alignment": "left",
+      "fontSize": 14,
+      "color": "0xffffff"
+    },
+    {
+      "name": "pearls_amount_textfield",
+      "w": 57.5,
+      "h": 18,
+      "x": 41.75,
+      "y": 287,
+      "layer": 15,
+      "type": "BaseText",
+      "children": [
+      ],
+      "text": "main_store_screen_pearls_amount_textfield",
+      "font": "Arial Rounded MT Bold",
+      "alignment": "left",
+      "fontSize": 14,
+      "color": "0xffffff"
+    },
+    {
+      "name": "tapjoy_button",
+      "w": 137.85,
+      "h": 99.03,
+      "x": 18.08,
+      "y": 57.7,
+      "layer": 18,
+      "type": "BaseButton",
+      "children": [
+      ],
+      "texture": "store_main_tapjoy_button.png"
+    },
+    {
+      "name": "tapjoy_textfield",
+      "w": 123.53,
+      "h": 19,
+      "x": 25.25,
+      "y": 128.48,
+      "layer": 18,
+      "type": "BaseText",
+      "children": [
+      ],
+      "text": "main_store_screen_tapjoy_textfield",
+      "font": "Arial Rounded MT Bold",
+      "alignment": "center",
+      "fontSize": 15,
+      "color": "0xffffff"
+    },
+    {
+      "name": "storage_btn_button",
+      "w": 89.3,
+      "h": 26.63,
+      "x": 381.83,
+      "y": 282.13,
+      "layer": 17,
+      "type": "BaseButton",
+      "children": [
+      ],
+      "texture": "btn_1_tiny.png"
+    },
+    {
+      "name": "storage_btn_label_textfield",
+      "w": 80,
+      "h": 19,
+      "x": 386.48,
+      "y": 285.63,
+      "layer": 17,
+      "type": "BaseText",
+      "children": [
+      ],
+      "text": "main_store_screen_storage_textfield",
+      "font": "Arial Rounded MT Bold",
+      "alignment": "center",
+      "fontSize": 14,
+      "color": "0xffffff"
+    }
+  ]
+}

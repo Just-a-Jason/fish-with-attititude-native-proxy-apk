@@ -1,0 +1,52 @@
+package com.crowdstar.billing;
+
+import android.content.Context;
+<<<<<<< Updated upstream
+import android.util.Log;
+import com.crowdstar.hamobile.google.R;
+=======
+import com.crowdstar.hamobile.amazon.R;
+>>>>>>> Stashed changes
+
+/**
+ * User: riksa
+ * Date: 9/26/12
+ * Time: 1:12 PM
+ * Translates itemId to "android.test.purchase" and back to test billing without actually paying anything
+ */
+public class GooglePlayBillingFacadeDebug extends GooglePlayBillingFacade {
+    private static final String TAG = "FWA_GooglePlayBillingFacadeDebug";
+    private boolean useAndroidTestPurchased = true;
+
+    public GooglePlayBillingFacadeDebug(Context context, final BillingListener listener) {
+        super(context, null);
+        setBillingListener(new BillingListener() {
+            @Override
+            public void finishTransaction(String itemId, int billingStatus) {
+                listener.finishTransaction(getRealId(itemId), billingStatus);
+            }
+
+            @Override
+            public void finishTransaction(String itemId, int billingStatus, String orderId) {
+                listener.finishTransaction(getRealId(itemId), billingStatus, orderId );
+            }
+        });
+        useAndroidTestPurchased = context.getResources().getBoolean(R.bool.debugUseAndroidTestPurchased);
+        super.setDebugMode(true);
+    }
+
+    protected String getRealId(String fakeId) {
+        return realId;
+    }
+
+    protected String getTranslatedItemId(String realId) {
+        this.realId = realId;
+        if( useAndroidTestPurchased ) {
+            translatedItemId = "android.test.purchased";
+        } else {
+            translatedItemId = "debug_"+realId;
+        }
+        return translatedItemId;
+    }
+
+}

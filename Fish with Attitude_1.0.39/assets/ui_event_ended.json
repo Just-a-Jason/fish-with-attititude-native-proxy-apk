@@ -1,0 +1,202 @@
+{
+  "elements" : [
+    {
+      "name" : "",
+      "w" : 449.08,
+      "h" : 272,
+      "x" : 14.4,
+      "y" : 24,
+      "layer" : 72,
+      "type" : "Bitmap",
+      "children" : [
+        
+      ],
+      "texture" : "popup_bg_event_end.png"
+    },
+    {
+      "name" : "common_close_button",
+      "w" : 42.5,
+      "h" : 42.5,
+      "x" : 427.75,
+      "y" : 15.75,
+      "layer" : 72,
+      "type" : "BaseButton",
+      "children" : [
+        
+      ],
+      "texture" : "btn_close_1.png"
+    },
+    {
+      "name" : "event_alert_title_textfield",
+      "w" : 250,
+      "h" : 27.5,
+      "x" : 188.9,
+      "y" : 43.78,
+      "layer" : 72,
+      "type" : "BaseText",
+      "children" : [
+        
+      ],
+      "text" : "event_ended_event_alert_title_textfield",
+      "font" : "PumpkinJF",
+      "alignment" : "center",
+      "fontSize" : 25,
+      "color" : "0x434d66"
+    },
+    {
+      "name" : "event_alert_description_textfield",
+      "w" : 220,
+      "h" : 35.48,
+      "x" : 203.9,
+      "y" : 210,
+      "layer" : 72,
+      "type" : "BaseText",
+      "children" : [
+        
+      ],
+      "text" : "event_ended_event_alert_description_textfield",
+      "font" : "Arial Rounded MT Bold",
+      "alignment" : "center",
+      "fontSize" : 12,
+      "color" : "0x424c65"
+    },
+    {
+      "name" : "common_btn_2_small_button",
+      "w" : 99,
+      "h" : 31.4,
+      "x" : 264.4,
+      "y" : 249.8,
+      "layer" : 72,
+      "type" : "BaseButton",
+      "children" : [
+        
+      ],
+      "texture" : "btn_6_small.png"
+    },
+    {
+      "name" : "common_btn_label_textfield",
+      "w" : 100,
+      "h" : 22.13,
+      "x" : 263.9,
+      "y" : 253.45,
+      "layer" : 72,
+      "type" : "BaseText",
+      "children" : [
+        
+      ],
+      "text" : "event_ended_common_btn_label_textfield",
+      "font" : "Arial Rounded MT Bold",
+      "alignment" : "center",
+      "fontSize" : 20,
+      "color" : "0xffffff"
+    },
+    {
+      "name" : "prize_rank_icon_1_bitmap",
+      "w" : 115.15,
+      "h" : 129.03,
+      "x" : 94.5,
+      "y" : 227,
+      "layer" : 72,
+      "type" : "Bitmap",
+      "children" : [
+        
+      ],
+      "texture" : "event_rank_icon_1_big.png"
+    },
+    {
+      "name" : "prize_rank_icon_2_bitmap",
+      "w" : 115.23,
+      "h" : 129.03,
+      "x" : 94.5,
+      "y" : 227,
+      "layer" : 72,
+      "type" : "Bitmap",
+      "children" : [
+        
+      ],
+      "texture" : "event_rank_icon_2_big.png"
+    },
+    {
+      "name" : "prize_rank_icon_3_bitmap",
+      "w" : 115.2,
+      "h" : 129.03,
+      "x" : 94.5,
+      "y" : 227,
+      "layer" : 72,
+      "type" : "Bitmap",
+      "children" : [
+        
+      ],
+      "texture" : "event_rank_icon_3_big.png"
+    },
+    {
+      "name" : "prize_rank_icon_4_bitmap",
+      "w" : 128.05,
+      "h" : 143.38,
+      "x" : 94.5,
+      "y" : 227,
+      "layer" : 72,
+      "type" : "Bitmap",
+      "children" : [
+        
+      ],
+      "texture" : "event_rank_icon_4_big.png"
+    },
+    {
+      "name" : "prize_rank_icon_5_bitmap",
+      "w" : 140.73,
+      "h" : 157.73,
+      "x" : 94.5,
+      "y" : 227,
+      "layer" : 72,
+      "type" : "Bitmap",
+      "children" : [
+        
+      ],
+      "texture" : "event_rank_icon_5_big.png"
+    },
+    {
+      "name" : "prize_rank_icon_6_bitmap",
+      "w" : 141.95,
+      "h" : 157.73,
+      "x" : 94.5,
+      "y" : 227,
+      "layer" : 72,
+      "type" : "Bitmap",
+      "children" : [
+        
+      ],
+      "texture" : "event_rank_icon_6_big.png"
+    },
+    {
+      "name" : "",
+      "w" : 179.25,
+      "h" : 56.2,
+      "x" : 4.5,
+      "y" : 189.6,
+      "layer" : 72,
+      "type" : "Bitmap",
+      "children" : [
+        
+      ],
+      "texture" : "event_prize_ribbon.png"
+    },
+    {
+      "name" : "prize_rank_1_textfield",
+      "w" : 144.35,
+      "h" : 26.1,
+      "x" : 21.33,
+      "y" : 223,
+      "layer" : 72,
+      "type" : "BaseText",
+      "children" : [
+        
+      ],
+      "text" : "event_ended_prize_rank_1_textfield",
+      "font" : "Arial Rounded MT Bold",
+      "alignment" : "center",
+      "fontSize" : 15,
+      "color" : "0x3a4a56"
+    }
+  ]
+}

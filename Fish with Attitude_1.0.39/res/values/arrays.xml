@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wallpaper_settings_background_labels">
+        <item>Arch</item>
+        <item>Bamboo</item>
+        <item>Basic</item>
+    </string-array>
+    <string-array name="wallpaper_settings_background_values">
+        <item>BG_Wallpaper_Arch.png</item>
+        <item>BG_Wallpaper_Bamboo.png</item>
+        <item>BG_Wallpaper_Basic.png</item>
+    </string-array>
+    <string-array name="google_play_iap_bundles">
+        <item>pearl_bundle1</item>
+        <item>pearl_bundle2</item>
+        <item>pearl_bundle3</item>
+        <item>pearl_bundle4</item>
+        <item>pearl_bundle5</item>
+        <item>pearl_bundle6</item>
+        <item>coin_bundle1</item>
+        <item>coin_bundle2</item>
+        <item>coin_bundle3</item>
+        <item>coin_bundle4</item>
+        <item>coin_bundle5</item>
+        <item>coin_bundle6</item>
+    </string-array>
+    <string-array name="google_play_iap_titles">
+        <item>Pile of Pearls</item>
+        <item>Cluster of Pearls</item>
+        <item>Mound of Pearls</item>
+        <item>Bed of Pearls</item>
+        <item>Crate of Pearls</item>
+        <item>Chest of Pearls</item>
+        <item>Fin Full of coins</item>
+        <item>Bag of Coins</item>
+        <item>Pile of Coins</item>
+        <item>Crate of Coins</item>
+        <item>Chest of Coins</item>
+        <item>Trunk of Coins</item>
+    </string-array>
+    <string-array name="google_play_iap_descriptions">
+        <item>Pile of Pearls</item>
+        <item>Cluster of Pearls</item>
+        <item>Mound of Pearls</item>
+        <item>Bed of Pearls</item>
+        <item>Crate of Pearls</item>
+        <item>Chest of Pearls</item>
+        <item>Fin Full of coins</item>
+        <item>Bag of Coins</item>
+        <item>Pile of Coins</item>
+        <item>Crate of Coins</item>
+        <item>Chest of Coins</item>
+        <item>Trunk of Coins</item>
+    </string-array>
+    <string-array name="google_play_iap_prices">
+        <item>1.99</item>
+        <item>4.99</item>
+        <item>9.99</item>
+        <item>24.99</item>
+        <item>49.99</item>
+        <item>99.99</item>
+        <item>1.99</item>
+        <item>4.99</item>
+        <item>9.99</item>
+        <item>24.99</item>
+        <item>49.99</item>
+        <item>99.99</item>
+    </string-array>
+</resources>

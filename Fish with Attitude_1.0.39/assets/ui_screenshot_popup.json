@@ -1,0 +1,90 @@
+{
+  "elements" : [
+    {
+      "name" : "popup_bg_photo_ipad_bitmap",
+      "w" : 427.95,
+      "h" : 295.27,
+      "x" : 29.98,
+      "y" : -5.27,
+      "layer" : 33,
+      "type" : "Bitmap",
+      "children" : [
+        
+      ],
+      "texture" : "popup_bg_photo_ipad.png"
+    },
+    {
+      "name" : "common_btn_1_small_button",
+      "w" : 100.95,
+      "h" : 31.4,
+      "x" : 188.93,
+      "y" : 248.63,
+      "layer" : 33,
+      "type" : "BaseButton",
+      "children" : [
+        
+      ],
+      "texture" : "btn_1_small.png"
+    },
+    {
+      "name" : "common_btn_label_textfield",
+      "w" : 100,
+      "h" : 22.13,
+      "x" : 190,
+      "y" : 252.95,
+      "layer" : 33,
+      "type" : "BaseText",
+      "children" : [
+        
+      ],
+      "text" : "screenshot_common_btn_label_textfield",
+      "font" : "Arial Rounded MT Bold",
+      "alignment" : "center",
+      "fontSize" : 20,
+      "color" : "0xffffff"
+    },
+    {
+      "name" : "popup_description_textfield",
+      "w" : 296.1,
+      "h" : 43.25,
+      "x" : 91.95,
+      "y" : 202.83,
+      "layer" : 33,
+      "type" : "BaseText",
+      "children" : [
+        
+      ],
+      "text" : "screenshot_popup_description_textfield",
+      "font" : "Arial Rounded MT Bold",
+      "alignment" : "center",
+      "fontSize" : 14,
+      "color" : "0xffffff"
+    },
+    {
+      "name" : "common_close_button",
+      "w" : 42.5,
+      "h" : 42.5,
+      "x" : 419,
+      "y" : 18.52,
+      "layer" : 33,
+      "type" : "BaseButton",
+      "children" : [
+        
+      ],
+      "texture" : "btn_close_1.png"
+    },
+    {
+      "name" : "popup_img_ipad_placeholder",
+      "w" : 227.5,
+      "h" : 176.8,
+      "x" : 127.7,
+      "y" : 12.45,
+      "layer" : 33,
+      "type" : "Bitmap",
+      "children" : [
+        
+      ],
+      "texture" : "popup_bg_photo_ipad.png"
+    }
+  ]
+}

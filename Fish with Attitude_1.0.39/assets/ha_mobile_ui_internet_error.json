@@ -1,0 +1,71 @@
+{
+  "elements": [
+    {
+      "name": "popup_error_title_textfield",
+      "w": 252.98,
+      "h": 42.48,
+      "x": 115,
+      "y": 107,
+      "layer": 127,
+      "type": "BaseText",
+      "children": [],
+      "text": "internet_error_popup_error_title_textfield",
+      "font": "PumpkinJF",
+      "alignment": "center",
+      "fontSize": 20,
+      "color": "0xffffff"
+    },
+    {
+      "name": "popup_error_description_textfield",
+      "w": 266.98,
+      "h": 53.9,
+      "x": 106,
+      "y": 151,
+      "layer": 127,
+      "type": "BaseText",
+      "children": [],
+      "text": "internet_error_popup_error_description_textfield",
+      "font": "Arial Rounded MT Bold",
+      "alignment": "center",
+      "fontSize": 14,
+      "color": "0xffffff"
+    },
+    {
+      "name": "btn_label_textfield",
+      "w": 127.5,
+      "h": 25,
+      "x": 173.75,
+      "y": 211,
+      "layer": 127,
+      "type": "BaseText",
+      "children": [],
+      "text": "internet_error_btn_label_textfield",
+      "font": "Arial Rounded MT Bold",
+      "alignment": "center",
+      "fontSize": 16,
+      "color": "0xffffff"
+    },
+    {
+      "name": "common_btn_1_button",
+      "w": 129.1,
+      "h": 37,
+      "x": 174.45,
+      "y": 203.5,
+      "layer": 126,
+      "type": "BaseButton",
+      "children": [],
+      "texture": "btn_bg_1.png"
+    },
+    {
+      "name": "internet_error_bitmap",
+      "w": 363.85,
+      "h": 241.28,
+      "x": 27.85,
+      "y": 16.4,
+      "layer": 125,
+      "type": "Bitmap",
+      "children": [],
+      "texture": "popup_bg_internet.png"
+    }
+  ]
+}

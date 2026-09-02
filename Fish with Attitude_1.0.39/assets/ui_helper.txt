@@ -1,0 +1,1 @@
+If-Else stub:EVENT_PROGRESS_ICON_1,EVENT_PROGRESS_ICON_2,EVENT_PROGRESS_FOOTER,EVENT_INSET_1,"event_progress_icon_1.png",//EVENT_PROGRESS_ICON_1"event_progress_icon_2.png",//EVENT_PROGRESS_ICON_2"event_progress_footer.png",//EVENT_PROGRESS_FOOTER"event_inset_1.png",//EVENT_INSET_1
