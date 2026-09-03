@@ -12,8 +12,8 @@ jni = "0.21.1"
 libc = "0.2.189"
 
 [profile.release]
-lto=true
+lto = true
 codegen-units = 1
-strip=true
+strip = true
 panic = "abort"
 opt-level = 3
