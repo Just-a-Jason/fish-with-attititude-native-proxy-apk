@@ -6,6 +6,9 @@ use std::{
     ptr,
     sync::Once,
 };
+use tracing::{error, info};
+use tracing_subscriber::layer::SubscriberExt;
+use tracing_subscriber::Registry;
 
 const REAL_LIB: &[u8] = b"libgame_real.so\0";
 const NATIVE_APP_INIT: &[u8] = b"Java_com_crowdstar_aquarium_Aquarium_nativeAppInitJNI\0";
@@ -29,6 +32,7 @@ const NATIVE_TOUCHES_MOVE: &[u8] = b"Java_org_cocos2dx_lib_Cocos2dxRenderer_nati
 const NATIVE_INIT_BITMAP_DC_BITMAP: &[u8] =
     b"Java_org_cocos2dx_lib_Cocos2dxBitmap_nativeInitBitmapDC\0";
 
+static INIT_LOGGER: Once = Once::new();
 static LOAD_REAL: Once = Once::new();
 static mut REAL_GAME: *mut c_void = ptr::null_mut();
 static mut REAL_JNI_ON_LOAD_CALLED: bool = false;
@@ -47,9 +51,69 @@ type FnTouchSingle = unsafe extern "system" fn(*mut RawJNIEnv, jclass, jint, jfl
 type FnTouchArray =
     unsafe extern "system" fn(*mut RawJNIEnv, jclass, jintArray, jfloatArray, jfloatArray, jlong);
 
+const INTERNET_ERROR_POPUP_OFFSET: usize = 0x004e10ac;
+
+/// Inicjalizacja subskrybenta `tracing` kierującego logi do Android Logcat
+fn init_tracing() {
+    INIT_LOGGER.call_once(|| {
+        let android_layer = tracing_android::layer("ProxyHook")
+            .expect("Nie udało się utworzyć tracing-android layer");
+        let subscriber = Registry::default().with(android_layer);
+        tracing::subscriber::set_global_default(subscriber)
+            .expect("Nie udało się ustawić globalnego subskrybenta tracing");
+    });
+}
+
+pub unsafe fn patch_internet_error_popup(real_game_handle: *mut c_void) {
+    if real_game_handle.is_null() {
+        error!("[Patch] Błąd: real_game_handle jest NULL!");
+        return;
+    }
+
+    let known_symbol = libc::dlsym(
+        real_game_handle,
+        NATIVE_APP_INIT.as_ptr() as *const libc::c_char,
+    );
+    if known_symbol.is_null() {
+        error!("[Patch] Nie udało się pobrać adresu symbolu pomocniczego!");
+        return;
+    }
+
+    let native_app_init_offset: usize = 0x004dc4f7;
+    let base_addr = (known_symbol as usize) - native_app_init_offset;
+    let target_addr = (base_addr + INTERNET_ERROR_POPUP_OFFSET) as *mut u8;
+
+    info!("[Patch] Adres bazowy: 0x{:x}", base_addr);
+    info!("[Patch] Patchowanie pod adresem: {:p}", target_addr);
+
+    let page_size = libc::sysconf(libc::_SC_PAGESIZE) as usize;
+    let page_start = (target_addr as usize) & !(page_size - 1);
+
+    if libc::mprotect(
+        page_start as *mut c_void,
+        page_size,
+        libc::PROT_READ | libc::PROT_WRITE | libc::PROT_EXEC,
+    ) == 0
+    {
+        // Instrukcja BX LR (0x4770) dla Thumb Mode
+        *target_addr = 0x70;
+        *(target_addr.add(1)) = 0x47;
+
+        info!("[Patch] Pomyślnie nadpisano InternetErrorPopup instrukcją 'BX LR'!");
+
+        libc::mprotect(
+            page_start as *mut c_void,
+            page_size,
+            libc::PROT_READ | libc::PROT_EXEC,
+        );
+    } else {
+        error!("[Patch] Błąd mprotect: nie udało się zmienić praw dostępu do pamięci!");
+    }
+}
+
 unsafe fn load_real_game(vm: *mut RawJavaVM, reserved: *mut c_void) -> *mut c_void {
     LOAD_REAL.call_once(|| {
-        println!("[Proxy] Ładowanie libgame_real.so...");
+        info!("[Proxy] Ładowanie libgame_real.so...");
 
         let handle = libc::dlopen(
             REAL_LIB.as_ptr() as *const c_char,
@@ -59,18 +123,18 @@ unsafe fn load_real_game(vm: *mut RawJavaVM, reserved: *mut c_void) -> *mut c_vo
         if handle.is_null() {
             let error = libc::dlerror();
             if !error.is_null() {
-                eprintln!(
+                error!(
                     "[Proxy] Błąd dlopen: {}",
                     CStr::from_ptr(error).to_string_lossy()
                 );
             } else {
-                eprintln!("[Proxy] Błąd dlopen: nieznany błąd");
+                error!("[Proxy] Błąd dlopen: nieznany błąd");
             }
             return;
         }
 
         REAL_GAME = handle;
-        println!(
+        info!(
             "[Proxy] libgame_real.so załadowane pod adresem {:p}",
             handle
         );
@@ -80,30 +144,32 @@ unsafe fn load_real_game(vm: *mut RawJavaVM, reserved: *mut c_void) -> *mut c_vo
         if on_load_symbol.is_null() {
             let error = libc::dlerror();
             if !error.is_null() {
-                eprintln!(
+                error!(
                     "[Proxy] Nie znaleziono JNI_OnLoad: {}",
                     CStr::from_ptr(error).to_string_lossy()
                 );
             } else {
-                eprintln!("[Proxy] Nie znaleziono oryginalnego JNI_OnLoad");
+                error!("[Proxy] Nie znaleziono oryginalnego JNI_OnLoad");
             }
             return;
         }
 
-        println!("[Proxy] Oryginalny JNI_OnLoad @ {:p}", on_load_symbol);
+        info!("[Proxy] Oryginalny JNI_OnLoad @ {:p}", on_load_symbol);
 
         let real_on_load: RealJNIOnLoad = std::mem::transmute(on_load_symbol);
 
-        println!("[Proxy] Wywoływanie oryginalnego JNI_OnLoad()...");
+        info!("[Proxy] Wywoływanie oryginalnego JNI_OnLoad()...");
         let version = real_on_load(vm, reserved);
-        println!("[Proxy] Oryginalny JNI_OnLoad() zwrócił: 0x{:x}", version);
+        info!("[Proxy] Oryginalny JNI_OnLoad() zwrócił: 0x{:x}", version);
 
         if version != JNI_VERSION_1_6 {
-            eprintln!("[Proxy] Oczekiwano innej wersji JNI: 0x{:x}", version);
+            error!("[Proxy] Oczekiwano innej wersji JNI: 0x{:x}", version);
         }
 
         REAL_JNI_ON_LOAD_CALLED = true;
-        println!("[Proxy] Inicjalizacja JNI_OnLoad zakończona sukcesem");
+        info!("[Proxy] Inicjalizacja JNI_OnLoad zakończona sukcesem");
+
+        patch_internet_error_popup(handle);
     });
 
     REAL_GAME
@@ -113,7 +179,7 @@ unsafe fn get_symbol(name: &[u8]) -> *mut c_void {
     let handle = REAL_GAME;
 
     if handle.is_null() {
-        eprintln!("[Proxy] Błąd: libgame_real.so nie została załadowana!");
+        error!("[Proxy] Błąd: libgame_real.so nie została załadowana!");
         return ptr::null_mut();
     }
 
@@ -122,13 +188,13 @@ unsafe fn get_symbol(name: &[u8]) -> *mut c_void {
     if symbol.is_null() {
         let error = libc::dlerror();
         if !error.is_null() {
-            eprintln!(
+            error!(
                 "[Proxy] Błąd dlsym({}): {}",
                 CStr::from_ptr(name.as_ptr() as *const c_char).to_string_lossy(),
                 CStr::from_ptr(error).to_string_lossy()
             );
         } else {
-            eprintln!("[Proxy] dlsym zwrócił NULL");
+            error!("[Proxy] dlsym zwrócił NULL");
         }
     }
 
@@ -137,14 +203,15 @@ unsafe fn get_symbol(name: &[u8]) -> *mut c_void {
 
 #[no_mangle]
 pub unsafe extern "system" fn JNI_OnLoad(vm: *mut RawJavaVM, reserved: *mut c_void) -> i32 {
-    println!("[Proxy] Wywołano JNI_OnLoad (JavaVM = {:p})", vm);
+    init_tracing();
+    info!("[Proxy] Wywołano JNI_OnLoad (JavaVM = {:p})", vm);
 
     let handle = load_real_game(vm, reserved);
 
     if handle.is_null() {
-        eprintln!("[Proxy] Nie udało się załadować libgame_real.so");
+        error!("[Proxy] Nie udało się załadować libgame_real.so");
     } else {
-        println!("[Proxy] Statut ładowania JNI: OK");
+        info!("[Proxy] Statut ładowania JNI: OK");
     }
 
     JNI_VERSION_1_6
@@ -155,7 +222,7 @@ pub unsafe extern "system" fn Java_com_crowdstar_aquarium_Aquarium_nativeAppInit
     env: *mut RawJNIEnv,
     class: jclass,
 ) {
-    println!(
+    info!(
         "[Proxy] Przechwycono nativeAppInitJNI() | env: {:p}, class: {:p}",
         env, class
     );
@@ -163,17 +230,13 @@ pub unsafe extern "system" fn Java_com_crowdstar_aquarium_Aquarium_nativeAppInit
     let symbol = get_symbol(NATIVE_APP_INIT);
 
     if symbol.is_null() {
-        eprintln!("[Proxy] Nie znaleziono symbolu nativeAppInitJNI!");
+        error!("[Proxy] Nie znaleziono symbolu nativeAppInitJNI!");
         return;
     }
 
-    println!(
-        "[Proxy] Przekazywanie wywołania do oryginału @ {:p}",
-        symbol
-    );
     let real_init: NativeAppInitJNI = std::mem::transmute(symbol);
     real_init(env, class);
-    println!("[Proxy] Oryginalne nativeAppInitJNI() zakończone");
+    info!("[Proxy] Oryginalne nativeAppInitJNI() zakończone");
 }
 
 #[no_mangle]
@@ -183,7 +246,7 @@ pub unsafe extern "system" fn Java_org_cocos2dx_lib_Cocos2dxRenderer_nativeInit(
     width: jint,
     height: jint,
 ) {
-    println!("[Proxy] nativeInit: width={}, height={}", width, height);
+    info!("[Proxy] nativeInit: width={}, height={}", width, height);
 
     let symbol = get_symbol(NATIVE_INIT);
     if !symbol.is_null() {
@@ -192,30 +255,36 @@ pub unsafe extern "system" fn Java_org_cocos2dx_lib_Cocos2dxRenderer_nativeInit(
     }
 }
 
+const NATIVE_CONNECTED_TO_INTARWEB: &[u8] =
+    b"Java_com_crowdstar_aquarium_Aquarium_nativeConnectedToIntarweb\0";
+type FnConnectedToIntarweb = unsafe extern "system" fn(*mut RawJNIEnv, jclass, jboolean);
+
+#[no_mangle]
+pub unsafe extern "system" fn Java_com_crowdstar_aquarium_Aquarium_nativeConnectedToIntarweb(
+    env: *mut RawJNIEnv,
+    class: jclass,
+    _is_connected: jboolean,
+) {
+    info!("[Proxy] Przechwycono nativeConnectedToIntarweb -> wymuszanie stanu ONLINE (true)");
+
+    let symbol = get_symbol(NATIVE_CONNECTED_TO_INTARWEB);
+    if !symbol.is_null() {
+        let real_fn: FnConnectedToIntarweb = std::mem::transmute(symbol);
+        real_fn(env, class, 1);
+    }
+}
+
 #[no_mangle]
 pub unsafe extern "system" fn Java_org_cocos2dx_lib_Cocos2dxRenderer_nativeOnResume(
     env: *mut RawJNIEnv,
     class: jclass,
 ) {
-    println!(
-        "[Proxy] Przechwycono nativeOnResume() | env: {:p}, class: {:p}",
-        env, class
-    );
-
+    info!("[Proxy] Przechwycono nativeOnResume()");
     let symbol = get_symbol(NATIVE_ON_RESUME);
-
-    if symbol.is_null() {
-        eprintln!("[Proxy] Nie znaleziono symbolu nativeOnResume!");
-        return;
+    if !symbol.is_null() {
+        let real_on_resume: NativeOnResume = std::mem::transmute(symbol);
+        real_on_resume(env, class);
     }
-
-    println!(
-        "[Proxy] Przekazywanie wywołania nativeOnResume do oryginału @ {:p}",
-        symbol
-    );
-    let real_on_resume: NativeOnResume = std::mem::transmute(symbol);
-    real_on_resume(env, class);
-    println!("[Proxy] Oryginalne nativeOnResume() zakończone");
 }
 
 #[no_mangle]
@@ -224,25 +293,12 @@ pub unsafe extern "system" fn Java_org_cocos2dx_lib_Cocos2dxActivity_nativeSetPa
     class: jclass,
     path: jstring,
 ) {
-    println!(
-        "[Proxy] Przechwycono nativeSetPaths() | env: {:p}, class: {:p}, path: {:p}",
-        env, class, path
-    );
-
+    info!("[Proxy] Przechwycono nativeSetPaths()");
     let symbol = get_symbol(NATIVE_SET_PATHS);
-
-    if symbol.is_null() {
-        eprintln!("[Proxy] Nie znaleziono symbolu nativeSetPaths!");
-        return;
+    if !symbol.is_null() {
+        let real_set_paths: NativeSetPaths = std::mem::transmute(symbol);
+        real_set_paths(env, class, path);
     }
-
-    println!(
-        "[Proxy] Przekazywanie wywołania do oryginału @ {:p}",
-        symbol
-    );
-    let real_set_paths: NativeSetPaths = std::mem::transmute(symbol);
-    real_set_paths(env, class, path);
-    println!("[Proxy] Oryginalne nativeSetPaths() zakończone");
 }
 
 #[no_mangle]
