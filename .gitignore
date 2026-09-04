@@ -4,7 +4,8 @@ build/
 
 # Local configuration file (sdk path, etc)
 local.properties
-
+Jdk
+Apktool
 # Log/OS Files
 *.log
 dist

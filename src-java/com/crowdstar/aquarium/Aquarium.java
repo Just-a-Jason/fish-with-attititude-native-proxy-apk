@@ -36,9 +36,6 @@ import org.cocos2dx.lib.Cocos2dxActivity;
 import org.cocos2dx.lib.Cocos2dxEditText;
 import org.cocos2dx.lib.Cocos2dxGLSurfaceView;
 
-// Custom classes
-// import com.just_a_jason.welcomer.Welcomer;
-
 public class Aquarium extends Cocos2dxActivity {
 
     private static final String AD_BREED = "Breed";
@@ -320,8 +317,6 @@ public class Aquarium extends Cocos2dxActivity {
 
         INSTANCE = this;
 
-        // Show player who modded the game (Custom Class)
-        // Welcomer.welcomeNewPlayer(this);
         Cocos2dxActivity.playBackgroundMusic("Sounds/bg-music.wav", true);
 
         this.handler = new Handler();
@@ -341,7 +336,7 @@ public class Aquarium extends Cocos2dxActivity {
         );
 
         nativeAppInitJNI();
-        // nativeConnectedToIntarweb(true);
+        nativeConnectedToIntarweb(true);
 
         IntentFilter intentFilter = new IntentFilter();
         intentFilter.addAction("android.intent.action.SCREEN_ON");

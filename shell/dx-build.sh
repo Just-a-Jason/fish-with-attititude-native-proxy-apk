@@ -1,10 +1,9 @@
+#!/bin/bash
+cd "$(dirname "$0")/.."
 
 mkdir -p ./dist/classes/
 
-
-ANDROID_JAR="./Sdk/android-6.jar" 
-
-
+ANDROID_JAR="./Sdk/android-6.jar"
 SOURCE_FILES=$(find src-java -name "*.java" -print)
 
 /usr/lib/jvm/java-8-openjdk-amd64/bin/javac \
