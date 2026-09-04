@@ -1,8 +1,8 @@
-# A repository containing all the source and patch proxy library of fish-with-attititude game.
-
-It might help others bring it back to life.
+# Fish With Attitude Native Proxy
 
 ![logo](images/logo.png)
+
+It might help others bring it back to life by invoking native code via proxy and by memory patching.
 
 ## How to compile it?
 
