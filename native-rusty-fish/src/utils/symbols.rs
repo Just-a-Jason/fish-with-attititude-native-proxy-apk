@@ -5,10 +5,10 @@ use std::{
 
 use tracing::error;
 
-use crate::handlers::REAL_GAME;
+use crate::handlers::GAME_LIB_HANDLE;
 
 pub(crate) unsafe fn get_symbol(name: &[u8]) -> *mut c_void {
-    let handle = REAL_GAME;
+    let handle = GAME_LIB_HANDLE;
 
     if handle.is_null() {
         error!("[Proxy] Błąd: libgame_real.so nie została załadowana!");

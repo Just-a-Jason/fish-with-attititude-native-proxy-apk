@@ -225,6 +225,29 @@ public class Aquarium extends Cocos2dxActivity {
 
     public static native void nativeConnectedToIntarweb(boolean paramBoolean);
 
+    // Rust proxy version
+    private static native String getProxyVersion();
+
+    // Default alert dialog for Rust proxy version
+    private static void showRustProxyAlert(Context context) {
+        AlertDialog.Builder builder = new AlertDialog.Builder(context);
+
+        // Native hook
+        String proxyVersion = getProxyVersion();
+
+        String message =
+            "Rusty fish proxy version: " +
+            proxyVersion +
+            "\n" +
+            "Edit java-src or patch symbols with native library then recompile it to see the changes.";
+
+        builder
+            .setTitle("Successfully compiled!")
+            .setMessage(message)
+            .setPositiveButton("OK", null)
+            .show();
+    }
+
     private native void nativeResync();
 
     private void resumeMusic() {
@@ -316,6 +339,8 @@ public class Aquarium extends Cocos2dxActivity {
         super.onCreate(paramBundle);
 
         INSTANCE = this;
+
+        showRustProxyAlert(this);
 
         Cocos2dxActivity.playBackgroundMusic("Sounds/bg-music.wav", true);
 

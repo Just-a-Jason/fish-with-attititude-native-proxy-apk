@@ -4,7 +4,7 @@ use jni::sys::{JavaVM as RawJavaVM, JNI_VERSION_1_6};
 use tracing::{error, info};
 
 use crate::{
-    handlers::REAL_GAME,
+    handlers::GAME_LIB_HANDLE,
     init::{LOAD_REAL, REAL_JNI_ON_LOAD_CALLED},
     strings::ORG_LIB_NAME,
     symbols::{types::RealJNIOnLoad, REAL_JNI_ON_LOAD},
@@ -29,7 +29,7 @@ pub(crate) unsafe fn load_real_game(vm: *mut RawJavaVM, reserved: *mut c_void) -
             return;
         }
 
-        REAL_GAME = handle;
+        GAME_LIB_HANDLE = handle;
         info!(
             "libgame_real.so successfully loaded at address: {:p}",
             handle
@@ -66,5 +66,5 @@ pub(crate) unsafe fn load_real_game(vm: *mut RawJavaVM, reserved: *mut c_void) -
         // patch_internet_error_popup(handle);
     });
 
-    REAL_GAME
+    GAME_LIB_HANDLE
 }

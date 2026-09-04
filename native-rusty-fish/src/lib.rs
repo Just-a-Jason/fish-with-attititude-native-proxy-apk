@@ -12,9 +12,11 @@ use symbols::types::*;
 use jni::sys::jbyteArray;
 use jni::sys::{jboolean, jfloat, jfloatArray, jintArray, jlong};
 use jni::sys::{jclass, jint, jstring, JNIEnv as RawJNIEnv, JavaVM as RawJavaVM, JNI_VERSION_1_6};
+use std::ffi::c_char;
 use std::{ffi::c_void, ptr};
 use tracing::{error, info};
 
+use crate::strings::PROXY_LIB_VERSION;
 use crate::symbols::*;
 use crate::utils::get_symbol;
 
@@ -31,29 +33,53 @@ pub unsafe extern "system" fn JNI_OnLoad(vm: *mut RawJavaVM, reserved: *mut c_vo
         info!("[Proxy] JNI STATUS: OK");
     }
 
+    info!(
+        "[Proxy] Proxy (rusty_fish) successfully loaded. Proxy version: {}",
+        PROXY_LIB_VERSION
+    );
+
     JNI_VERSION_1_6
 }
 
 #[no_mangle]
-pub unsafe extern "system" fn Java_com_crowdstar_aquarium_Aquarium_nativeAppInitJNI(
+pub unsafe extern "system" fn Java_com_crowdstar_aquarium_Aquarium_getProxyVersion(
+    env: jni::JNIEnv,
+    _class: jclass,
+) -> jstring {
+    info!("[Proxy] getProxyVersion() called");
+
+    env.new_string(PROXY_LIB_VERSION)
+        .expect("Couldn't create java string!")
+        .into_raw()
+}
+
+#[no_mangle]
+pub unsafe extern "C" fn Java_com_crowdstar_aquarium_Aquarium_nativeAppInitJNI(
     env: *mut RawJNIEnv,
-    class: jclass,
-) {
+    path: *const c_char,
+) -> u64 {
     info!(
-        "[Proxy] Hooked fn nativeAppInitJNI | env: {:p}, class: {:p}",
-        env, class
+        "[Proxy] Hooked fn nativeAppInitJNI | env: {:p}, path: {:p}",
+        env, path
     );
 
     let symbol = get_symbol(NATIVE_APP_INIT);
 
     if symbol.is_null() {
         error!("[Proxy] Error: symbol nativeAppInitJNI was not found!");
-        return;
+        return 0;
     }
 
     let real_init: NativeAppInitJNI = std::mem::transmute(symbol);
-    // Invoke the real init function
-    real_init(env, class);
+
+    let result = real_init(env, path);
+
+    info!(
+        "[Proxy] nativeAppInitJNI executed successfully with result: {:#x}",
+        result
+    );
+
+    result
 }
 
 #[no_mangle]
@@ -76,9 +102,9 @@ pub unsafe extern "system" fn Java_org_cocos2dx_lib_Cocos2dxRenderer_nativeInit(
 pub unsafe extern "system" fn Java_com_crowdstar_aquarium_Aquarium_nativeConnectedToIntarweb(
     env: *mut RawJNIEnv,
     class: jclass,
-    _is_connected: jboolean,
+    _is_connected: jint,
 ) {
-    info!("[Proxy] Hooked fn nativeConnectedToIntarweb forcing -> Online");
+    info!("[Proxy] Hooked fn nativeConnectedToIntarweb forcing -> Online (1)");
 
     let symbol = get_symbol(NATIVE_CONNECTED_TO_INTARWEB);
     if !symbol.is_null() {
